@@ -1,12 +1,16 @@
 #!/bin/bash
 
+mkdir json
 curl -X GET -H "Accept:application/json" http://localhost:3000/comps | jq > json/comps.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/nominals | jq > json/nominals.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/pilots | jq > json/pilots.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/tasks | jq > json/tasks.json
+
+mkdir json/gap-point
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/allocation | jq > json/gap-point/allocation.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/validity | jq > json/gap-point/validity.json
 
+mkdir json/task-length
 for t in {1..8}
     do
         mkdir json/gap-point/$t
