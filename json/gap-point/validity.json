@@ -1,20 +1,50 @@
 [
   {
     "time": 1,
-    "launch": 0.981,
-    "distance": 0.343,
-    "task": 0.336
+    "launch": 1,
+    "distance": 0.646,
+    "task": 0.645
   },
   {
     "time": 1,
-    "launch": 0.993,
+    "launch": 1,
     "distance": 1,
-    "task": 0.993
+    "task": 1
   },
   {
     "time": 1,
-    "launch": 0.991,
+    "launch": 0.999,
     "distance": 1,
-    "task": 0.991
+    "task": 0.999
+  },
+  {
+    "time": 1,
+    "launch": 0.999,
+    "distance": 1,
+    "task": 0.999
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 0.988,
+    "distance": 1,
+    "task": 0.988
   }
 ]
