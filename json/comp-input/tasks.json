@@ -7,31 +7,41 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "10000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "9950.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.85373,
           "zoneName": "PINEY",
-          "lng": 147.94195
+          "lng": 147.94195,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.4397,
           "zoneName": "EUGOWR",
-          "lng": 148.34533
+          "lng": 148.34533,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.61965,
           "zoneName": "GOALD1",
-          "lng": 148.4099
+          "lng": 148.4099,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -118,31 +128,41 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "5000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "4975.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.90223,
           "zoneName": "MINES",
-          "lng": 147.98492
+          "lng": 147.98492,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.9536,
           "zoneName": "SKULLS",
-          "lng": 147.55457
+          "lng": 147.55457,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -233,31 +253,41 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "25000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "24875.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -34.02107,
           "zoneName": "TYAGON",
-          "lng": 148.2233
+          "lng": 148.2233,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -34.11795,
           "zoneName": "CROW",
-          "lng": 148.5013
+          "lng": 148.5013,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "1000.0 m",
           "lat": -34.82197,
           "zoneName": "BOOKHA",
-          "lng": 148.66543
+          "lng": 148.66543,
+          "give": "1005.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -352,25 +382,33 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "15000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "14925.0 m",
+          "alt": null
         },
         {
           "radius": "25000.0 m",
           "lat": -32.90223,
           "zoneName": "MINES",
-          "lng": 147.98492
+          "lng": 147.98492,
+          "give": "25125.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.46363,
           "zoneName": "GOALD4",
-          "lng": 148.989
+          "lng": 148.989,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -464,25 +502,33 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "15000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "14925.0 m",
+          "alt": null
         },
         {
           "radius": "5000.0 m",
           "lat": -32.56608,
           "zoneName": "TOMING",
-          "lng": 148.22657
+          "lng": 148.22657,
+          "give": "5025.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.0164,
           "zoneName": "DUNEDO",
-          "lng": 149.43363
+          "lng": 149.43363,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -564,25 +610,33 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "15000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "14925.0 m",
+          "alt": null
         },
         {
           "radius": "5000.0 m",
           "lat": -32.19498,
           "zoneName": "BUMF",
-          "lng": 147.76218
+          "lng": 147.76218,
+          "give": "5025.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -31.69323,
           "zoneName": "GOALD6",
-          "lng": 148.29623
+          "lng": 148.29623,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -664,31 +718,41 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "10000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "9950.0 m",
+          "alt": null
         },
         {
           "radius": "5000.0 m",
           "lat": -32.9536,
           "zoneName": "SKULLS",
-          "lng": 147.55457
+          "lng": 147.55457,
+          "give": "5025.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.76052,
           "zoneName": "YEOVAL",
-          "lng": 148.64958
+          "lng": 148.64958,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -32.93585,
           "zoneName": "DAY7GO",
-          "lng": 148.74947
+          "lng": 148.74947,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
@@ -787,31 +851,41 @@
           "radius": "100.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "99.5 m",
+          "alt": null
         },
         {
           "radius": "10000.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
-          "lng": 147.93207
+          "lng": 147.93207,
+          "give": "9950.0 m",
+          "alt": null
         },
         {
           "radius": "5000.0 m",
           "lat": -33.75343,
           "zoneName": "MARSDE",
-          "lng": 147.52865
+          "lng": 147.52865,
+          "give": "5025.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.12908,
           "zoneName": "YARRAB",
-          "lng": 147.57323
+          "lng": 147.57323,
+          "give": "402.0 m",
+          "alt": null
         },
         {
           "radius": "400.0 m",
           "lat": -33.361,
           "zoneName": "DAY8GO",
-          "lng": 147.9315
+          "lng": 147.9315,
+          "give": "402.0 m",
+          "alt": null
         }
       ],
       "raceKind": {
