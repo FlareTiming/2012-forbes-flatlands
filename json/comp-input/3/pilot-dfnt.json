@@ -1,22 +1,77 @@
 [
-  [
-    "101",
-    "Andrew Luton "
-  ],
-  [
-    "78",
-    "Christine Aichner"
-  ],
-  [
-    "19",
-    "Mikhail Karmazin"
-  ],
-  [
-    "89",
-    "Scott Barrett"
-  ],
-  [
-    "42",
-    "Suan Selenati"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 1.000005439039248,
+      "awardedMade": "183.857000 km",
+      "awardedTask": "183.856000 km"
+    },
+    "pilot": [
+      "101",
+      "Andrew Luton "
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-07T07:13:42Z",
+      "ss": "2012-01-07T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 1.000005439039248,
+      "awardedMade": "183.857000 km",
+      "awardedTask": "183.856000 km"
+    },
+    "pilot": [
+      "78",
+      "Christine Aichner"
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-07T07:18:42Z",
+      "ss": "2012-01-07T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 1.000005439039248,
+      "awardedMade": "183.857000 km",
+      "awardedTask": "183.856000 km"
+    },
+    "pilot": [
+      "19",
+      "Mikhail Karmazin"
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-07T07:17:38Z",
+      "ss": "2012-01-07T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 1.000005439039248,
+      "awardedMade": "183.857000 km",
+      "awardedTask": "183.856000 km"
+    },
+    "pilot": [
+      "89",
+      "Scott Barrett"
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-07T07:19:49Z",
+      "ss": "2012-01-07T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "183.856000 km"
+    },
+    "pilot": [
+      "42",
+      "Suan Selenati"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

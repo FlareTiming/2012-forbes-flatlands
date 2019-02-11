@@ -1,6 +1,17 @@
 [
-  [
-    "91",
-    "Francesco Rinaldi"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "201.821000 km"
+    },
+    "pilot": [
+      "91",
+      "Francesco Rinaldi"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

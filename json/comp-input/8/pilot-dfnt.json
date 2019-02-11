@@ -1,34 +1,122 @@
 [
-  [
-    "58",
-    "Anna Belova"
-  ],
-  [
-    "95",
-    "Anton Struganov"
-  ],
-  [
-    "41",
-    "Curt Warren"
-  ],
-  [
-    "28",
-    "Evgeniya Laritskaya"
-  ],
-  [
-    "30",
-    "Fredy Bircher"
-  ],
-  [
-    "64",
-    "Gustavo Carvalho"
-  ],
-  [
-    "32",
-    "Kathryn O'Riordan"
-  ],
-  [
-    "22",
-    "Mark Russell"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0.07554439177321573,
+      "awardedMade": "12.000000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "58",
+      "Anna Belova"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 1.0000062953659812,
+      "awardedMade": "158.848000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "95",
+      "Anton Struganov"
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-14T08:03:14Z",
+      "ss": "2012-01-14T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 1.0000062953659812,
+      "awardedMade": "158.848000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "41",
+      "Curt Warren"
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-14T07:56:52Z",
+      "ss": "2012-01-14T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "28",
+      "Evgeniya Laritskaya"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.9947937323336292,
+      "awardedMade": "158.020000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "30",
+      "Fredy Bircher"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2012-01-14T03:31:04Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "64",
+      "Gustavo Carvalho"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "32",
+      "Kathryn O'Riordan"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.3273590310172682,
+      "awardedMade": "52.000000 km",
+      "awardedTask": "158.847000 km"
+    },
+    "pilot": [
+      "22",
+      "Mark Russell"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

@@ -1,10 +1,32 @@
 [
-  [
-    "53",
-    "Hadewych van Kempen"
-  ],
-  [
-    "40",
-    "Phil de Joux"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "217.388000 km"
+    },
+    "pilot": [
+      "53",
+      "Hadewych van Kempen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "217.388000 km"
+    },
+    "pilot": [
+      "40",
+      "Phil de Joux"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

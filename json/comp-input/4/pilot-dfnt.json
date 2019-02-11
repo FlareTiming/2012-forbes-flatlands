@@ -1,22 +1,77 @@
 [
-  [
-    "67",
-    "Andy Phillips "
-  ],
-  [
-    "28",
-    "Evgeniya Laritskaya"
-  ],
-  [
-    "57",
-    "Julia Kucherenko"
-  ],
-  [
-    "88",
-    "Martin Sielaff"
-  ],
-  [
-    "103",
-    "Roberto Nichele"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 1.0000069429979865,
+      "awardedMade": "144.031000 km",
+      "awardedTask": "144.030000 km"
+    },
+    "pilot": [
+      "67",
+      "Andy Phillips "
+    ],
+    "awardedVelocity": {
+      "es": "2012-01-09T06:57:06Z",
+      "ss": "2012-01-09T04:00:00Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "144.030000 km"
+    },
+    "pilot": [
+      "28",
+      "Evgeniya Laritskaya"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "144.030000 km"
+    },
+    "pilot": [
+      "57",
+      "Julia Kucherenko"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "144.030000 km"
+    },
+    "pilot": [
+      "88",
+      "Martin Sielaff"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "144.030000 km"
+    },
+    "pilot": [
+      "103",
+      "Roberto Nichele"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

@@ -107,7 +107,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2012-01-05T09:00:00Z",
@@ -223,7 +223,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2012-01-06T09:00:00Z",
@@ -339,7 +339,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [
+    "penals": [
       [
         [
           "67",
@@ -349,7 +349,8 @@
           {
             "penalty-points": 0.16
           }
-        ]
+        ],
+        "CTAF infringement of 218m"
       ],
       [
         [
@@ -360,7 +361,8 @@
           {
             "penalty-points": 0.13
           }
-        ]
+        ],
+        "CTAF infringement of 201m"
       ]
     ],
     "zoneTimes": [
@@ -461,7 +463,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [
+    "penals": [
       [
         [
           "76",
@@ -471,14 +473,8 @@
           {
             "penalty-fraction": 0.1
           }
-        ]
-      ],
-      [
-        [
-          "77",
-          "Len Paton"
         ],
-        []
+        "Restricted Airspace infringement > 100m"
       ],
       [
         [
@@ -489,14 +485,8 @@
           {
             "penalty-points": 0.09
           }
-        ]
-      ],
-      [
-        [
-          "43",
-          "Les Bestt"
         ],
-        []
+        "CTAF infringement of 177m"
       ],
       [
         [
@@ -507,7 +497,8 @@
           {
             "penalty-fraction": 0.1
           }
-        ]
+        ],
+        "Restricted Airspace infringement > 100m"
       ]
     ],
     "zoneTimes": [
@@ -608,7 +599,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [
+    "penals": [
       [
         [
           "76",
@@ -618,7 +609,8 @@
           {
             "penalty-fraction": 0.1
           }
-        ]
+        ],
+        "Restricted Airspace infringement > 100m"
       ],
       [
         [
@@ -629,7 +621,8 @@
           {
             "penalty-points": 0.43
           }
-        ]
+        ],
+        "CTAF infringment of 302m"
       ]
     ],
     "zoneTimes": [
@@ -730,7 +723,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [
+    "penals": [
       [
         [
           "96",
@@ -740,7 +733,8 @@
           {
             "penalty-points": 6
           }
-        ]
+        ],
+        "Jump the gun adjustment"
       ]
     ],
     "zoneTimes": [
@@ -858,7 +852,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2012-01-13T09:00:00Z",
@@ -974,7 +968,7 @@
       "leadingWeightScaling": null
     },
     "startGates": [],
-    "penalties": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2012-01-14T09:00:00Z",

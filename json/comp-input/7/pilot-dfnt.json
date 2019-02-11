@@ -1,14 +1,47 @@
 [
-  [
-    "62",
-    "Enda Murphy"
-  ],
-  [
-    "28",
-    "Evgeniya Laritskaya"
-  ],
-  [
-    "47",
-    "Miguel De Jong "
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "174.524000 km"
+    },
+    "pilot": [
+      "62",
+      "Enda Murphy"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "174.524000 km"
+    },
+    "pilot": [
+      "28",
+      "Evgeniya Laritskaya"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "174.524000 km"
+    },
+    "pilot": [
+      "47",
+      "Miguel De Jong "
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

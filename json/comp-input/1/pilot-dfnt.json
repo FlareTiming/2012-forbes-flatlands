@@ -1,14 +1,47 @@
 [
-  [
-    "58",
-    "Anna Belova"
-  ],
-  [
-    "79",
-    "David Stevens"
-  ],
-  [
-    "52",
-    "Virpi Nieminen"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "133.356000 km"
+    },
+    "pilot": [
+      "58",
+      "Anna Belova"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "133.356000 km"
+    },
+    "pilot": [
+      "79",
+      "David Stevens"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "133.356000 km"
+    },
+    "pilot": [
+      "52",
+      "Virpi Nieminen"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]
