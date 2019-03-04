@@ -1,0 +1,942 @@
+[
+  [
+    [
+      "71",
+      "Edoardo Giudiceandrea"
+    ],
+    {
+      "frac": 1,
+      "effort": "123.951000 km"
+    }
+  ],
+  [
+    [
+      "41",
+      "Curt Warren"
+    ],
+    {
+      "frac": 0.99734042,
+      "effort": "123.858000 km"
+    }
+  ],
+  [
+    [
+      "61",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.99202128,
+      "effort": "117.456000 km"
+    }
+  ],
+  [
+    [
+      "8",
+      "Primoz Gricar"
+    ],
+    {
+      "frac": 0.9893617,
+      "effort": "112.340000 km"
+    }
+  ],
+  [
+    [
+      "60",
+      "Rohan Holtkamp"
+    ],
+    {
+      "frac": 0.98670212,
+      "effort": "108.450000 km"
+    }
+  ],
+  [
+    [
+      "36",
+      "Franz Herrmann"
+    ],
+    {
+      "frac": 0.98138298,
+      "effort": "102.790000 km"
+    }
+  ],
+  [
+    [
+      "1",
+      "Lukas Bader"
+    ],
+    {
+      "frac": 0.9787234,
+      "effort": "88.067000 km"
+    }
+  ],
+  [
+    [
+      "93",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.97606382,
+      "effort": "87.605000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Jean Souviron "
+    ],
+    {
+      "frac": 0.97074468,
+      "effort": "86.855000 km"
+    }
+  ],
+  [
+    [
+      "56",
+      "Cameron Tunbridge"
+    ],
+    {
+      "frac": 0.96276596,
+      "effort": "82.120000 km"
+    }
+  ],
+  [
+    [
+      "89",
+      "Scott Barrett"
+    ],
+    {
+      "frac": 0.96010638,
+      "effort": "80.989000 km"
+    }
+  ],
+  [
+    [
+      "85",
+      "Neil Petersen"
+    ],
+    {
+      "frac": 0.95478724,
+      "effort": "80.287000 km"
+    }
+  ],
+  [
+    [
+      "26",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.94680852,
+      "effort": "80.187000 km"
+    }
+  ],
+  [
+    [
+      "11",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 0.93617022,
+      "effort": "72.471000 km"
+    }
+  ],
+  [
+    [
+      "12",
+      "Glen Mcfarlane"
+    ],
+    {
+      "frac": 0.93351064,
+      "effort": "72.135000 km"
+    }
+  ],
+  [
+    [
+      "95",
+      "Anton Struganov"
+    ],
+    {
+      "frac": 0.92819148,
+      "effort": "60.792000 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "frac": 0.92553192,
+      "effort": "54.475000 km"
+    }
+  ],
+  [
+    [
+      "30",
+      "Fredy Bircher"
+    ],
+    {
+      "frac": 0.92287234,
+      "effort": "54.016000 km"
+    }
+  ],
+  [
+    [
+      "84",
+      "Yasuhiro Noma"
+    ],
+    {
+      "frac": 0.9175532,
+      "effort": "53.102000 km"
+    }
+  ],
+  [
+    [
+      "42",
+      "Suan Selenati"
+    ],
+    {
+      "frac": 0.90957446,
+      "effort": "49.894000 km"
+    }
+  ],
+  [
+    [
+      "77",
+      "Len Paton"
+    ],
+    {
+      "frac": 0.90425532,
+      "effort": "48.120000 km"
+    }
+  ],
+  [
+    [
+      "90",
+      "Adam Stevens"
+    ],
+    {
+      "frac": 0.89893618,
+      "effort": "46.342000 km"
+    }
+  ],
+  [
+    [
+      "49",
+      "Tony Giammichele"
+    ],
+    {
+      "frac": 0.89095744,
+      "effort": "45.772000 km"
+    }
+  ],
+  [
+    [
+      "66",
+      "Jonas Lobitz"
+    ],
+    {
+      "frac": 0.88297872,
+      "effort": "43.682000 km"
+    }
+  ],
+  [
+    [
+      "92",
+      "Hans Kiefinger"
+    ],
+    {
+      "frac": 0.875,
+      "effort": "42.859000 km"
+    }
+  ],
+  [
+    [
+      "70",
+      "Matthew Barlow"
+    ],
+    {
+      "frac": 0.8643617,
+      "effort": "40.560000 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Davide Guiducci"
+    ],
+    {
+      "frac": 0.85638298,
+      "effort": "40.313000 km"
+    }
+  ],
+  [
+    [
+      "75",
+      "Joerg Bajewski"
+    ],
+    {
+      "frac": 0.84574468,
+      "effort": "40.286000 km"
+    }
+  ],
+  [
+    [
+      "25",
+      "Nick Purcell"
+    ],
+    {
+      "frac": 0.8324468,
+      "effort": "39.717000 km"
+    }
+  ],
+  [
+    [
+      "81",
+      "Valentino Bau"
+    ],
+    {
+      "frac": 0.8324468,
+      "effort": "39.761000 km"
+    }
+  ],
+  [
+    [
+      "99",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.81648936,
+      "effort": "39.164000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Artur Dzamikhov"
+    ],
+    {
+      "frac": 0.80053192,
+      "effort": "38.959000 km"
+    }
+  ],
+  [
+    [
+      "48",
+      "Paolo Rosichetti"
+    ],
+    {
+      "frac": 0.7819149,
+      "effort": "38.502000 km"
+    }
+  ],
+  [
+    [
+      "7",
+      "Shaun O'neill"
+    ],
+    {
+      "frac": 0.76329788,
+      "effort": "38.401000 km"
+    }
+  ],
+  [
+    [
+      "47",
+      "Miguel De Jong "
+    ],
+    {
+      "frac": 0.76329788,
+      "effort": "38.481000 km"
+    }
+  ],
+  [
+    [
+      "65",
+      "Davis Straub"
+    ],
+    {
+      "frac": 0.76329788,
+      "effort": "38.491000 km"
+    }
+  ],
+  [
+    [
+      "43",
+      "Les Bestt"
+    ],
+    {
+      "frac": 0.76329788,
+      "effort": "38.495000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Olav Lien Olsen"
+    ],
+    {
+      "frac": 0.74202128,
+      "effort": "38.322000 km"
+    }
+  ],
+  [
+    [
+      "106",
+      "Adam Parer"
+    ],
+    {
+      "frac": 0.7180851,
+      "effort": "38.221000 km"
+    }
+  ],
+  [
+    [
+      "13",
+      "John Smith"
+    ],
+    {
+      "frac": 0.69148936,
+      "effort": "38.046000 km"
+    }
+  ],
+  [
+    [
+      "45",
+      "Roland Wöhrle"
+    ],
+    {
+      "frac": 0.66223404,
+      "effort": "37.976000 km"
+    }
+  ],
+  [
+    [
+      "68",
+      "Grant Heaney"
+    ],
+    {
+      "frac": 0.66223404,
+      "effort": "37.988000 km"
+    }
+  ],
+  [
+    [
+      "31",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.63031914,
+      "effort": "37.364000 km"
+    }
+  ],
+  [
+    [
+      "3",
+      "Rod Flockhart"
+    ],
+    {
+      "frac": 0.59574468,
+      "effort": "36.543000 km"
+    }
+  ],
+  [
+    [
+      "35",
+      "Carole Tobler"
+    ],
+    {
+      "frac": 0.55851064,
+      "effort": "35.610000 km"
+    }
+  ],
+  [
+    [
+      "103",
+      "Roberto Nichele"
+    ],
+    {
+      "frac": 0.52925532,
+      "effort": "35.581000 km"
+    }
+  ],
+  [
+    [
+      "100",
+      "Attila Bertok"
+    ],
+    {
+      "frac": 0.49734042,
+      "effort": "34.852000 km"
+    }
+  ],
+  [
+    [
+      "10",
+      "Marat Matnurov"
+    ],
+    {
+      "frac": 0.4680851,
+      "effort": "33.544000 km"
+    }
+  ],
+  [
+    [
+      "51",
+      "Rob In 't Groen"
+    ],
+    {
+      "frac": 0.45212766,
+      "effort": "32.199000 km"
+    }
+  ],
+  [
+    [
+      "18",
+      "Jürgen Pasker"
+    ],
+    {
+      "frac": 0.43882978,
+      "effort": "31.923000 km"
+    }
+  ],
+  [
+    [
+      "87",
+      "Corinna Schwiegershausen"
+    ],
+    {
+      "frac": 0.42287234,
+      "effort": "31.840000 km"
+    }
+  ],
+  [
+    [
+      "69",
+      "Jonathan Kinred"
+    ],
+    {
+      "frac": 0.40425532,
+      "effort": "31.794000 km"
+    }
+  ],
+  [
+    [
+      "73",
+      "Gijs Wanders"
+    ],
+    {
+      "frac": 0.38297872,
+      "effort": "30.111000 km"
+    }
+  ],
+  [
+    [
+      "24",
+      "Christian Baertschi"
+    ],
+    {
+      "frac": 0.36702128,
+      "effort": "29.299000 km"
+    }
+  ],
+  [
+    [
+      "33",
+      "Conrad Loten"
+    ],
+    {
+      "frac": 0.35106382,
+      "effort": "28.560000 km"
+    }
+  ],
+  [
+    [
+      "76",
+      "Dmitriy Korchenkov"
+    ],
+    {
+      "frac": 0.3324468,
+      "effort": "27.838000 km"
+    }
+  ],
+  [
+    [
+      "6",
+      "Phil Schroder"
+    ],
+    {
+      "frac": 0.31648936,
+      "effort": "27.266000 km"
+    }
+  ],
+  [
+    [
+      "64",
+      "Gustavo Carvalho"
+    ],
+    {
+      "frac": 0.30319148,
+      "effort": "26.568000 km"
+    }
+  ],
+  [
+    [
+      "94",
+      "Mitch Shipley"
+    ],
+    {
+      "frac": 0.28723404,
+      "effort": "26.484000 km"
+    }
+  ],
+  [
+    [
+      "96",
+      "Brodrick Osborne"
+    ],
+    {
+      "frac": 0.26861702,
+      "effort": "26.340000 km"
+    }
+  ],
+  [
+    [
+      "97",
+      "Konrad Schwab"
+    ],
+    {
+      "frac": 0.24734042,
+      "effort": "25.994000 km"
+    }
+  ],
+  [
+    [
+      "34",
+      "Jon snr Durand"
+    ],
+    {
+      "frac": 0.22606382,
+      "effort": "24.334000 km"
+    }
+  ],
+  [
+    [
+      "2",
+      "Pablo Gomes"
+    ],
+    {
+      "frac": 0.2074468,
+      "effort": "24.019000 km"
+    }
+  ],
+  [
+    [
+      "82",
+      "Alain Le-gac"
+    ],
+    {
+      "frac": 0.18617022,
+      "effort": "20.635000 km"
+    }
+  ],
+  [
+    [
+      "105",
+      "Chris Lawry"
+    ],
+    {
+      "frac": 0.17819148,
+      "effort": "18.174000 km"
+    }
+  ],
+  [
+    [
+      "5",
+      "Wolfgang Siess"
+    ],
+    {
+      "frac": 0.17287234,
+      "effort": "16.345000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Boris Marold "
+    ],
+    {
+      "frac": 0.1675532,
+      "effort": "16.289000 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Enda Murphy"
+    ],
+    {
+      "frac": 0.15957446,
+      "effort": "13.635000 km"
+    }
+  ],
+  [
+    [
+      "20",
+      "Luke Browne "
+    ],
+    {
+      "frac": 0.15159574,
+      "effort": "13.246000 km"
+    }
+  ],
+  [
+    [
+      "55",
+      "Kari Suhonen"
+    ],
+    {
+      "frac": 0.14095744,
+      "effort": "11.704000 km"
+    }
+  ],
+  [
+    [
+      "98",
+      "Patrick Collin"
+    ],
+    {
+      "frac": 0.13297872,
+      "effort": "11.326000 km"
+    }
+  ],
+  [
+    [
+      "22",
+      "Mark Russell"
+    ],
+    {
+      "frac": 0.13297872,
+      "effort": "11.339000 km"
+    }
+  ],
+  [
+    [
+      "83",
+      "Peter Dall"
+    ],
+    {
+      "frac": 0.12234042,
+      "effort": "10.378000 km"
+    }
+  ],
+  [
+    [
+      "29",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "frac": 0.10904256,
+      "effort": "10.107000 km"
+    }
+  ],
+  [
+    [
+      "67",
+      "Andy Phillips "
+    ],
+    {
+      "frac": 0.0930851,
+      "effort": "10.031000 km"
+    }
+  ],
+  [
+    [
+      "72",
+      "Tove Heaney"
+    ],
+    {
+      "frac": 0.07446808,
+      "effort": "8.636000 km"
+    }
+  ],
+  [
+    [
+      "57",
+      "Julia Kucherenko"
+    ],
+    {
+      "frac": 0.05851064,
+      "effort": "7.863000 km"
+    }
+  ],
+  [
+    [
+      "44",
+      "Francoise Dieuzeide-banet"
+    ],
+    {
+      "frac": 0.03989362,
+      "effort": "6.330000 km"
+    }
+  ],
+  [
+    [
+      "78",
+      "Christine Aichner"
+    ],
+    {
+      "frac": 0.02393618,
+      "effort": "5.689000 km"
+    }
+  ],
+  [
+    [
+      "46",
+      "Jonathon Foote"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "-5.219000 km"
+    }
+  ],
+  [
+    [
+      "17",
+      "John Urlich"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "-2.728000 km"
+    }
+  ],
+  [
+    [
+      "88",
+      "Martin Sielaff"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "-1.902000 km"
+    }
+  ],
+  [
+    [
+      "50",
+      "Monique Pavy"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "-0.011000 km"
+    }
+  ],
+  [
+    [
+      "28",
+      "Evgeniya Laritskaya"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "1.772000 km"
+    }
+  ],
+  [
+    [
+      "37",
+      "Peter Ebeling"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "1.810000 km"
+    }
+  ],
+  [
+    [
+      "19",
+      "Mikhail Karmazin"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.316000 km"
+    }
+  ],
+  [
+    [
+      "16",
+      "Grant Edward"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.489000 km"
+    }
+  ],
+  [
+    [
+      "21",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.907000 km"
+    }
+  ],
+  [
+    [
+      "53",
+      "Hadewych van Kempen"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.916000 km"
+    }
+  ],
+  [
+    [
+      "40",
+      "Phil de Joux"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.967000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Kathryn O'Riordan"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "4.984000 km"
+    }
+  ],
+  [
+    [
+      "52",
+      "Virpi Nieminen"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "79",
+      "David Stevens"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "5.000000 km"
+    }
+  ],
+  [
+    [
+      "58",
+      "Anna Belova"
+    ],
+    {
+      "frac": 0.01329788,
+      "effort": "5.000000 km"
+    }
+  ]
+]
