@@ -1,0 +1,922 @@
+[
+  [
+    [
+      "41",
+      "Curt Warren"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "100",
+      "Attila Bertok"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "23",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "102",
+      "Davide Guiducci"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "60",
+      "Rohan Holtkamp"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "45",
+      "Roland Wöhrle"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "99",
+      "Tullio Gervasoni"
+    ],
+    {
+      "reach": "174.499986 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "89",
+      "Scott Barrett"
+    ],
+    {
+      "reach": "174.487986 km",
+      "frac": 0.99993123
+    }
+  ],
+  [
+    [
+      "93",
+      "Trent Brown"
+    ],
+    {
+      "reach": "172.544986 km",
+      "frac": 0.98879656
+    }
+  ],
+  [
+    [
+      "56",
+      "Cameron Tunbridge"
+    ],
+    {
+      "reach": "172.147986 km",
+      "frac": 0.98652149
+    }
+  ],
+  [
+    [
+      "92",
+      "Hans Kiefinger"
+    ],
+    {
+      "reach": "171.986986 km",
+      "frac": 0.98559885
+    }
+  ],
+  [
+    [
+      "84",
+      "Yasuhiro Noma"
+    ],
+    {
+      "reach": "171.758986 km",
+      "frac": 0.98429226
+    }
+  ],
+  [
+    [
+      "68",
+      "Grant Heaney"
+    ],
+    {
+      "reach": "171.467986 km",
+      "frac": 0.98262464
+    }
+  ],
+  [
+    [
+      "103",
+      "Roberto Nichele"
+    ],
+    {
+      "reach": "170.627986 km",
+      "frac": 0.97781089
+    }
+  ],
+  [
+    [
+      "36",
+      "Franz Herrmann"
+    ],
+    {
+      "reach": "169.681986 km",
+      "frac": 0.97238968
+    }
+  ],
+  [
+    [
+      "8",
+      "Primoz Gricar"
+    ],
+    {
+      "reach": "169.495986 km",
+      "frac": 0.97132378
+    }
+  ],
+  [
+    [
+      "66",
+      "Jonas Lobitz"
+    ],
+    {
+      "reach": "167.352986 km",
+      "frac": 0.95904298
+    }
+  ],
+  [
+    [
+      "13",
+      "John Smith"
+    ],
+    {
+      "reach": "167.114986 km",
+      "frac": 0.95767908
+    }
+  ],
+  [
+    [
+      "11",
+      "Steve Blenkinsop"
+    ],
+    {
+      "reach": "164.904986 km",
+      "frac": 0.94501432
+    }
+  ],
+  [
+    [
+      "75",
+      "Joerg Bajewski"
+    ],
+    {
+      "reach": "164.232986 km",
+      "frac": 0.94116332
+    }
+  ],
+  [
+    [
+      "1",
+      "Lukas Bader"
+    ],
+    {
+      "reach": "164.213986 km",
+      "frac": 0.94105444
+    }
+  ],
+  [
+    [
+      "87",
+      "Corinna Schwiegershausen"
+    ],
+    {
+      "reach": "163.623986 km",
+      "frac": 0.93767335
+    }
+  ],
+  [
+    [
+      "71",
+      "Edoardo Giudiceandrea"
+    ],
+    {
+      "reach": "163.555986 km",
+      "frac": 0.93728366
+    }
+  ],
+  [
+    [
+      "106",
+      "Adam Parer"
+    ],
+    {
+      "reach": "163.402986 km",
+      "frac": 0.93640687
+    }
+  ],
+  [
+    [
+      "97",
+      "Konrad Schwab"
+    ],
+    {
+      "reach": "162.930986 km",
+      "frac": 0.933702
+    }
+  ],
+  [
+    [
+      "24",
+      "Christian Baertschi"
+    ],
+    {
+      "reach": "161.480986 km",
+      "frac": 0.92539254
+    }
+  ],
+  [
+    [
+      "25",
+      "Nick Purcell"
+    ],
+    {
+      "reach": "161.258986 km",
+      "frac": 0.92412034
+    }
+  ],
+  [
+    [
+      "49",
+      "Tony Giammichele"
+    ],
+    {
+      "reach": "161.216986 km",
+      "frac": 0.92387965
+    }
+  ],
+  [
+    [
+      "14",
+      "Olav Lien Olsen"
+    ],
+    {
+      "reach": "160.448986 km",
+      "frac": 0.9194785
+    }
+  ],
+  [
+    [
+      "101",
+      "Andrew Luton "
+    ],
+    {
+      "reach": "160.399986 km",
+      "frac": 0.9191977
+    }
+  ],
+  [
+    [
+      "5",
+      "Wolfgang Siess"
+    ],
+    {
+      "reach": "160.350986 km",
+      "frac": 0.9189169
+    }
+  ],
+  [
+    [
+      "34",
+      "Jon snr Durand"
+    ],
+    {
+      "reach": "160.299986 km",
+      "frac": 0.91862464
+    }
+  ],
+  [
+    [
+      "59",
+      "Artur Dzamikhov"
+    ],
+    {
+      "reach": "160.289986 km",
+      "frac": 0.91856733
+    }
+  ],
+  [
+    [
+      "12",
+      "Glen Mcfarlane"
+    ],
+    {
+      "reach": "160.274986 km",
+      "frac": 0.91848137
+    }
+  ],
+  [
+    [
+      "31",
+      "Andrew Barnes"
+    ],
+    {
+      "reach": "160.269986 km",
+      "frac": 0.91845272
+    }
+  ],
+  [
+    [
+      "26",
+      "Guy Hubbard"
+    ],
+    {
+      "reach": "160.209986 km",
+      "frac": 0.91810888
+    }
+  ],
+  [
+    [
+      "15",
+      "Jean Souviron "
+    ],
+    {
+      "reach": "160.198986 km",
+      "frac": 0.91804584
+    }
+  ],
+  [
+    [
+      "81",
+      "Valentino Bau"
+    ],
+    {
+      "reach": "159.266986 km",
+      "frac": 0.91270486
+    }
+  ],
+  [
+    [
+      "33",
+      "Conrad Loten"
+    ],
+    {
+      "reach": "158.847986 km",
+      "frac": 0.91030372
+    }
+  ],
+  [
+    [
+      "77",
+      "Len Paton"
+    ],
+    {
+      "reach": "157.424986 km",
+      "frac": 0.90214899
+    }
+  ],
+  [
+    [
+      "94",
+      "Mitch Shipley"
+    ],
+    {
+      "reach": "157.424986 km",
+      "frac": 0.90214899
+    }
+  ],
+  [
+    [
+      "90",
+      "Adam Stevens"
+    ],
+    {
+      "reach": "154.346986 km",
+      "frac": 0.88451002
+    }
+  ],
+  [
+    [
+      "44",
+      "Francoise Dieuzeide-banet"
+    ],
+    {
+      "reach": "152.940986 km",
+      "frac": 0.87645271
+    }
+  ],
+  [
+    [
+      "35",
+      "Carole Tobler"
+    ],
+    {
+      "reach": "152.697986 km",
+      "frac": 0.87506016
+    }
+  ],
+  [
+    [
+      "79",
+      "David Stevens"
+    ],
+    {
+      "reach": "141.909986 km",
+      "frac": 0.81323781
+    }
+  ],
+  [
+    [
+      "70",
+      "Matthew Barlow"
+    ],
+    {
+      "reach": "140.315986 km",
+      "frac": 0.80410314
+    }
+  ],
+  [
+    [
+      "55",
+      "Kari Suhonen"
+    ],
+    {
+      "reach": "132.332986 km",
+      "frac": 0.75835528
+    }
+  ],
+  [
+    [
+      "85",
+      "Neil Petersen"
+    ],
+    {
+      "reach": "130.465986 km",
+      "frac": 0.74765614
+    }
+  ],
+  [
+    [
+      "3",
+      "Rod Flockhart"
+    ],
+    {
+      "reach": "124.362986 km",
+      "frac": 0.71268193
+    }
+  ],
+  [
+    [
+      "48",
+      "Paolo Rosichetti"
+    ],
+    {
+      "reach": "123.117986 km",
+      "frac": 0.70554725
+    }
+  ],
+  [
+    [
+      "95",
+      "Anton Struganov"
+    ],
+    {
+      "reach": "121.803986 km",
+      "frac": 0.69801717
+    }
+  ],
+  [
+    [
+      "6",
+      "Phil Schroder"
+    ],
+    {
+      "reach": "121.316986 km",
+      "frac": 0.69522634
+    }
+  ],
+  [
+    [
+      "22",
+      "Mark Russell"
+    ],
+    {
+      "reach": "121.220986 km",
+      "frac": 0.69467619
+    }
+  ],
+  [
+    [
+      "73",
+      "Gijs Wanders"
+    ],
+    {
+      "reach": "116.063986 km",
+      "frac": 0.66512318
+    }
+  ],
+  [
+    [
+      "21",
+      "Gavin Myers"
+    ],
+    {
+      "reach": "113.907986 km",
+      "frac": 0.65276788
+    }
+  ],
+  [
+    [
+      "32",
+      "Kathryn O'Riordan"
+    ],
+    {
+      "reach": "113.464986 km",
+      "frac": 0.6502292
+    }
+  ],
+  [
+    [
+      "43",
+      "Les Bestt"
+    ],
+    {
+      "reach": "108.962986 km",
+      "frac": 0.62442977
+    }
+  ],
+  [
+    [
+      "69",
+      "Jonathan Kinred"
+    ],
+    {
+      "reach": "108.530986 km",
+      "frac": 0.62195412
+    }
+  ],
+  [
+    [
+      "18",
+      "Jürgen Pasker"
+    ],
+    {
+      "reach": "94.059986 km",
+      "frac": 0.53902575
+    }
+  ],
+  [
+    [
+      "29",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "reach": "79.234986 km",
+      "frac": 0.45406872
+    }
+  ],
+  [
+    [
+      "7",
+      "Shaun O'neill"
+    ],
+    {
+      "reach": "74.358986 km",
+      "frac": 0.42612603
+    }
+  ],
+  [
+    [
+      "91",
+      "Francesco Rinaldi"
+    ],
+    {
+      "reach": "73.604986 km",
+      "frac": 0.42180511
+    }
+  ],
+  [
+    [
+      "30",
+      "Fredy Bircher"
+    ],
+    {
+      "reach": "72.522986 km",
+      "frac": 0.41560454
+    }
+  ],
+  [
+    [
+      "37",
+      "Peter Ebeling"
+    ],
+    {
+      "reach": "68.577986 km",
+      "frac": 0.39299709
+    }
+  ],
+  [
+    [
+      "16",
+      "Grant Edward"
+    ],
+    {
+      "reach": "66.152986 km",
+      "frac": 0.37910024
+    }
+  ],
+  [
+    [
+      "19",
+      "Mikhail Karmazin"
+    ],
+    {
+      "reach": "63.236986 km",
+      "frac": 0.36238963
+    }
+  ],
+  [
+    [
+      "96",
+      "Brodrick Osborne"
+    ],
+    {
+      "reach": "53.173986 km",
+      "frac": 0.30472201
+    }
+  ],
+  [
+    [
+      "2",
+      "Pablo Gomes"
+    ],
+    {
+      "reach": "52.062986 km",
+      "frac": 0.29835524
+    }
+  ],
+  [
+    [
+      "42",
+      "Suan Selenati"
+    ],
+    {
+      "reach": "50.776986 km",
+      "frac": 0.29098562
+    }
+  ],
+  [
+    [
+      "83",
+      "Peter Dall"
+    ],
+    {
+      "reach": "48.214986 km",
+      "frac": 0.27630367
+    }
+  ],
+  [
+    [
+      "67",
+      "Andy Phillips "
+    ],
+    {
+      "reach": "44.534986 km",
+      "frac": 0.25521484
+    }
+  ],
+  [
+    [
+      "64",
+      "Gustavo Carvalho"
+    ],
+    {
+      "reach": "41.618986 km",
+      "frac": 0.23850424
+    }
+  ],
+  [
+    [
+      "105",
+      "Chris Lawry"
+    ],
+    {
+      "reach": "39.265986 km",
+      "frac": 0.22502
+    }
+  ],
+  [
+    [
+      "27",
+      "Boris Marold "
+    ],
+    {
+      "reach": "35.115986 km",
+      "frac": 0.20123776
+    }
+  ],
+  [
+    [
+      "72",
+      "Tove Heaney"
+    ],
+    {
+      "reach": "34.169986 km",
+      "frac": 0.19581655
+    }
+  ],
+  [
+    [
+      "98",
+      "Patrick Collin"
+    ],
+    {
+      "reach": "32.337986 km",
+      "frac": 0.18531799
+    }
+  ],
+  [
+    [
+      "82",
+      "Alain Le-gac"
+    ],
+    {
+      "reach": "30.543986 km",
+      "frac": 0.17503718
+    }
+  ],
+  [
+    [
+      "78",
+      "Christine Aichner"
+    ],
+    {
+      "reach": "26.404986 km",
+      "frac": 0.15131798
+    }
+  ],
+  [
+    [
+      "58",
+      "Anna Belova"
+    ],
+    {
+      "reach": "21.676986 km",
+      "frac": 0.12422343
+    }
+  ],
+  [
+    [
+      "17",
+      "John Urlich"
+    ],
+    {
+      "reach": "20.681986 km",
+      "frac": 0.11852142
+    }
+  ],
+  [
+    [
+      "53",
+      "Hadewych van Kempen"
+    ],
+    {
+      "reach": "19.620986 km",
+      "frac": 0.11244119
+    }
+  ],
+  [
+    [
+      "40",
+      "Phil de Joux"
+    ],
+    {
+      "reach": "18.651986 km",
+      "frac": 0.10688818
+    }
+  ],
+  [
+    [
+      "51",
+      "Rob In 't Groen"
+    ],
+    {
+      "reach": "18.610986 km",
+      "frac": 0.10665322
+    }
+  ],
+  [
+    [
+      "76",
+      "Dmitriy Korchenkov"
+    ],
+    {
+      "reach": "18.087986 km",
+      "frac": 0.10365609
+    }
+  ],
+  [
+    [
+      "88",
+      "Martin Sielaff"
+    ],
+    {
+      "reach": "15.199986 km",
+      "frac": 0.08710594
+    }
+  ],
+  [
+    [
+      "46",
+      "Jonathon Foote"
+    ],
+    {
+      "reach": "15.043986 km",
+      "frac": 0.08621196
+    }
+  ],
+  [
+    [
+      "52",
+      "Virpi Nieminen"
+    ],
+    {
+      "reach": "13.667986 km",
+      "frac": 0.07832657
+    }
+  ],
+  [
+    [
+      "50",
+      "Monique Pavy"
+    ],
+    {
+      "reach": "0.937986 km",
+      "frac": 0.00537528
+    }
+  ],
+  [
+    [
+      "86",
+      "Talgat Irgaleev"
+    ],
+    {
+      "reach": "0.463986 km",
+      "frac": 0.00265895
+    }
+  ],
+  [
+    [
+      "62",
+      "Enda Murphy"
+    ],
+    {
+      "reach": "0.000000 km",
+      "frac": 0
+    }
+  ],
+  [
+    [
+      "28",
+      "Evgeniya Laritskaya"
+    ],
+    {
+      "reach": "0.000000 km",
+      "frac": 0
+    }
+  ],
+  [
+    [
+      "47",
+      "Miguel De Jong "
+    ],
+    {
+      "reach": "0.000000 km",
+      "frac": 0
+    }
+  ]
+]

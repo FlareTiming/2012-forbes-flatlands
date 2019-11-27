@@ -6,20 +6,33 @@
     ],
     {
       "timeElapsed": "3.296389 h",
-      "leadingFrac": 0.62412762,
-      "time": 401.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 401.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 62.6,
+        "effort": 0,
+        "arrival": 68.3
+      },
       "leadingCoef": 4.2667642,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:56:46Z",
-      "leading": 62.6,
       "total": 959,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:38:59Z",
-      "timeFrac": 1,
       "leadingArea": "1435801.0000 km^2 s",
-      "arrival": 68.3,
-      "place": "1"
+      "place": "1",
+      "fractions": {
+        "time": 1,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.62412762,
+        "effort": 0,
+        "arrival": 0.9525802
+      }
     }
   ],
   [
@@ -29,20 +42,33 @@
     ],
     {
       "timeElapsed": "3.303889 h",
-      "leadingFrac": 0.63409771,
-      "time": 391,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 391,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 63.6,
+        "effort": 0,
+        "arrival": 56.2
+      },
       "leadingCoef": 4.24814928,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:57:12Z",
-      "leading": 63.6,
       "total": 937,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:38:58Z",
-      "timeFrac": 0.97425489,
       "leadingArea": "1429537.0000 km^2 s",
-      "arrival": 56.2,
-      "place": "2"
+      "place": "2",
+      "fractions": {
+        "time": 0.97425489,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.63409771,
+        "effort": 0,
+        "arrival": 0.78382148
+      }
     }
   ],
   [
@@ -52,20 +78,33 @@
     ],
     {
       "timeElapsed": "3.362222 h",
-      "leadingFrac": 0.60119641,
-      "time": 357.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 357.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 60.3,
+        "effort": 0,
+        "arrival": 46.1
+      },
       "leadingCoef": 4.30865592,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:01:25Z",
-      "leading": 60.3,
       "total": 890,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:39:41Z",
-      "timeFrac": 0.89044865,
       "leadingArea": "1449898.0000 km^2 s",
-      "arrival": 46.1,
-      "place": "3"
+      "place": "3",
+      "fractions": {
+        "time": 0.89044865,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.60119641,
+        "effort": 0,
+        "arrival": 0.64295676
+      }
     }
   ],
   [
@@ -75,20 +114,33 @@
     ],
     {
       "timeElapsed": "3.623333 h",
-      "leadingFrac": 1,
-      "time": 273.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 273.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 100.3,
+        "effort": 0,
+        "arrival": 71.7
+      },
       "leadingCoef": 3.8166918,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:53:24Z",
-      "leading": 100.3,
       "total": 872,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:00Z",
-      "timeFrac": 0.68111324,
       "leadingArea": "1284348.0000 km^2 s",
-      "arrival": 71.7,
-      "place": "4"
+      "place": "4",
+      "fractions": {
+        "time": 0.68111324,
+        "reach": 0,
+        "distance": 1,
+        "leading": 1,
+        "effort": 0,
+        "arrival": 1
+      }
     }
   ],
   [
@@ -98,20 +150,33 @@
     ],
     {
       "timeElapsed": "3.373611 h",
-      "leadingFrac": 0.4217348,
-      "time": 352.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 352.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 42.3,
+        "effort": 0,
+        "arrival": 32.6
+      },
       "leadingCoef": 4.67481057,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:11:01Z",
-      "leading": 42.3,
       "total": 854,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:48:36Z",
-      "timeFrac": 0.87815285,
       "leadingArea": "1573112.0000 km^2 s",
-      "arrival": 32.6,
-      "place": "5"
+      "place": "5",
+      "fractions": {
+        "time": 0.87815285,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.4217348,
+        "effort": 0,
+        "arrival": 0.45467225
+      }
     }
   ],
   [
@@ -121,20 +186,33 @@
     ],
     {
       "timeElapsed": "3.645556 h",
-      "leadingFrac": 0.80957129,
-      "time": 267.6,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 267.6,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 81.2,
+        "effort": 0,
+        "arrival": 65.1
+      },
       "leadingCoef": 3.97870502,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:56:56Z",
-      "leading": 81.2,
       "total": 841,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:18:12Z",
-      "timeFrac": 0.66682247,
       "leadingArea": "1338867.0000 km^2 s",
-      "arrival": 65.1,
-      "place": "6"
+      "place": "6",
+      "fractions": {
+        "time": 0.66682247,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.80957129,
+        "effort": 0,
+        "arrival": 0.90794979
+      }
     }
   ],
   [
@@ -144,20 +222,33 @@
     ],
     {
       "timeElapsed": "3.687500 h",
-      "leadingFrac": 0.81655035,
-      "time": 257.1,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 257.1,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 81.9,
+        "effort": 0,
+        "arrival": 62
+      },
       "leadingCoef": 3.96991995,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:57:04Z",
-      "leading": 81.9,
       "total": 828,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:49Z",
-      "timeFrac": 0.64064754,
       "leadingArea": "1335911.0000 km^2 s",
-      "arrival": 62,
-      "place": "7"
+      "place": "7",
+      "fractions": {
+        "time": 0.64064754,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.81655035,
+        "effort": 0,
+        "arrival": 0.86471409
+      }
     }
   ],
   [
@@ -167,20 +258,33 @@
     ],
     {
       "timeElapsed": "3.687500 h",
-      "leadingFrac": 0.80458624,
-      "time": 257.1,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 257.1,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 80.7,
+        "effort": 0,
+        "arrival": 59.1
+      },
       "leadingCoef": 3.98565003,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:57:11Z",
-      "leading": 80.7,
       "total": 824,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:56Z",
-      "timeFrac": 0.64064754,
       "leadingArea": "1341204.0000 km^2 s",
-      "arrival": 59.1,
-      "place": "8"
+      "place": "8",
+      "fractions": {
+        "time": 0.64064754,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.80458624,
+        "effort": 0,
+        "arrival": 0.82426778
+      }
     }
   ],
   [
@@ -190,20 +294,33 @@
     ],
     {
       "timeElapsed": "3.521111 h",
-      "leadingFrac": 0.56331007,
-      "time": 301.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 301.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 56.5,
+        "effort": 0,
+        "arrival": 36
+      },
       "leadingCoef": 4.38096302,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:10:26Z",
-      "leading": 56.5,
       "total": 821,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:39:10Z",
-      "timeFrac": 0.75163835,
       "leadingArea": "1474230.0000 km^2 s",
-      "arrival": 36,
-      "place": "9"
+      "place": "9",
+      "fractions": {
+        "time": 0.75163835,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.56331007,
+        "effort": 0,
+        "arrival": 0.50209205
+      }
     }
   ],
   [
@@ -213,20 +330,33 @@
     ],
     {
       "timeElapsed": "3.704722 h",
-      "leadingFrac": 0.77666999,
-      "time": 252.9,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 252.9,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 77.9,
+        "effort": 0,
+        "arrival": 53.5
+      },
       "leadingCoef": 4.02343081,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:57:55Z",
-      "leading": 77.9,
       "total": 811,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:38Z",
-      "timeFrac": 0.63017431,
       "leadingArea": "1353918.0000 km^2 s",
-      "arrival": 53.5,
-      "place": "10"
+      "place": "10",
+      "fractions": {
+        "time": 0.63017431,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.77666999,
+        "effort": 0,
+        "arrival": 0.74616457
+      }
     }
   ],
   [
@@ -236,20 +366,33 @@
     ],
     {
       "timeElapsed": "3.709444 h",
-      "leadingFrac": 0.79661017,
-      "time": 251.8,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 251.8,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 79.9,
+        "effort": 0,
+        "arrival": 50.9
+      },
       "leadingCoef": 3.99527103,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T06:58:13Z",
-      "leading": 79.9,
       "total": 809,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:39Z",
-      "timeFrac": 0.62732851,
       "leadingArea": "1344442.0000 km^2 s",
-      "arrival": 50.9,
-      "place": "11"
+      "place": "11",
+      "fractions": {
+        "time": 0.62732851,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.79661017,
+        "effort": 0,
+        "arrival": 0.70990237
+      }
     }
   ],
   [
@@ -259,20 +402,33 @@
     ],
     {
       "timeElapsed": "3.486667 h",
-      "leadingFrac": 0.40478564,
-      "time": 312.1,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 312.1,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 40.6,
+        "effort": 0,
+        "arrival": 29.6
+      },
       "leadingCoef": 4.712441,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:14:28Z",
-      "leading": 40.6,
       "total": 809,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:45:16Z",
-      "timeFrac": 0.77771377,
       "leadingArea": "1585775.0000 km^2 s",
-      "arrival": 29.6,
-      "place": "11"
+      "place": "11",
+      "fractions": {
+        "time": 0.77771377,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.40478564,
+        "effort": 0,
+        "arrival": 0.41283124
+      }
     }
   ],
   [
@@ -282,20 +438,33 @@
     ],
     {
       "timeElapsed": "3.731389 h",
-      "leadingFrac": 0.79561316,
-      "time": 246.5,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 246.5,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 79.8,
+        "effort": 0,
+        "arrival": 48.5
+      },
       "leadingCoef": 3.9978325,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:00:20Z",
-      "leading": 79.8,
       "total": 801,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:27Z",
-      "timeFrac": 0.61424341,
       "leadingArea": "1345304.0000 km^2 s",
-      "arrival": 48.5,
-      "place": "13"
+      "place": "13",
+      "fractions": {
+        "time": 0.61424341,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.79561316,
+        "effort": 0,
+        "arrival": 0.67642957
+      }
     }
   ],
   [
@@ -305,20 +474,33 @@
     ],
     {
       "timeElapsed": "3.509167 h",
-      "leadingFrac": 0.40578265,
-      "time": 305.2,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 305.2,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 40.7,
+        "effort": 0,
+        "arrival": 24.7
+      },
       "leadingCoef": 4.71130129,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:17:42Z",
-      "leading": 40.7,
       "total": 797,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:47:09Z",
-      "timeFrac": 0.76051883,
       "leadingArea": "1585392.0000 km^2 s",
-      "arrival": 24.7,
-      "place": "14"
+      "place": "14",
+      "fractions": {
+        "time": 0.76051883,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.40578265,
+        "effort": 0,
+        "arrival": 0.34449093
+      }
     }
   ],
   [
@@ -328,20 +510,33 @@
     ],
     {
       "timeElapsed": "3.770556 h",
-      "leadingFrac": 0.777667,
-      "time": 237.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 237.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 78,
+        "effort": 0,
+        "arrival": 43.9
+      },
       "leadingCoef": 4.02113984,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:02:41Z",
-      "leading": 78,
       "total": 786,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:27Z",
-      "timeFrac": 0.59142242,
       "leadingArea": "1353147.0000 km^2 s",
-      "arrival": 43.9,
-      "place": "15"
+      "place": "15",
+      "fractions": {
+        "time": 0.59142242,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.777667,
+        "effort": 0,
+        "arrival": 0.61227336
+      }
     }
   ],
   [
@@ -351,20 +546,33 @@
     ],
     {
       "timeElapsed": "3.841944 h",
-      "leadingFrac": 0.77966102,
-      "time": 221.3,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 221.3,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 78.2,
+        "effort": 0,
+        "arrival": 39.7
+      },
       "leadingCoef": 4.01850518,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:07:04Z",
-      "leading": 78.2,
       "total": 766,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:33Z",
-      "timeFrac": 0.55137875,
       "leadingArea": "1352260.0000 km^2 s",
-      "arrival": 39.7,
-      "place": "16"
+      "place": "16",
+      "fractions": {
+        "time": 0.55137875,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.77966102,
+        "effort": 0,
+        "arrival": 0.55369596
+      }
     }
   ],
   [
@@ -374,20 +582,33 @@
     ],
     {
       "timeElapsed": "3.852778 h",
-      "leadingFrac": 0.76969093,
-      "time": 218.9,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 218.9,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 77.2,
+        "effort": 0,
+        "arrival": 41.7
+      },
       "leadingCoef": 4.0331962,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:06:58Z",
-      "leading": 77.2,
       "total": 764,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:48Z",
-      "timeFrac": 0.54545926,
       "leadingArea": "1357204.0000 km^2 s",
-      "arrival": 41.7,
-      "place": "17"
+      "place": "17",
+      "fractions": {
+        "time": 0.54545926,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.76969093,
+        "effort": 0,
+        "arrival": 0.58158996
+      }
     }
   ],
   [
@@ -397,20 +618,33 @@
     ],
     {
       "timeElapsed": "3.643333 h",
-      "leadingFrac": 0.43070788,
-      "time": 268.2,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 268.2,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 43.2,
+        "effort": 0,
+        "arrival": 25.8
+      },
       "leadingCoef": 4.65551162,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:17:08Z",
-      "leading": 43.2,
       "total": 764,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:38:32Z",
-      "timeFrac": 0.66823761,
       "leadingArea": "1566618.0000 km^2 s",
-      "arrival": 25.8,
-      "place": "17"
+      "place": "17",
+      "fractions": {
+        "time": 0.66823761,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.43070788,
+        "effort": 0,
+        "arrival": 0.35983264
+      }
     }
   ],
   [
@@ -420,20 +654,33 @@
     ],
     {
       "timeElapsed": "3.672222 h",
-      "leadingFrac": 0.40777667,
-      "time": 260.9,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 260.9,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 40.9,
+        "effort": 0,
+        "arrival": 21.8
+      },
       "leadingCoef": 4.70677981,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:20:21Z",
-      "leading": 40.9,
       "total": 750,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:40:01Z",
-      "timeFrac": 0.65006768,
       "leadingArea": "1583870.0000 km^2 s",
-      "arrival": 21.8,
-      "place": "19"
+      "place": "19",
+      "fractions": {
+        "time": 0.65006768,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.40777667,
+        "effort": 0,
+        "arrival": 0.30404463
+      }
     }
   ],
   [
@@ -443,20 +690,33 @@
     ],
     {
       "timeElapsed": "3.645000 h",
-      "leadingFrac": 0.35094716,
-      "time": 267.8,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 267.8,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 35.2,
+        "effort": 0,
+        "arrival": 18.9
+      },
       "leadingCoef": 4.83738763,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:25:14Z",
-      "leading": 35.2,
       "total": 749,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:46:32Z",
-      "timeFrac": 0.66717597,
       "leadingArea": "1627821.0000 km^2 s",
-      "arrival": 18.9,
-      "place": "20"
+      "place": "20",
+      "fractions": {
+        "time": 0.66717597,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.35094716,
+        "effort": 0,
+        "arrival": 0.26359833
+      }
     }
   ],
   [
@@ -466,20 +726,33 @@
     ],
     {
       "timeElapsed": "3.904722 h",
-      "leadingFrac": 0.72881356,
-      "time": 207.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 207.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 73.1,
+        "effort": 0,
+        "arrival": 37.8
+      },
       "leadingCoef": 4.09293289,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:09:42Z",
-      "leading": 73.1,
       "total": 745,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:25Z",
-      "timeFrac": 0.51759153,
       "leadingArea": "1377306.0000 km^2 s",
-      "arrival": 37.8,
-      "place": "21"
+      "place": "21",
+      "fractions": {
+        "time": 0.51759153,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.72881356,
+        "effort": 0,
+        "arrival": 0.52719665
+      }
     }
   ],
   [
@@ -489,20 +762,33 @@
     ],
     {
       "timeElapsed": "3.905278 h",
-      "leadingFrac": 0.74576271,
-      "time": 207.6,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 207.6,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 74.8,
+        "effort": 0,
+        "arrival": 34.2
+      },
       "leadingCoef": 4.06698145,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:10:49Z",
-      "leading": 74.8,
       "total": 743,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:30Z",
-      "timeFrac": 0.51729787,
       "leadingArea": "1368573.0000 km^2 s",
-      "arrival": 34.2,
-      "place": "22"
+      "place": "22",
+      "fractions": {
+        "time": 0.51729787,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.74576271,
+        "effort": 0,
+        "arrival": 0.47698745
+      }
     }
   ],
   [
@@ -512,20 +798,33 @@
     ],
     {
       "timeElapsed": "3.936667 h",
-      "leadingFrac": 0.72781655,
-      "time": 201,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 201,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 73,
+        "effort": 0,
+        "arrival": 31.1
+      },
       "leadingCoef": 4.09351306,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:12:28Z",
-      "leading": 73,
       "total": 732,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:16Z",
-      "timeFrac": 0.50084801,
       "leadingArea": "1377501.0000 km^2 s",
-      "arrival": 31.1,
-      "place": "23"
+      "place": "23",
+      "fractions": {
+        "time": 0.50084801,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.72781655,
+        "effort": 0,
+        "arrival": 0.43375174
+      }
     }
   ],
   [
@@ -535,20 +834,33 @@
     ],
     {
       "timeElapsed": "3.756389 h",
-      "leadingFrac": 0.41176471,
-      "time": 240.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 240.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 41.3,
+        "effort": 0,
+        "arrival": 17.8
+      },
       "leadingCoef": 4.69701786,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:29:07Z",
-      "leading": 41.3,
       "total": 726,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:43:44Z",
-      "timeFrac": 0.59960153,
       "leadingArea": "1580585.0000 km^2 s",
-      "arrival": 17.8,
-      "place": "24"
+      "place": "24",
+      "fractions": {
+        "time": 0.59960153,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.41176471,
+        "effort": 0,
+        "arrival": 0.24825662
+      }
     }
   ],
   [
@@ -558,20 +870,33 @@
     ],
     {
       "timeElapsed": "3.893056 h",
-      "leadingFrac": 0.60219342,
-      "time": 210.2,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 210.2,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 60.4,
+        "effort": 0,
+        "arrival": 28.3
+      },
       "leadingCoef": 4.30707827,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:14:31Z",
-      "leading": 60.4,
       "total": 726,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:20:56Z",
-      "timeFrac": 0.52377919,
       "leadingArea": "1449367.0000 km^2 s",
-      "arrival": 28.3,
-      "place": "24"
+      "place": "24",
+      "fractions": {
+        "time": 0.52377919,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.60219342,
+        "effort": 0,
+        "arrival": 0.39470014
+      }
     }
   ],
   [
@@ -581,20 +906,33 @@
     ],
     {
       "timeElapsed": "3.988611 h",
-      "leadingFrac": 0.72881356,
-      "time": 190.3,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 190.3,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 73.1,
+        "effort": 0,
+        "arrival": 27
+      },
       "leadingCoef": 4.09207562,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:15:27Z",
-      "leading": 73.1,
       "total": 717,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:08Z",
-      "timeFrac": 0.47420368,
       "leadingArea": "1377017.0000 km^2 s",
-      "arrival": 27,
-      "place": "26"
+      "place": "26",
+      "fractions": {
+        "time": 0.47420368,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.72881356,
+        "effort": 0,
+        "arrival": 0.37656904
+      }
     }
   ],
   [
@@ -604,20 +942,33 @@
     ],
     {
       "timeElapsed": "3.928333 h",
-      "leadingFrac": 0.51246261,
-      "time": 202.8,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 202.8,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 51.4,
+        "effort": 0,
+        "arrival": 23.7
+      },
       "leadingCoef": 4.48136322,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:20:11Z",
-      "leading": 51.4,
       "total": 705,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:24:29Z",
-      "timeFrac": 0.5051885,
       "leadingArea": "1508016.0000 km^2 s",
-      "arrival": 23.7,
-      "place": "27"
+      "place": "27",
+      "fractions": {
+        "time": 0.5051885,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.51246261,
+        "effort": 0,
+        "arrival": 0.33054393
+      }
     }
   ],
   [
@@ -627,20 +978,33 @@
     ],
     {
       "timeElapsed": "3.923611 h",
-      "leadingFrac": 0.4217348,
-      "time": 203.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 203.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 42.3,
+        "effort": 0,
+        "arrival": 18.3
+      },
       "leadingCoef": 4.67443764,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:27:01Z",
-      "leading": 42.3,
       "total": 691,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:31:36Z",
-      "timeFrac": 0.50765657,
       "leadingArea": "1572987.0000 km^2 s",
-      "arrival": 18.3,
-      "place": "28"
+      "place": "28",
+      "fractions": {
+        "time": 0.50765657,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.4217348,
+        "effort": 0,
+        "arrival": 0.25523013
+      }
     }
   ],
   [
@@ -650,20 +1014,33 @@
     ],
     {
       "timeElapsed": "3.958333 h",
-      "leadingFrac": 0.46360917,
-      "time": 196.5,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 196.5,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 46.5,
+        "effort": 0,
+        "arrival": 21
+      },
       "leadingCoef": 4.58398477,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:22:07Z",
-      "leading": 46.5,
       "total": 691,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:24:37Z",
-      "timeFrac": 0.48964989,
       "leadingArea": "1542549.0000 km^2 s",
-      "arrival": 21,
-      "place": "28"
+      "place": "28",
+      "fractions": {
+        "time": 0.48964989,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.46360917,
+        "effort": 0,
+        "arrival": 0.29288703
+      }
     }
   ],
   [
@@ -673,20 +1050,33 @@
     ],
     {
       "timeElapsed": "4.068611 h",
-      "leadingFrac": 0.6550349,
-      "time": 174.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 174.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 65.7,
+        "effort": 0,
+        "arrival": 22.7
+      },
       "leadingCoef": 4.21203059,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:20:18Z",
-      "leading": 65.7,
       "total": 689,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:11Z",
-      "timeFrac": 0.43443562,
       "leadingArea": "1417383.0000 km^2 s",
-      "arrival": 22.7,
-      "place": "30"
+      "place": "30",
+      "fractions": {
+        "time": 0.43443562,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.6550349,
+        "effort": 0,
+        "arrival": 0.31659693
+      }
     }
   ],
   [
@@ -696,20 +1086,33 @@
     ],
     {
       "timeElapsed": "4.034722 h",
-      "leadingFrac": 0.55433699,
-      "time": 181.1,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 181.1,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 55.6,
+        "effort": 0,
+        "arrival": 17.3
+      },
       "leadingCoef": 4.39722628,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:29:10Z",
-      "leading": 55.6,
       "total": 681,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:27:05Z",
-      "timeFrac": 0.45110555,
       "leadingArea": "1479703.0000 km^2 s",
-      "arrival": 17.3,
-      "place": "31"
+      "place": "31",
+      "fractions": {
+        "time": 0.45110555,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.55433699,
+        "effort": 0,
+        "arrival": 0.24128312
+      }
     }
   ],
   [
@@ -719,20 +1122,33 @@
     ],
     {
       "timeElapsed": "4.039722 h",
-      "leadingFrac": 0.44865404,
-      "time": 180.1,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 180.1,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 45,
+        "effort": 0,
+        "arrival": 20.2
+      },
       "leadingCoef": 4.61507538,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:22:20Z",
-      "leading": 45,
       "total": 672,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:19:57Z",
-      "timeFrac": 0.44863026,
       "leadingArea": "1553011.0000 km^2 s",
-      "arrival": 20.2,
-      "place": "32"
+      "place": "32",
+      "fractions": {
+        "time": 0.44863026,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.44865404,
+        "effort": 0,
+        "arrival": 0.28172943
+      }
     }
   ],
   [
@@ -742,20 +1158,33 @@
     ],
     {
       "timeElapsed": "4.133611 h",
-      "leadingFrac": 0.60418744,
-      "time": 161.8,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 161.8,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 60.6,
+        "effort": 0,
+        "arrival": 19.5
+      },
       "leadingCoef": 4.30336689,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:23:28Z",
-      "leading": 60.6,
       "total": 669,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:27Z",
-      "timeFrac": 0.40312826,
       "leadingArea": "1448118.0000 km^2 s",
-      "arrival": 19.5,
-      "place": "33"
+      "place": "33",
+      "fractions": {
+        "time": 0.40312826,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.60418744,
+        "effort": 0,
+        "arrival": 0.27196653
+      }
     }
   ],
   [
@@ -765,20 +1194,33 @@
     ],
     {
       "timeElapsed": "4.072222 h",
-      "leadingFrac": 0.37188435,
-      "time": 173.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 173.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 37.3,
+        "effort": 0,
+        "arrival": 16.9
+      },
       "leadingCoef": 4.78985962,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:30:07Z",
-      "leading": 37.3,
       "total": 655,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:25:47Z",
-      "timeFrac": 0.43267384,
       "leadingArea": "1611827.0000 km^2 s",
-      "arrival": 16.9,
-      "place": "34"
+      "place": "34",
+      "fractions": {
+        "time": 0.43267384,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.37188435,
+        "effort": 0,
+        "arrival": 0.23570432
+      }
     }
   ],
   [
@@ -788,20 +1230,33 @@
     ],
     {
       "timeElapsed": "4.023056 h",
-      "leadingFrac": 0.28315055,
-      "time": 183.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 183.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 28.4,
+        "effort": 0,
+        "arrival": 14.9
+      },
       "leadingCoef": 5.00289687,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:44:13Z",
-      "leading": 28.4,
       "total": 653,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:42:50Z",
-      "timeFrac": 0.45690307,
       "leadingArea": "1683516.0000 km^2 s",
-      "arrival": 14.9,
-      "place": "35"
+      "place": "35",
+      "fractions": {
+        "time": 0.45690307,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.28315055,
+        "effort": 0,
+        "arrival": 0.20781032
+      }
     }
   ],
   [
@@ -811,20 +1266,33 @@
     ],
     {
       "timeElapsed": "4.063611 h",
-      "leadingFrac": 0.24027916,
-      "time": 175.3,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 175.3,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 24.1,
+        "effort": 0,
+        "arrival": 15.8
+      },
       "leadingCoef": 5.11006852,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:39:46Z",
-      "leading": 24.1,
       "total": 642,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:35:57Z",
-      "timeFrac": 0.43687955,
       "leadingArea": "1719580.0000 km^2 s",
-      "arrival": 15.8,
-      "place": "36"
+      "place": "36",
+      "fractions": {
+        "time": 0.43687955,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.24027916,
+        "effort": 0,
+        "arrival": 0.22036262
+      }
     }
   ],
   [
@@ -834,20 +1302,33 @@
     ],
     {
       "timeElapsed": "4.326389 h",
-      "leadingFrac": 0.50448654,
-      "time": 126.3,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 126.3,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 50.6,
+        "effort": 0,
+        "arrival": 16.1
+      },
       "leadingCoef": 4.49782246,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:35:07Z",
-      "leading": 50.6,
       "total": 620,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:32Z",
-      "timeFrac": 0.31470325,
       "leadingArea": "1513554.0000 km^2 s",
-      "arrival": 16.1,
-      "place": "37"
+      "place": "37",
+      "fractions": {
+        "time": 0.31470325,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.50448654,
+        "effort": 0,
+        "arrival": 0.22454672
+      }
     }
   ],
   [
@@ -857,20 +1338,33 @@
     ],
     {
       "timeElapsed": "4.296667 h",
-      "leadingFrac": 0.40378863,
-      "time": 131.6,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 131.6,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 40.5,
+        "effort": 0,
+        "arrival": 16.5
+      },
       "leadingCoef": 4.71557594,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:33:35Z",
-      "leading": 40.5,
       "total": 615,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:15:47Z",
-      "timeFrac": 0.32795101,
       "leadingArea": "1586830.0000 km^2 s",
-      "arrival": 16.5,
-      "place": "38"
+      "place": "38",
+      "fractions": {
+        "time": 0.32795101,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.40378863,
+        "effort": 0,
+        "arrival": 0.23012552
+      }
     }
   ],
   [
@@ -880,20 +1374,33 @@
     ],
     {
       "timeElapsed": "4.295000 h",
-      "leadingFrac": 0.39481555,
-      "time": 131.9,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 131.9,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 39.6,
+        "effort": 0,
+        "arrival": 15.3
+      },
       "leadingCoef": 4.73525628,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:42:10Z",
-      "leading": 39.6,
       "total": 613,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:24:28Z",
-      "timeFrac": 0.32869773,
       "leadingArea": "1593453.0000 km^2 s",
-      "arrival": 15.3,
-      "place": "39"
+      "place": "39",
+      "fractions": {
+        "time": 0.32869773,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.39481555,
+        "effort": 0,
+        "arrival": 0.21338912
+      }
     }
   ],
   [
@@ -903,20 +1410,33 @@
     ],
     {
       "timeElapsed": "4.309167 h",
-      "leadingFrac": 0.34097707,
-      "time": 129.4,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 129.4,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 34.2,
+        "effort": 0,
+        "arrival": 15.1
+      },
       "leadingCoef": 4.86167779,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:42:45Z",
-      "leading": 34.2,
       "total": 605,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:24:12Z",
-      "timeFrac": 0.32236375,
       "leadingArea": "1635995.0000 km^2 s",
-      "arrival": 15.1,
-      "place": "40"
+      "place": "40",
+      "fractions": {
+        "time": 0.32236375,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.34097707,
+        "effort": 0,
+        "arrival": 0.21059972
+      }
     }
   ],
   [
@@ -926,20 +1446,33 @@
     ],
     {
       "timeElapsed": "4.390278 h",
-      "leadingFrac": 0.44566301,
-      "time": 115,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 115,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 44.7,
+        "effort": 0,
+        "arrival": 15.5
+      },
       "leadingCoef": 4.62188273,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:39:50Z",
-      "leading": 44.7,
       "total": 602,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:25Z",
-      "timeFrac": 0.28665001,
       "leadingArea": "1555302.0000 km^2 s",
-      "arrival": 15.5,
-      "place": "41"
+      "place": "41",
+      "fractions": {
+        "time": 0.28665001,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.44566301,
+        "effort": 0,
+        "arrival": 0.21617852
+      }
     }
   ],
   [
@@ -949,20 +1482,33 @@
     ],
     {
       "timeElapsed": "4.368889 h",
-      "leadingFrac": 0.37686939,
-      "time": 118.8,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 118.8,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 37.8,
+        "effort": 0,
+        "arrival": 14.7
+      },
       "leadingCoef": 4.77623994,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:47:35Z",
-      "leading": 37.8,
       "total": 598,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:25:27Z",
-      "timeFrac": 0.29597937,
       "leadingArea": "1607244.0000 km^2 s",
-      "arrival": 14.7,
-      "place": "42"
+      "place": "42",
+      "fractions": {
+        "time": 0.29597937,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.37686939,
+        "effort": 0,
+        "arrival": 0.20502092
+      }
     }
   ],
   [
@@ -972,20 +1518,33 @@
     ],
     {
       "timeElapsed": "4.504444 h",
-      "leadingFrac": 0.39581256,
-      "time": 95.5,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 95.5,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 39.7,
+        "effort": 0,
+        "arrival": 14.8
+      },
       "leadingCoef": 4.73329955,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:46:17Z",
-      "leading": 39.7,
       "total": 577,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:16:01Z",
-      "timeFrac": 0.2378418,
       "leadingArea": "1592794.0000 km^2 s",
-      "arrival": 14.8,
-      "place": "43"
+      "place": "43",
+      "fractions": {
+        "time": 0.2378418,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.39581256,
+        "effort": 0,
+        "arrival": 0.20641562
+      }
     }
   ],
   [
@@ -995,20 +1554,33 @@
     ],
     {
       "timeElapsed": "4.598889 h",
-      "leadingFrac": 0.41475573,
-      "time": 79.7,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 79.7,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 41.6,
+        "effort": 0,
+        "arrival": 14.6
+      },
       "leadingCoef": 4.69017425,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T07:49:30Z",
-      "leading": 41.6,
       "total": 557,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:13:34Z",
-      "timeFrac": 0.19861906,
       "leadingArea": "1578282.0000 km^2 s",
-      "arrival": 14.6,
-      "place": "44"
+      "place": "44",
+      "fractions": {
+        "time": 0.19861906,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.41475573,
+        "effort": 0,
+        "arrival": 0.20362622
+      }
     }
   ],
   [
@@ -1018,20 +1590,33 @@
     ],
     {
       "timeElapsed": "4.712500 h",
-      "leadingFrac": 0.04985045,
-      "time": 61.3,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 61.3,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 5,
+        "effort": 0,
+        "arrival": 14.5
+      },
       "leadingCoef": 5.6271739,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T08:14:33Z",
-      "leading": 5,
       "total": 507,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:31:48Z",
-      "timeFrac": 0.15267099,
       "leadingArea": "1893590.0000 km^2 s",
-      "arrival": 14.5,
-      "place": "45"
+      "place": "45",
+      "fractions": {
+        "time": 0.15267099,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.04985045,
+        "effort": 0,
+        "arrival": 0.20223152
+      }
     }
   ],
   [
@@ -1041,20 +1626,33 @@
     ],
     {
       "timeElapsed": "4.859167 h",
-      "leadingFrac": 0,
-      "time": 38.2,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.822000 km",
+        "flown": "201.822000 km"
+      },
+      "breakdown": {
+        "time": 38.2,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 14.4
+      },
       "leadingCoef": 6.12903906,
-      "distanceMade": "201.821000 km",
+      "landedMade": "201.821000 km",
       "es": "2012-01-12T08:35:41Z",
-      "leading": 0,
       "total": 479,
-      "distanceFrac": 1,
       "ss": "2012-01-12T03:44:08Z",
-      "timeFrac": 0.09513178,
       "leadingArea": "2062472.0000 km^2 s",
-      "arrival": 14.4,
-      "place": "46"
+      "place": "46",
+      "fractions": {
+        "time": 0.09513178,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0.20083682
+      }
     }
   ],
   [
@@ -1064,20 +1662,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.54636092,
-      "time": 0,
-      "distance": 422.2,
+      "reach": {
+        "extra": "198.663000 km",
+        "flown": "198.663000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 422.2,
+        "leading": 54.8,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 4.41271856,
-      "distanceMade": "198.663000 km",
+      "landedMade": "198.379000 km",
       "es": null,
-      "leading": 54.8,
       "total": 477,
-      "distanceFrac": 0.9843524707537867,
       "ss": "2012-01-12T03:43:38Z",
-      "timeFrac": 0,
       "leadingArea": "1484916.0000 km^2 s",
-      "arrival": 0,
-      "place": "47"
+      "place": "47",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.98968589,
+        "leading": 0.54636092,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1087,20 +1698,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.25324028,
-      "time": 0,
-      "distance": 409.9,
+      "reach": {
+        "extra": "191.932000 km",
+        "flown": "191.932000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 409.9,
+        "leading": 25.4,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.07778444,
-      "distanceMade": "191.932000 km",
+      "landedMade": "191.476000 km",
       "es": null,
-      "leading": 25.4,
       "total": 435,
-      "distanceFrac": 0.9510011346688404,
       "ss": "2012-01-12T03:12:11Z",
-      "timeFrac": 0,
       "leadingArea": "1708716.0000 km^2 s",
-      "arrival": 0,
-      "place": "48"
+      "place": "48",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.96085326,
+        "leading": 0.25324028,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1110,20 +1734,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.05882353,
-      "time": 0,
-      "distance": 426.6,
+      "reach": {
+        "extra": "201.819000 km",
+        "flown": "201.819000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 426.6,
+        "leading": 5.9,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.60164461,
-      "distanceMade": "201.819000 km",
+      "landedMade": "201.819000 km",
       "es": null,
-      "leading": 5.9,
       "total": 433,
-      "distanceFrac": 0.99999009022847,
       "ss": "2012-01-12T03:27:21Z",
-      "timeFrac": 0,
       "leadingArea": "1885000.0000 km^2 s",
-      "arrival": 0,
-      "place": "49"
+      "place": "49",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.05882353,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1133,20 +1770,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.26021934,
-      "time": 0,
-      "distance": 406,
+      "reach": {
+        "extra": "190.345000 km",
+        "flown": "190.345000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 406,
+        "leading": 26.1,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.06005924,
-      "distanceMade": "190.345000 km",
+      "landedMade": "190.275000 km",
       "es": null,
-      "leading": 26.1,
       "total": 432,
-      "distanceFrac": 0.9431377309596127,
       "ss": "2012-01-12T03:16:24Z",
-      "timeFrac": 0,
       "leadingArea": "1702752.0000 km^2 s",
-      "arrival": 0,
-      "place": "50"
+      "place": "50",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.9517112,
+        "leading": 0.26021934,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1156,20 +1806,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.17248255,
-      "time": 0,
-      "distance": 412.3,
+      "reach": {
+        "extra": "193.089000 km",
+        "flown": "193.089000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 412.3,
+        "leading": 17.3,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.28737154,
-      "distanceMade": "193.089000 km",
+      "landedMade": "193.019000 km",
       "es": null,
-      "leading": 17.3,
       "total": 430,
-      "distanceFrac": 0.956733937499071,
       "ss": "2012-01-12T03:53:01Z",
-      "timeFrac": 0,
       "leadingArea": "1779244.0000 km^2 s",
-      "arrival": 0,
-      "place": "51"
+      "place": "51",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.96647914,
+        "leading": 0.17248255,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1179,20 +1842,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.34995015,
-      "time": 0,
-      "distance": 389.8,
+      "reach": {
+        "extra": "183.701000 km",
+        "flown": "183.701000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 389.8,
+        "leading": 35.1,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 4.84033629,
-      "distanceMade": "183.701000 km",
+      "landedMade": "183.375000 km",
       "es": null,
-      "leading": 35.1,
       "total": 425,
-      "distanceFrac": 0.9102174699362306,
       "ss": "2012-01-12T03:46:35Z",
-      "timeFrac": 0,
       "leadingArea": "1628813.0000 km^2 s",
-      "arrival": 0,
-      "place": "52"
+      "place": "52",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.91373652,
+        "leading": 0.34995015,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1202,20 +1878,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.11365902,
-      "time": 0,
-      "distance": 390.5,
+      "reach": {
+        "extra": "183.986000 km",
+        "flown": "183.986000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 390.5,
+        "leading": 11.4,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.44761891,
-      "distanceMade": "183.986000 km",
+      "landedMade": "183.679000 km",
       "es": null,
-      "leading": 11.4,
       "total": 402,
-      "distanceFrac": 0.9116296123792866,
       "ss": "2012-01-12T03:34:45Z",
-      "timeFrac": 0,
       "leadingArea": "1833169.0000 km^2 s",
-      "arrival": 0,
-      "place": "53"
+      "place": "53",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.9153774,
+        "leading": 0.11365902,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1225,20 +1914,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.24227318,
-      "time": 0,
-      "distance": 372.6,
+      "reach": {
+        "extra": "177.660000 km",
+        "flown": "177.660000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 372.6,
+        "leading": 24.3,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.10417017,
-      "distanceMade": "177.660000 km",
+      "landedMade": "176.708000 km",
       "es": null,
-      "leading": 24.3,
       "total": 397,
-      "distanceFrac": 0.880285005029209,
       "ss": "2012-01-12T03:25:39Z",
-      "timeFrac": 0,
       "leadingArea": "1717595.0000 km^2 s",
-      "arrival": 0,
-      "place": "54"
+      "place": "54",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.87341772,
+        "leading": 0.24227318,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1248,20 +1950,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.08773679,
-      "time": 0,
-      "distance": 385.5,
+      "reach": {
+        "extra": "182.195000 km",
+        "flown": "182.195000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 385.5,
+        "leading": 8.8,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.51874591,
-      "distanceMade": "182.195000 km",
+      "landedMade": "182.072000 km",
       "es": null,
-      "leading": 8.8,
       "total": 394,
-      "distanceFrac": 0.9027554119739769,
       "ss": "2012-01-12T03:31:43Z",
-      "timeFrac": 0,
       "leadingArea": "1857103.0000 km^2 s",
-      "arrival": 0,
-      "place": "55"
+      "place": "55",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.90365682,
+        "leading": 0.08773679,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1271,20 +1986,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.2333001,
-      "time": 0,
-      "distance": 335.6,
+      "reach": {
+        "extra": "158.300000 km",
+        "flown": "158.300000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 335.6,
+        "leading": 23.4,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.12826348,
-      "distanceMade": "158.300000 km",
+      "landedMade": "158.185000 km",
       "es": null,
-      "leading": 23.4,
       "total": 359,
-      "distanceFrac": 0.7843584166167049,
       "ss": "2012-01-12T03:15:48Z",
-      "timeFrac": 0,
       "leadingArea": "1725703.0000 km^2 s",
-      "arrival": 0,
-      "place": "56"
+      "place": "56",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.78668542,
+        "leading": 0.2333001,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1294,20 +2022,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 357.4,
+      "reach": {
+        "extra": "171.530000 km",
+        "flown": "171.530000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 357.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.4831166,
-      "distanceMade": "171.530000 km",
+      "landedMade": "171.473000 km",
       "es": null,
-      "leading": 0,
       "total": 357,
-      "distanceFrac": 0.8499115552890928,
       "ss": "2012-01-12T03:41:58Z",
-      "timeFrac": 0,
       "leadingArea": "2181622.0000 km^2 s",
-      "arrival": 0,
-      "place": "57"
+      "place": "57",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.83778715,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1317,20 +2058,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.1894317,
-      "time": 0,
-      "distance": 334.9,
+      "reach": {
+        "extra": "157.924000 km",
+        "flown": "157.924000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 334.9,
+        "leading": 19,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.24094431,
-      "distanceMade": "157.924000 km",
+      "landedMade": "157.831000 km",
       "es": null,
-      "leading": 19,
       "total": 354,
-      "distanceFrac": 0.782495379569024,
       "ss": "2012-01-12T03:30:31Z",
-      "timeFrac": 0,
       "leadingArea": "1763621.0000 km^2 s",
-      "arrival": 0,
-      "place": "58"
+      "place": "58",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.78504454,
+        "leading": 0.1894317,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1340,20 +2094,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.11465603,
-      "time": 0,
-      "distance": 335.9,
+      "reach": {
+        "extra": "158.545000 km",
+        "flown": "158.545000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 335.9,
+        "leading": 11.5,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.44528645,
-      "distanceMade": "158.545000 km",
+      "landedMade": "158.192000 km",
       "es": null,
-      "leading": 11.5,
       "total": 347,
-      "distanceFrac": 0.7855723636291567,
       "ss": "2012-01-12T03:48:31Z",
-      "timeFrac": 0,
       "leadingArea": "1832384.0000 km^2 s",
-      "arrival": 0,
-      "place": "59"
+      "place": "59",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.78738865,
+        "leading": 0.11465603,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1363,20 +2130,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0.12163509,
-      "time": 0,
-      "distance": 307.7,
+      "reach": {
+        "extra": "144.657000 km",
+        "flown": "144.657000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 307.7,
+        "leading": 12.2,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.42584158,
-      "distanceMade": "144.657000 km",
+      "landedMade": "144.286000 km",
       "es": null,
-      "leading": 12.2,
       "total": 320,
-      "distanceFrac": 0.7167589101233272,
       "ss": "2012-01-12T02:46:59Z",
-      "timeFrac": 0,
       "leadingArea": "1825840.0000 km^2 s",
-      "arrival": 0,
-      "place": "60"
+      "place": "60",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.72128458,
+        "leading": 0.12163509,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1386,20 +2166,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 296.9,
+      "reach": {
+        "extra": "137.019000 km",
+        "flown": "137.019000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 296.9,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.39617076,
-      "distanceMade": "137.019000 km",
+      "landedMade": "136.887000 km",
       "es": null,
-      "leading": 0,
       "total": 297,
-      "distanceFrac": 0.678913492649427,
       "ss": "2012-01-12T03:42:59Z",
-      "timeFrac": 0,
       "leadingArea": "2152364.0000 km^2 s",
-      "arrival": 0,
-      "place": "61"
+      "place": "61",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.69596812,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1409,20 +2202,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 295.6,
+      "reach": {
+        "extra": "136.285000 km",
+        "flown": "136.285000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 295.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.34321928,
-      "distanceMade": "136.285000 km",
+      "landedMade": "136.101000 km",
       "es": null,
-      "leading": 0,
       "total": 296,
-      "distanceFrac": 0.6752766064978372,
       "ss": "2012-01-12T03:29:14Z",
-      "timeFrac": 0,
       "leadingArea": "2134545.0000 km^2 s",
-      "arrival": 0,
-      "place": "62"
+      "place": "62",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.69292077,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1432,20 +2238,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 289.7,
+      "reach": {
+        "extra": "133.466000 km",
+        "flown": "133.466000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 289.7,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.53701496,
-      "distanceMade": "133.466000 km",
+      "landedMade": "133.256000 km",
       "es": null,
-      "leading": 0,
       "total": 290,
-      "distanceFrac": 0.6613087835259958,
       "ss": "2012-01-12T03:40:09Z",
-      "timeFrac": 0,
       "leadingArea": "2199759.0000 km^2 s",
-      "arrival": 0,
-      "place": "63"
+      "place": "63",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.67909048,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1455,20 +2274,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 280.2,
+      "reach": {
+        "extra": "129.241000 km",
+        "flown": "129.241000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 280.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 5.86873329,
-      "distanceMade": "129.241000 km",
+      "landedMade": "126.104000 km",
       "es": null,
-      "leading": 0,
       "total": 280,
-      "distanceFrac": 0.6403743911684117,
       "ss": "2012-01-12T03:07:34Z",
-      "timeFrac": 0,
       "leadingArea": "1974877.0000 km^2 s",
-      "arrival": 0,
-      "place": "64"
+      "place": "64",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.65682138,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1478,20 +2310,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 270.8,
+      "reach": {
+        "extra": "125.472000 km",
+        "flown": "125.472000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 270.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.48925613,
-      "distanceMade": "125.472000 km",
+      "landedMade": "125.295000 km",
       "es": null,
-      "leading": 0,
       "total": 271,
-      "distanceFrac": 0.621699426719717,
       "ss": "2012-01-12T03:28:37Z",
-      "timeFrac": 0,
       "leadingArea": "2183688.0000 km^2 s",
-      "arrival": 0,
-      "place": "65"
+      "place": "65",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.63478669,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1501,20 +2346,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 264.4,
+      "reach": {
+        "extra": "122.955000 km",
+        "flown": "122.955000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 264.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.31467565,
-      "distanceMade": "122.955000 km",
+      "landedMade": "122.664000 km",
       "es": null,
-      "leading": 0,
       "total": 264,
-      "distanceFrac": 0.6092279792489385,
       "ss": "2012-01-12T03:13:30Z",
-      "timeFrac": 0,
       "leadingArea": "2124940.0000 km^2 s",
-      "arrival": 0,
-      "place": "66"
+      "place": "66",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.61978434,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1524,20 +2382,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 252.5,
+      "reach": {
+        "extra": "117.687000 km",
+        "flown": "117.687000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 252.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.1357506,
-      "distanceMade": "117.687000 km",
+      "landedMade": "117.175000 km",
       "es": null,
-      "leading": 0,
       "total": 253,
-      "distanceFrac": 0.5831256410383459,
       "ss": "2012-01-12T03:35:19Z",
-      "timeFrac": 0,
       "leadingArea": "2401239.0000 km^2 s",
-      "arrival": 0,
-      "place": "67"
+      "place": "67",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.59188936,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1547,20 +2418,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 235.8,
+      "reach": {
+        "extra": "109.255000 km",
+        "flown": "109.255000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 235.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 6.35086625,
-      "distanceMade": "109.255000 km",
+      "landedMade": "108.287000 km",
       "es": null,
-      "leading": 0,
       "total": 236,
-      "distanceFrac": 0.5413460442669494,
       "ss": "2012-01-12T03:04:44Z",
-      "timeFrac": 0,
       "leadingArea": "2137119.0000 km^2 s",
-      "arrival": 0,
-      "place": "68"
+      "place": "68",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.55274262,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1570,20 +2454,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 233.3,
+      "reach": {
+        "extra": "107.804000 km",
+        "flown": "107.804000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 233.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.54986361,
-      "distanceMade": "107.804000 km",
+      "landedMade": "107.649000 km",
       "es": null,
-      "leading": 0,
       "total": 233,
-      "distanceFrac": 0.5341565050217767,
       "ss": "2012-01-12T03:43:15Z",
-      "timeFrac": 0,
       "leadingArea": "2540591.0000 km^2 s",
-      "arrival": 0,
-      "place": "69"
+      "place": "69",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.54688233,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1593,20 +2490,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 209.8,
+      "reach": {
+        "extra": "94.597000 km",
+        "flown": "94.597000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 209.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.4771271,
-      "distanceMade": "94.597000 km",
+      "landedMade": "94.270000 km",
       "es": null,
-      "leading": 0,
       "total": 210,
-      "distanceFrac": 0.4687173287219864,
       "ss": "2012-01-12T03:37:07Z",
-      "timeFrac": 0,
       "leadingArea": "2516115.0000 km^2 s",
-      "arrival": 0,
-      "place": "70"
+      "place": "70",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.49179559,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1616,20 +2526,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 208.5,
+      "reach": {
+        "extra": "93.616000 km",
+        "flown": "93.616000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 208.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.50039566,
-      "distanceMade": "93.616000 km",
+      "landedMade": "93.299000 km",
       "es": null,
-      "leading": 0,
       "total": 209,
-      "distanceFrac": 0.4638565857864147,
       "ss": "2012-01-12T03:31:34Z",
-      "timeFrac": 0,
       "leadingArea": "2523945.0000 km^2 s",
-      "arrival": 0,
-      "place": "71"
+      "place": "71",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.48874824,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1639,20 +2562,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 208.5,
+      "reach": {
+        "extra": "93.632000 km",
+        "flown": "93.632000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 208.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.51600426,
-      "distanceMade": "93.632000 km",
+      "landedMade": "93.169000 km",
       "es": null,
-      "leading": 0,
       "total": 209,
-      "distanceFrac": 0.46393586395865644,
       "ss": "2012-01-12T03:09:03Z",
-      "timeFrac": 0,
       "leadingArea": "2529197.0000 km^2 s",
-      "arrival": 0,
-      "place": "71"
+      "place": "71",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.48874824,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1662,20 +2598,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 204.7,
+      "reach": {
+        "extra": "91.849000 km",
+        "flown": "91.849000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 204.7,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.27132872,
-      "distanceMade": "91.849000 km",
+      "landedMade": "91.636000 km",
       "es": null,
-      "leading": 0,
       "total": 205,
-      "distanceFrac": 0.45510130263946763,
       "ss": "2012-01-12T03:07:41Z",
-      "timeFrac": 0,
       "leadingArea": "2446862.0000 km^2 s",
-      "arrival": 0,
-      "place": "73"
+      "place": "73",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.4798406,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1685,20 +2634,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 200.8,
+      "reach": {
+        "extra": "90.261000 km",
+        "flown": "90.261000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 200.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.4522237,
-      "distanceMade": "90.261000 km",
+      "landedMade": "90.045000 km",
       "es": null,
-      "leading": 0,
       "total": 201,
-      "distanceFrac": 0.44723294404447506,
       "ss": "2012-01-12T03:36:31Z",
-      "timeFrac": 0,
       "leadingArea": "2507735.0000 km^2 s",
-      "arrival": 0,
-      "place": "74"
+      "place": "74",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.47069855,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1708,20 +2670,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 199.2,
+      "reach": {
+        "extra": "89.692000 km",
+        "flown": "89.692000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 199.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.75694089,
-      "distanceMade": "89.692000 km",
+      "landedMade": "89.315000 km",
       "es": null,
-      "leading": 0,
       "total": 199,
-      "distanceFrac": 0.4444136140441282,
       "ss": "2012-01-12T03:44:26Z",
-      "timeFrac": 0,
       "leadingArea": "2610274.0000 km^2 s",
-      "arrival": 0,
-      "place": "75"
+      "place": "75",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.46694796,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1731,20 +2706,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 189.2,
+      "reach": {
+        "extra": "86.557000 km",
+        "flown": "86.557000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 189.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.70860019,
-      "distanceMade": "86.557000 km",
+      "landedMade": "86.248000 km",
       "es": null,
-      "leading": 0,
       "total": 189,
-      "distanceFrac": 0.4288800471705125,
       "ss": "2012-01-12T03:30:53Z",
-      "timeFrac": 0,
       "leadingArea": "2594007.0000 km^2 s",
-      "arrival": 0,
-      "place": "76"
+      "place": "76",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.4435068,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1754,20 +2742,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 152.6,
+      "reach": {
+        "extra": "70.234000 km",
+        "flown": "70.234000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 152.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 7.94097862,
-      "distanceMade": "70.234000 km",
+      "landedMade": "70.170000 km",
       "es": null,
-      "leading": 0,
       "total": 153,
-      "distanceFrac": 0.3480014468266434,
       "ss": "2012-01-12T03:11:46Z",
-      "timeFrac": 0,
       "leadingArea": "2672205.0000 km^2 s",
-      "arrival": 0,
-      "place": "77"
+      "place": "77",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.35771214,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1777,20 +2778,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 150.3,
+      "reach": {
+        "extra": "68.650000 km",
+        "flown": "68.650000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 150.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.10764706,
-      "distanceMade": "68.650000 km",
+      "landedMade": "68.183000 km",
       "es": null,
-      "leading": 0,
       "total": 150,
-      "distanceFrac": 0.34015290777471124,
       "ss": "2012-01-12T03:02:39Z",
-      "timeFrac": 0,
       "leadingArea": "2728290.0000 km^2 s",
-      "arrival": 0,
-      "place": "78"
+      "place": "78",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.35232068,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1800,20 +2814,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 137.6,
+      "reach": {
+        "extra": "61.444000 km",
+        "flown": "61.444000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 137.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.45126804,
-      "distanceMade": "61.444000 km",
+      "landedMade": "60.430000 km",
       "es": null,
-      "leading": 0,
       "total": 138,
-      "distanceFrac": 0.30444800095133806,
       "ss": "2012-01-12T03:12:00Z",
-      "timeFrac": 0,
       "leadingArea": "2843921.0000 km^2 s",
-      "arrival": 0,
-      "place": "79"
+      "place": "79",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.3225504,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1823,20 +2850,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 137.5,
+      "reach": {
+        "extra": "61.406000 km",
+        "flown": "61.406000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 137.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.49510562,
-      "distanceMade": "61.406000 km",
+      "landedMade": "61.406000 km",
       "es": null,
-      "leading": 0,
       "total": 138,
-      "distanceFrac": 0.3042597152922639,
       "ss": "2012-01-12T03:25:16Z",
-      "timeFrac": 0,
       "leadingArea": "2858673.0000 km^2 s",
-      "arrival": 0,
-      "place": "79"
+      "place": "79",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.32231599,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1846,20 +2886,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 131.7,
+      "reach": {
+        "extra": "59.081000 km",
+        "flown": "59.081000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 131.7,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.61349568,
-      "distanceMade": "59.081000 km",
+      "landedMade": "58.776000 km",
       "es": null,
-      "leading": 0,
       "total": 132,
-      "distanceFrac": 0.29273960588838627,
       "ss": "2012-01-12T03:13:10Z",
-      "timeFrac": 0,
       "leadingArea": "2898512.0000 km^2 s",
-      "arrival": 0,
-      "place": "81"
+      "place": "81",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.30872011,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1869,20 +2922,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 127.8,
+      "reach": {
+        "extra": "57.696000 km",
+        "flown": "57.696000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 127.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.63444096,
-      "distanceMade": "57.696000 km",
+      "landedMade": "57.341000 km",
       "es": null,
-      "leading": 0,
       "total": 128,
-      "distanceFrac": 0.28587708910371074,
       "ss": "2012-01-12T03:30:08Z",
-      "timeFrac": 0,
       "leadingArea": "2905560.0000 km^2 s",
-      "arrival": 0,
-      "place": "82"
+      "place": "82",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.29957806,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1892,20 +2958,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 125.4,
+      "reach": {
+        "extra": "56.844000 km",
+        "flown": "56.844000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 125.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.61512239,
-      "distanceMade": "56.844000 km",
+      "landedMade": "56.002000 km",
       "es": null,
-      "leading": 0,
       "total": 125,
-      "distanceFrac": 0.2816555264318381,
       "ss": "2012-01-12T03:06:44Z",
-      "timeFrac": 0,
       "leadingArea": "2899060.0000 km^2 s",
-      "arrival": 0,
-      "place": "83"
+      "place": "83",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.29395218,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1915,20 +2994,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 123.2,
+      "reach": {
+        "extra": "56.147000 km",
+        "flown": "56.147000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 123.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 8.59834769,
-      "distanceMade": "56.147000 km",
+      "landedMade": "56.027000 km",
       "es": null,
-      "leading": 0,
       "total": 123,
-      "distanceFrac": 0.2782019710535574,
       "ss": "2012-01-12T03:11:00Z",
-      "timeFrac": 0,
       "leadingArea": "2893415.0000 km^2 s",
-      "arrival": 0,
-      "place": "84"
+      "place": "84",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28879512,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1938,20 +3030,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 108.6,
+      "reach": {
+        "extra": "51.595000 km",
+        "flown": "51.595000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 108.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 9.00930128,
-      "distanceMade": "51.595000 km",
+      "landedMade": "51.325000 km",
       "es": null,
-      "leading": 0,
       "total": 109,
-      "distanceFrac": 0.25564733105078263,
       "ss": "2012-01-12T03:26:44Z",
-      "timeFrac": 0,
       "leadingArea": "3031704.0000 km^2 s",
-      "arrival": 0,
-      "place": "85"
+      "place": "85",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.25457103,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1961,20 +3066,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 96,
+      "reach": {
+        "extra": "47.841000 km",
+        "flown": "47.841000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 96,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 9.17741835,
-      "distanceMade": "47.841000 km",
+      "landedMade": "47.574000 km",
       "es": null,
-      "leading": 0,
       "total": 96,
-      "distanceFrac": 0.23704668988856462,
       "ss": "2012-01-12T03:13:24Z",
-      "timeFrac": 0,
       "leadingArea": "3088277.0000 km^2 s",
-      "arrival": 0,
-      "place": "86"
+      "place": "86",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.22503516,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -1984,20 +3102,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 85.2,
+      "reach": {
+        "extra": "44.104000 km",
+        "flown": "44.104000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 85.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 9.3535924,
-      "distanceMade": "44.104000 km",
+      "landedMade": "43.733000 km",
       "es": null,
-      "leading": 0,
       "total": 85,
-      "distanceFrac": 0.21853028178435346,
       "ss": "2012-01-12T03:45:59Z",
-      "timeFrac": 0,
       "leadingArea": "3147561.0000 km^2 s",
-      "arrival": 0,
-      "place": "87"
+      "place": "87",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.19971871,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2007,20 +3138,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 74.4,
+      "reach": {
+        "extra": "39.137000 km",
+        "flown": "39.137000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 74.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 9.43771138,
-      "distanceMade": "39.137000 km",
+      "landedMade": "38.748000 km",
       "es": null,
-      "leading": 0,
       "total": 74,
-      "distanceFrac": 0.1939193641890586,
       "ss": "2012-01-12T03:10:55Z",
-      "timeFrac": 0,
       "leadingArea": "3175868.0000 km^2 s",
-      "arrival": 0,
-      "place": "88"
+      "place": "88",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.17440225,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2030,20 +3174,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 58.6,
+      "reach": {
+        "extra": "30.913000 km",
+        "flown": "30.913000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 58.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 9.9231647,
-      "distanceMade": "30.913000 km",
+      "landedMade": "30.598000 km",
       "es": null,
-      "leading": 0,
       "total": 59,
-      "distanceFrac": 0.1531703836568048,
       "ss": "2012-01-12T03:14:17Z",
-      "timeFrac": 0,
       "leadingArea": "3339227.0000 km^2 s",
-      "arrival": 0,
-      "place": "89"
+      "place": "89",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.13736521,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2053,20 +3210,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 45.4,
+      "reach": {
+        "extra": "22.733000 km",
+        "flown": "22.733000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 45.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 10.26655734,
-      "distanceMade": "22.733000 km",
+      "landedMade": "22.373000 km",
       "es": null,
-      "leading": 0,
       "total": 45,
-      "distanceFrac": 0.11263941809821575,
       "ss": "2012-01-12T02:51:49Z",
-      "timeFrac": 0,
       "leadingArea": "3454781.0000 km^2 s",
-      "arrival": 0,
-      "place": "90"
+      "place": "90",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.10642288,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2076,20 +3246,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 38.3,
+      "reach": {
+        "extra": "18.673000 km",
+        "flown": "18.673000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 38.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 10.55657034,
-      "distanceMade": "18.673000 km",
+      "landedMade": "18.453000 km",
       "es": null,
-      "leading": 0,
       "total": 38,
-      "distanceFrac": 0.09252258189187448,
       "ss": "2012-01-12T04:09:26Z",
-      "timeFrac": 0,
       "leadingArea": "3552373.0000 km^2 s",
-      "arrival": 0,
-      "place": "91"
+      "place": "91",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.08977965,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2099,20 +3282,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 34.5,
+      "reach": {
+        "extra": "16.615000 km",
+        "flown": "16.615000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 34.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 10.64867035,
-      "distanceMade": "16.615000 km",
+      "landedMade": "16.521000 km",
       "es": null,
-      "leading": 0,
       "total": 35,
-      "distanceFrac": 0.08232542698728082,
       "ss": "2012-01-12T03:10:41Z",
-      "timeFrac": 0,
       "leadingArea": "3583365.0000 km^2 s",
-      "arrival": 0,
-      "place": "92"
+      "place": "92",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.08087201,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2122,20 +3318,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 28.1,
+      "reach": {
+        "extra": "13.623000 km",
+        "flown": "13.623000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 28.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 0,
-      "distanceMade": "13.623000 km",
+      "landedMade": "13.300000 km",
       "es": null,
-      "leading": 0,
       "total": 28,
-      "distanceFrac": 0.06750040877807563,
       "ss": null,
-      "timeFrac": 0,
       "leadingArea": "0.0000 km^2 s",
-      "arrival": 0,
-      "place": "93"
+      "place": "93",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.06586967,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ],
   [
@@ -2145,20 +3354,33 @@
     ],
     {
       "timeElapsed": null,
-      "leadingFrac": 0,
-      "time": 0,
-      "distance": 8.9,
+      "reach": {
+        "extra": "0.000000 km",
+        "flown": "0.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 8.9,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
       "leadingCoef": 0,
-      "distanceMade": "5.000000 km",
+      "landedMade": "0.000000 km",
       "es": null,
-      "leading": 0,
       "total": 9,
-      "distanceFrac": 0.024774428825543426,
       "ss": null,
-      "timeFrac": 0,
       "leadingArea": "0.0000 km^2 s",
-      "arrival": 0,
-      "place": "94"
+      "place": "94",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.02086263,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
     }
   ]
 ]

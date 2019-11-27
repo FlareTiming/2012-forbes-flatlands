@@ -5,6 +5,10 @@
       "Gerolf Heinrichs"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 334.8,
         "reach": 260.859,
@@ -14,22 +18,21 @@
         "arrival": 59.8
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "40.05 km / h",
-        "ssElapsed": "3.719213 h",
-        "gsElapsed": "3.719213 h",
-        "es": "2012-01-14T07:14:24.614824454852Z",
-        "ss": "2012-01-14T03:31:15.448849621348Z",
-        "ssDistance": "148.965 km",
-        "gsVelocity": "40.00 km / h"
+        "ssVelocity": "40.06 km / h",
+        "ssElapsed": "3.718498 h",
+        "gsElapsed": "3.718498 h",
+        "es": "2012-01-14T07:14:24.61483374102Z",
+        "ss": "2012-01-14T03:31:18.022783494136Z",
+        "ssDistance": "148.964 km",
+        "gsVelocity": "40.10 km / h"
       },
       "total": 1000,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "1",
-      "reachDistance": "158.865 km"
+      "place": "1"
     }
   ],
   [
@@ -38,31 +41,34 @@
       "Attila Bertok"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 241.3,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 68.6,
+        "leading": 68.5,
         "effort": 260.859,
         "arrival": 55.4
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "37.20 km / h",
-        "ssElapsed": "4.004040 h",
-        "gsElapsed": "4.004040 h",
-        "es": "2012-01-14T07:31:07.089658199088Z",
-        "ss": "2012-01-14T03:30:52.547410198008Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "37.21 km / h",
+        "ssElapsed": "4.003195 h",
+        "gsElapsed": "4.003195 h",
+        "es": "2012-01-14T07:31:07.089658130097Z",
+        "ss": "2012-01-14T03:30:55.587779838351Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "37.20 km / h"
       },
       "total": 887,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "2",
-      "reachDistance": "158.865 km"
+      "place": "2"
     }
   ],
   [
@@ -71,31 +77,34 @@
       "Jonas Lobitz"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 227.8,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 76.2,
+        "leading": 76,
         "effort": 260.859,
         "arrival": 51.3
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "36.62 km / h",
-        "ssElapsed": "4.067857 h",
-        "gsElapsed": "4.067857 h",
-        "es": "2012-01-14T07:35:18.31771989944Z",
-        "ss": "2012-01-14T03:31:14.032729518098Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "36.63 km / h",
+        "ssElapsed": "4.067086 h",
+        "gsElapsed": "4.067086 h",
+        "es": "2012-01-14T07:35:18.317723301335Z",
+        "ss": "2012-01-14T03:31:16.807088607842Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "36.60 km / h"
       },
       "total": 877,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "3",
-      "reachDistance": "158.865 km"
+      "place": "3"
     }
   ],
   [
@@ -104,31 +113,34 @@
       "Peter Dall"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 259.7,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 43.4,
+        "leading": 43.3,
         "effort": 260.859,
         "arrival": 47.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "37.96 km / h",
-        "ssElapsed": "3.924142 h",
-        "gsElapsed": "3.924142 h",
-        "es": "2012-01-14T07:39:30.476894491485Z",
-        "ss": "2012-01-14T03:44:03.56693146063Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "37.97 km / h",
+        "ssElapsed": "3.923463 h",
+        "gsElapsed": "3.923463 h",
+        "es": "2012-01-14T07:39:30.47689044964Z",
+        "ss": "2012-01-14T03:44:06.01081705043Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "38.00 km / h"
       },
       "total": 872,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "4",
-      "reachDistance": "158.865 km"
+      "place": "4"
     }
   ],
   [
@@ -137,31 +149,34 @@
       "Davide Guiducci"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 194.4,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 50.2,
+        "leading": 50.1,
         "effort": 260.859,
         "arrival": 40.6
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "35.11 km / h",
-        "ssElapsed": "4.242844 h",
-        "gsElapsed": "4.242844 h",
-        "es": "2012-01-14T07:50:30.041334237405Z",
-        "ss": "2012-01-14T03:35:55.804470974074Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "35.12 km / h",
+        "ssElapsed": "4.242131 h",
+        "gsElapsed": "4.242131 h",
+        "es": "2012-01-14T07:50:30.041334289374Z",
+        "ss": "2012-01-14T03:35:58.368777987538Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "35.10 km / h"
       },
       "total": 807,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "5",
-      "reachDistance": "158.865 km"
+      "place": "5"
     }
   ],
   [
@@ -170,31 +185,34 @@
       "Trent Brown"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 199.2,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 53.2,
+        "leading": 53.1,
         "effort": 260.859,
         "arrival": 29.6
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "35.33 km / h",
-        "ssElapsed": "4.216535 h",
-        "gsElapsed": "4.216535 h",
-        "es": "2012-01-14T07:55:39.722077742892Z",
-        "ss": "2012-01-14T03:42:40.195374444115Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "35.34 km / h",
+        "ssElapsed": "4.215699 h",
+        "gsElapsed": "4.215699 h",
+        "es": "2012-01-14T07:55:39.722076557268Z",
+        "ss": "2012-01-14T03:42:43.20394202437Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "35.30 km / h"
       },
       "total": 804,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "6",
-      "reachDistance": "158.865 km"
+      "place": "6"
     }
   ],
   [
@@ -203,31 +221,34 @@
       "Matthew Barlow"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 181.7,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 55.2,
+        "leading": 55.1,
         "effort": 260.859,
         "arrival": 43.9
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "34.52 km / h",
-        "ssElapsed": "4.315429 h",
-        "gsElapsed": "4.315429 h",
-        "es": "2012-01-14T07:50:06.22312153554Z",
-        "ss": "2012-01-14T03:31:10.680004315608Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.314771 h",
+        "gsElapsed": "4.314771 h",
+        "es": "2012-01-14T07:50:06.223121155855Z",
+        "ss": "2012-01-14T03:31:13.04588560688Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.50 km / h"
       },
-      "total": 803,
-      "landedDistance": "158.865 km",
+      "total": 802,
       "penalties": [],
-      "place": "7",
-      "reachDistance": "158.865 km"
+      "place": "7"
     }
   ],
   [
@@ -236,8 +257,12 @@
       "Curt Warren"
     ],
     {
+      "reach": {
+        "extra": "158.865 km",
+        "flown": "158.865 km"
+      },
       "breakdown": {
-        "time": 254,
+        "time": 253.8,
         "reach": 260.859,
         "distance": 521.718,
         "leading": 0,
@@ -245,6 +270,7 @@
         "arrival": 25.4
       },
       "stoppedAlt": null,
+      "landedMade": "158.865 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -253,14 +279,12 @@
         "gsElapsed": "3.947778 h",
         "es": "2012-01-14T07:56:52Z",
         "ss": "2012-01-14T04:00:00Z",
-        "ssDistance": "148.965 km",
+        "ssDistance": "148.964 km",
         "gsVelocity": "37.70 km / h"
       },
       "total": 801,
-      "landedDistance": "158.866 km",
       "penalties": [],
-      "place": "8",
-      "reachDistance": "158.866 km"
+      "place": "8"
     }
   ],
   [
@@ -269,6 +293,10 @@
       "Rohan Holtkamp"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 188.2,
         "reach": 260.859,
@@ -278,22 +306,21 @@
         "arrival": 37.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.82 km / h",
-        "ssElapsed": "4.278268 h",
-        "gsElapsed": "4.278268 h",
-        "es": "2012-01-14T07:52:23.579608355443Z",
-        "ss": "2012-01-14T03:35:41.81629130806Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "34.83 km / h",
+        "ssElapsed": "4.277504 h",
+        "gsElapsed": "4.277504 h",
+        "es": "2012-01-14T07:52:23.579609365435Z",
+        "ss": "2012-01-14T03:35:44.565831663676Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.80 km / h"
       },
       "total": 798,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "9",
-      "reachDistance": "158.865 km"
+      "place": "9"
     }
   ],
   [
@@ -302,8 +329,12 @@
       "Jon snr Durand"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
-        "time": 176.9,
+        "time": 177,
         "reach": 260.859,
         "distance": 521.718,
         "leading": 58.8,
@@ -311,22 +342,21 @@
         "arrival": 34.6
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "34.30 km / h",
-        "ssElapsed": "4.343558 h",
-        "gsElapsed": "4.343558 h",
-        "es": "2012-01-14T07:53:34.01071778529Z",
-        "ss": "2012-01-14T03:32:57.20125016623Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.342613 h",
+        "gsElapsed": "4.342613 h",
+        "es": "2012-01-14T07:53:34.010718929905Z",
+        "ss": "2012-01-14T03:33:00.60317273699Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.30 km / h"
       },
       "total": 792,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "10",
-      "reachDistance": "158.865 km"
+      "place": "10"
     }
   ],
   [
@@ -335,31 +365,34 @@
       "Franz Herrmann"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 180.1,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 57.5,
+        "leading": 57.4,
         "effort": 260.859,
         "arrival": 32
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.44 km / h",
-        "ssElapsed": "4.324786 h",
-        "gsElapsed": "4.324786 h",
-        "es": "2012-01-14T07:55:08.058974431399Z",
-        "ss": "2012-01-14T03:35:38.82874894785Z",
-        "ssDistance": "148.965 km",
-        "gsVelocity": "34.40 km / h"
+        "ssVelocity": "34.45 km / h",
+        "ssElapsed": "4.324048 h",
+        "gsElapsed": "4.324048 h",
+        "es": "2012-01-14T07:55:08.058973352344Z",
+        "ss": "2012-01-14T03:35:41.48562210887Z",
+        "ssDistance": "148.964 km",
+        "gsVelocity": "34.50 km / h"
       },
       "total": 791,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "11",
-      "reachDistance": "158.865 km"
+      "place": "11"
     }
   ],
   [
@@ -368,31 +401,34 @@
       "Valentino Bau"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 176.1,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 55.6,
+        "leading": 55.5,
         "effort": 260.859,
         "arrival": 23.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.25 km / h",
-        "ssElapsed": "4.348846 h",
-        "gsElapsed": "4.348846 h",
-        "es": "2012-01-14T07:56:59.640938871866Z",
-        "ss": "2012-01-14T03:36:03.796027456508Z",
-        "ssDistance": "148.965 km",
-        "gsVelocity": "34.20 km / h"
+        "ssVelocity": "34.26 km / h",
+        "ssElapsed": "4.348065 h",
+        "gsElapsed": "4.348065 h",
+        "es": "2012-01-14T07:56:59.64093842599Z",
+        "ss": "2012-01-14T03:36:06.607746320548Z",
+        "ssDistance": "148.964 km",
+        "gsVelocity": "34.30 km / h"
       },
       "total": 777,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "12",
-      "reachDistance": "158.865 km"
+      "place": "12"
     }
   ],
   [
@@ -401,31 +437,34 @@
       "Roland Wöhrle"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 173.2,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 52.1,
+        "leading": 52.3,
         "effort": 260.859,
         "arrival": 20.4
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.12 km / h",
-        "ssElapsed": "4.365771 h",
-        "gsElapsed": "4.365771 h",
-        "es": "2012-01-14T07:57:37.68817464123Z",
-        "ss": "2012-01-14T03:35:40.91132652141Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "34.13 km / h",
+        "ssElapsed": "4.365025 h",
+        "gsElapsed": "4.365025 h",
+        "es": "2012-01-14T07:57:37.68817258576Z",
+        "ss": "2012-01-14T03:35:43.59742687394Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.10 km / h"
       },
-      "total": 767,
-      "landedDistance": "158.865 km",
+      "total": 768,
       "penalties": [],
-      "place": "13",
-      "reachDistance": "158.865 km"
+      "place": "13"
     }
   ],
   [
@@ -434,8 +473,12 @@
       "Anton Struganov"
     ],
     {
+      "reach": {
+        "extra": "158.865 km",
+        "flown": "158.865 km"
+      },
       "breakdown": {
-        "time": 230.6,
+        "time": 230.5,
         "reach": 260.859,
         "distance": 521.718,
         "leading": 0,
@@ -443,6 +486,7 @@
         "arrival": 12.8
       },
       "stoppedAlt": null,
+      "landedMade": "158.865 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -451,14 +495,12 @@
         "gsElapsed": "4.053889 h",
         "es": "2012-01-14T08:03:14Z",
         "ss": "2012-01-14T04:00:00Z",
-        "ssDistance": "148.965 km",
+        "ssDistance": "148.964 km",
         "gsVelocity": "36.80 km / h"
       },
       "total": 765,
-      "landedDistance": "158.866 km",
       "penalties": [],
-      "place": "14",
-      "reachDistance": "158.866 km"
+      "place": "14"
     }
   ],
   [
@@ -467,6 +509,10 @@
       "Yasuhiro Noma"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 172.5,
         "reach": 260.859,
@@ -476,22 +522,21 @@
         "arrival": 19.1
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "34.09 km / h",
-        "ssElapsed": "4.369922 h",
-        "gsElapsed": "4.369922 h",
-        "es": "2012-01-14T07:57:40.54883007099Z",
-        "ss": "2012-01-14T03:35:28.828537918638Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.369175 h",
+        "gsElapsed": "4.369175 h",
+        "es": "2012-01-14T07:57:40.54883008497Z",
+        "ss": "2012-01-14T03:35:31.517994620766Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.10 km / h"
       },
       "total": 764,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "15=",
-      "reachDistance": "158.865 km"
+      "place": "15="
     }
   ],
   [
@@ -500,6 +545,10 @@
       "Hans Kiefinger"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 170.7,
         "reach": 260.859,
@@ -509,22 +558,21 @@
         "arrival": 16
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.00 km / h",
-        "ssElapsed": "4.381268 h",
-        "gsElapsed": "4.381268 h",
-        "es": "2012-01-14T07:58:30.97170067748Z",
-        "ss": "2012-01-14T03:35:38.40803404533Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "34.01 km / h",
+        "ssElapsed": "4.380424 h",
+        "gsElapsed": "4.380424 h",
+        "es": "2012-01-14T07:58:30.97170331241Z",
+        "ss": "2012-01-14T03:35:41.44690191433Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "34.00 km / h"
       },
       "total": 764,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "15=",
-      "reachDistance": "158.865 km"
+      "place": "15="
     }
   ],
   [
@@ -533,31 +581,34 @@
       "Scott Barrett"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 171.8,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 56.2,
+        "leading": 56.1,
         "effort": 260.859,
         "arrival": 13.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "34.05 km / h",
-        "ssElapsed": "4.374516 h",
-        "gsElapsed": "4.374516 h",
-        "es": "2012-01-14T08:02:29.47777652841Z",
-        "ss": "2012-01-14T03:40:01.21965147518Z",
-        "ssDistance": "148.965 km",
-        "gsVelocity": "34.00 km / h"
+        "ssVelocity": "34.06 km / h",
+        "ssElapsed": "4.373771 h",
+        "gsElapsed": "4.373771 h",
+        "es": "2012-01-14T08:02:29.477774225245Z",
+        "ss": "2012-01-14T03:40:03.902953968645Z",
+        "ssDistance": "148.964 km",
+        "gsVelocity": "34.10 km / h"
       },
       "total": 763,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "17",
-      "reachDistance": "158.865 km"
+      "place": "17"
     }
   ],
   [
@@ -566,31 +617,34 @@
       "Lukas Bader"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 160,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 62.6,
+        "leading": 62.5,
         "effort": 260.859,
         "arrival": 17.9
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "33.50 km / h",
-        "ssElapsed": "4.446550 h",
-        "gsElapsed": "4.446550 h",
-        "es": "2012-01-14T07:57:48.158351654324Z",
-        "ss": "2012-01-14T03:31:00.578248656656Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "33.51 km / h",
+        "ssElapsed": "4.445784 h",
+        "gsElapsed": "4.445784 h",
+        "es": "2012-01-14T07:57:48.158350964432Z",
+        "ss": "2012-01-14T03:31:03.337708794344Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.50 km / h"
       },
       "total": 762,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "18",
-      "reachDistance": "158.865 km"
+      "place": "18"
     }
   ],
   [
@@ -599,6 +653,10 @@
       "Andrew Barnes"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 162.7,
         "reach": 260.859,
@@ -608,22 +666,21 @@
         "arrival": 21.9
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.63 km / h",
-        "ssElapsed": "4.429880 h",
-        "gsElapsed": "4.429880 h",
-        "es": "2012-01-14T07:57:26.90933731698Z",
-        "ss": "2012-01-14T03:31:39.339969080185Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.429134 h",
+        "gsElapsed": "4.429134 h",
+        "es": "2012-01-14T07:57:26.90933758969Z",
+        "ss": "2012-01-14T03:31:42.02701301292Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.60 km / h"
       },
       "total": 757,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "19=",
-      "reachDistance": "158.865 km"
+      "place": "19="
     }
   ],
   [
@@ -632,31 +689,34 @@
       "Steve Blenkinsop"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 158.3,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 60,
+        "leading": 59.9,
         "effort": 260.859,
         "arrival": 16.9
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.42 km / h",
-        "ssElapsed": "4.457575 h",
-        "gsElapsed": "4.457575 h",
-        "es": "2012-01-14T07:58:14.231698856514Z",
-        "ss": "2012-01-14T03:30:46.962561576146Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.456771 h",
+        "gsElapsed": "4.456771 h",
+        "es": "2012-01-14T07:58:14.231693541477Z",
+        "ss": "2012-01-14T03:30:49.85639292038Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.40 km / h"
       },
       "total": 757,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "19=",
-      "reachDistance": "158.865 km"
+      "place": "19="
     }
   ],
   [
@@ -665,6 +725,10 @@
       "Wolfgang Siess"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 163.1,
         "reach": 260.859,
@@ -674,22 +738,21 @@
         "arrival": 27.4
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "33.64 km / h",
-        "ssElapsed": "4.427698 h",
-        "gsElapsed": "4.427698 h",
-        "es": "2012-01-14T07:56:48.564228245147Z",
-        "ss": "2012-01-14T03:31:08.85029203129Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "33.65 km / h",
+        "ssElapsed": "4.426897 h",
+        "gsElapsed": "4.426897 h",
+        "es": "2012-01-14T07:56:48.564225578369Z",
+        "ss": "2012-01-14T03:31:11.73352457118Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.60 km / h"
       },
       "total": 754,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "21",
-      "reachDistance": "158.865 km"
+      "place": "21"
     }
   ],
   [
@@ -698,31 +761,34 @@
       "Joerg Bajewski"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 157.8,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 55.7,
+        "leading": 55.6,
         "effort": 260.859,
         "arrival": 15.2
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.40 km / h",
-        "ssElapsed": "4.460551 h",
-        "gsElapsed": "4.460551 h",
-        "es": "2012-01-14T07:58:42.98615134459Z",
-        "ss": "2012-01-14T03:31:05.00272725059Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.459751 h",
+        "gsElapsed": "4.459751 h",
+        "es": "2012-01-14T07:58:42.98614966939Z",
+        "ss": "2012-01-14T03:31:07.88103637782Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.40 km / h"
       },
       "total": 750,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "22=",
-      "reachDistance": "158.865 km"
+      "place": "22"
     }
   ],
   [
@@ -731,31 +797,34 @@
       "Jean Souviron "
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 160.5,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 55,
+        "leading": 54.9,
         "effort": 260.859,
         "arrival": 12.3
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.53 km / h",
-        "ssElapsed": "4.443369 h",
-        "gsElapsed": "4.443369 h",
-        "es": "2012-01-14T08:03:38.594855315998Z",
-        "ss": "2012-01-14T03:37:02.465621356929Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.442638 h",
+        "gsElapsed": "4.442638 h",
+        "es": "2012-01-14T08:03:38.594849513584Z",
+        "ss": "2012-01-14T03:37:05.096935900419Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.50 km / h"
       },
-      "total": 750,
-      "landedDistance": "158.865 km",
+      "total": 749,
       "penalties": [],
-      "place": "22=",
-      "reachDistance": "158.865 km"
+      "place": "23"
     }
   ],
   [
@@ -764,6 +833,10 @@
       "Tullio Gervasoni"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 158.5,
         "reach": 260.859,
@@ -773,22 +846,21 @@
         "arrival": 13.1
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.43 km / h",
-        "ssElapsed": "4.456240 h",
-        "gsElapsed": "4.456240 h",
-        "es": "2012-01-14T08:03:03.57321845621Z",
-        "ss": "2012-01-14T03:35:41.110763482815Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.455478 h",
+        "gsElapsed": "4.455478 h",
+        "es": "2012-01-14T08:03:03.573215958365Z",
+        "ss": "2012-01-14T03:35:43.851995312Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.40 km / h"
       },
       "total": 746,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "24",
-      "reachDistance": "158.865 km"
+      "place": "24"
     }
   ],
   [
@@ -797,6 +869,10 @@
       "Artur Dzamikhov"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 158.8,
         "reach": 260.859,
@@ -806,22 +882,21 @@
         "arrival": 14.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "33.44 km / h",
-        "ssElapsed": "4.454423 h",
-        "gsElapsed": "4.454423 h",
-        "es": "2012-01-14T07:59:10.043511254754Z",
-        "ss": "2012-01-14T03:31:54.12158460724Z",
-        "ssDistance": "148.965 km",
-        "gsVelocity": "33.40 km / h"
+        "ssVelocity": "33.45 km / h",
+        "ssElapsed": "4.453291 h",
+        "gsElapsed": "4.453291 h",
+        "es": "2012-01-14T07:59:10.043505616094Z",
+        "ss": "2012-01-14T03:31:58.197422297454Z",
+        "ssDistance": "148.964 km",
+        "gsVelocity": "33.50 km / h"
       },
       "total": 744,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "25",
-      "reachDistance": "158.865 km"
+      "place": "25"
     }
   ],
   [
@@ -830,6 +905,10 @@
       "Edoardo Giudiceandrea"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 145.6,
         "reach": 260.859,
@@ -839,22 +918,21 @@
         "arrival": 12.5
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.82 km / h",
-        "ssElapsed": "4.538581 h",
-        "gsElapsed": "4.538581 h",
-        "es": "2012-01-14T08:03:24.02771567976Z",
-        "ss": "2012-01-14T03:31:05.13528944801Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "32.83 km / h",
+        "ssElapsed": "4.537738 h",
+        "gsElapsed": "4.537738 h",
+        "es": "2012-01-14T08:03:24.02771481004Z",
+        "ss": "2012-01-14T03:31:08.17197081871Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "32.80 km / h"
       },
       "total": 740,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "26",
-      "reachDistance": "158.865 km"
+      "place": "26"
     }
   ],
   [
@@ -863,31 +941,34 @@
       "Grant Heaney"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 147.1,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 56.8,
+        "leading": 56.7,
         "effort": 260.859,
         "arrival": 12.2
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "32.89 km / h",
-        "ssElapsed": "4.528657 h",
-        "gsElapsed": "4.528657 h",
-        "es": "2012-01-14T08:03:46.565344431035Z",
-        "ss": "2012-01-14T03:32:03.4018866466Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "32.90 km / h",
+        "ssElapsed": "4.527920 h",
+        "gsElapsed": "4.527920 h",
+        "es": "2012-01-14T08:03:46.565354747335Z",
+        "ss": "2012-01-14T03:32:06.054409956585Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "32.90 km / h"
       },
       "total": 738,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "27",
-      "reachDistance": "158.865 km"
+      "place": "27"
     }
   ],
   [
@@ -896,6 +977,10 @@
       "Mitch Shipley"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 152.3,
         "reach": 260.859,
@@ -905,22 +990,21 @@
         "arrival": 14
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
         "ssVelocity": "33.14 km / h",
-        "ssElapsed": "4.495265 h",
-        "gsElapsed": "4.495265 h",
-        "es": "2012-01-14T08:00:17.495015754066Z",
-        "ss": "2012-01-14T03:30:34.539988750186Z",
-        "ssDistance": "148.965 km",
+        "ssElapsed": "4.494633 h",
+        "gsElapsed": "4.494633 h",
+        "es": "2012-01-14T08:00:17.495008509162Z",
+        "ss": "2012-01-14T03:30:36.816672287596Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "33.10 km / h"
       },
       "total": 734,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "28",
-      "reachDistance": "158.865 km"
+      "place": "28"
     }
   ],
   [
@@ -929,31 +1013,34 @@
       "Adam Stevens"
     ],
     {
+      "reach": {
+        "extra": "158.864 km",
+        "flown": "158.864 km"
+      },
       "breakdown": {
         "time": 121.2,
         "reach": 260.859,
         "distance": 521.718,
-        "leading": 59,
+        "leading": 58.9,
         "effort": 260.859,
         "arrival": 12
       },
       "stoppedAlt": null,
+      "landedMade": "158.864 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
-        "ssVelocity": "31.68 km / h",
-        "ssElapsed": "4.701943 h",
-        "gsElapsed": "4.701943 h",
-        "es": "2012-01-14T08:12:57.60359403562Z",
-        "ss": "2012-01-14T03:30:50.60862875747Z",
-        "ssDistance": "148.965 km",
+        "ssVelocity": "31.69 km / h",
+        "ssElapsed": "4.701157 h",
+        "gsElapsed": "4.701157 h",
+        "es": "2012-01-14T08:12:57.603591275665Z",
+        "ss": "2012-01-14T03:30:53.43813297878Z",
+        "ssDistance": "148.964 km",
         "gsVelocity": "31.70 km / h"
       },
       "total": 714,
-      "landedDistance": "158.865 km",
       "penalties": [],
-      "place": "29",
-      "reachDistance": "158.865 km"
+      "place": "29"
     }
   ],
   [
@@ -962,15 +1049,20 @@
       "Luke Browne "
     ],
     {
+      "reach": {
+        "extra": "154.415 km",
+        "flown": "154.415 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 253.552,
-        "distance": 511.469,
+        "reach": 253.553,
+        "distance": 507.537,
         "leading": 37.8,
-        "effort": 257.917,
+        "effort": 253.984,
         "arrival": 0
       },
       "stoppedAlt": "227.000 m",
+      "landedMade": "154.415 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -978,147 +1070,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:34:00.231647917242Z",
+        "ss": "2012-01-14T03:34:05.14040185029Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 549,
-      "landedDistance": "154.415 km",
+      "total": 545,
       "penalties": [],
-      "place": "30",
-      "reachDistance": "154.415 km"
-    }
-  ],
-  [
-    [
-      "13",
-      "John Smith"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 250.595,
-        "distance": 496.743,
-        "leading": 41.8,
-        "effort": 246.149,
-        "arrival": 0
-      },
-      "stoppedAlt": "232.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:36:21.189215545596Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 539,
-      "landedDistance": "152.560 km",
-      "penalties": [],
-      "place": "31",
-      "reachDistance": "152.614 km"
-    }
-  ],
-  [
-    [
-      "14",
-      "Olav Lien Olsen"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 251.732,
-        "distance": 502.785,
-        "leading": 33.5,
-        "effort": 251.052,
-        "arrival": 0
-      },
-      "stoppedAlt": "250.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:33:10.966851073974Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 536,
-      "landedDistance": "152.790 km",
-      "penalties": [],
-      "place": "32",
-      "reachDistance": "153.307 km"
-    }
-  ],
-  [
-    [
-      "103",
-      "Roberto Nichele"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 252.698,
-        "distance": 507.673,
-        "leading": 25.9,
-        "effort": 254.975,
-        "arrival": 0
-      },
-      "stoppedAlt": "238.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:50:59.542179424662Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 534,
-      "landedDistance": "153.310 km",
-      "penalties": [],
-      "place": "33",
-      "reachDistance": "153.895 km"
-    }
-  ],
-  [
-    [
-      "26",
-      "Guy Hubbard"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 247.356,
-        "distance": 480.756,
-        "leading": 49.9,
-        "effort": 233.4,
-        "arrival": 0
-      },
-      "stoppedAlt": "332.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:32:38.255582325384Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 531,
-      "landedDistance": "150.591 km",
-      "penalties": [],
-      "place": "34=",
-      "reachDistance": "150.642 km"
+      "place": "30"
     }
   ],
   [
@@ -1127,15 +1085,20 @@
       "Paolo Rosichetti"
     ],
     {
+      "reach": {
+        "extra": "150.123 km",
+        "flown": "150.123 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 246.504,
-        "distance": 473.04,
-        "leading": 57.6,
-        "effort": 226.535,
+        "reach": 246.506,
+        "distance": 486.075,
+        "leading": 57.5,
+        "effort": 239.569,
         "arrival": 0
       },
       "stoppedAlt": "231.000 m",
+      "landedMade": "150.123 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1143,15 +1106,85 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:30:41.857533038702Z",
+        "ss": "2012-01-14T03:30:44.968868234208Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 531,
-      "landedDistance": "150.123 km",
+      "total": 544,
       "penalties": [],
-      "place": "34=",
-      "reachDistance": "150.123 km"
+      "place": "31"
+    }
+  ],
+  [
+    [
+      "13",
+      "John Smith"
+    ],
+    {
+      "reach": {
+        "extra": "152.613 km",
+        "flown": "152.613 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 250.595,
+        "distance": 499.81,
+        "leading": 41.8,
+        "effort": 249.216,
+        "arrival": 0
+      },
+      "stoppedAlt": "232.000 m",
+      "landedMade": "152.560 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:36:23.356704664158Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 542,
+      "penalties": [],
+      "place": "32"
+    }
+  ],
+  [
+    [
+      "26",
+      "Guy Hubbard"
+    ],
+    {
+      "reach": {
+        "extra": "150.642 km",
+        "flown": "150.642 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 247.358,
+        "distance": 488.535,
+        "leading": 49.8,
+        "effort": 241.177,
+        "arrival": 0
+      },
+      "stoppedAlt": "332.000 m",
+      "landedMade": "150.591 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:32:43.35241108167Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 538,
+      "penalties": [],
+      "place": "33"
     }
   ],
   [
@@ -1160,15 +1193,20 @@
       "Mikhail Karmazin"
     ],
     {
+      "reach": {
+        "extra": "152.705 km",
+        "flown": "152.705 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 250.744,
-        "distance": 491.009,
-        "leading": 36.7,
-        "effort": 240.265,
+        "reach": 250.746,
+        "distance": 499.573,
+        "leading": 36.6,
+        "effort": 248.828,
         "arrival": 0
       },
       "stoppedAlt": "243.000 m",
+      "landedMade": "152.406 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1176,15 +1214,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:33:19.75000541212Z",
+        "ss": "2012-01-14T03:33:23.053742407254Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 528,
-      "landedDistance": "152.405 km",
+      "total": 536,
       "penalties": [],
-      "place": "36",
-      "reachDistance": "152.705 km"
+      "place": "34"
+    }
+  ],
+  [
+    [
+      "14",
+      "Olav Lien Olsen"
+    ],
+    {
+      "reach": {
+        "extra": "153.306 km",
+        "flown": "153.306 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 251.732,
+        "distance": 501.614,
+        "leading": 33.4,
+        "effort": 249.881,
+        "arrival": 0
+      },
+      "stoppedAlt": "250.000 m",
+      "landedMade": "152.790 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:33:13.785126906267Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 535,
+      "penalties": [],
+      "place": "35="
     }
   ],
   [
@@ -1193,15 +1265,20 @@
       "Nick Purcell"
     ],
     {
+      "reach": {
+        "extra": "150.653 km",
+        "flown": "150.653 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 247.375,
-        "distance": 480.775,
+        "reach": 247.376,
+        "distance": 488.553,
         "leading": 46.4,
-        "effort": 233.4,
+        "effort": 241.177,
         "arrival": 0
       },
       "stoppedAlt": "270.000 m",
+      "landedMade": "150.503 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1209,39 +1286,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:31:17.739679504774Z",
+        "ss": "2012-01-14T03:31:20.684478782878Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 527,
-      "landedDistance": "150.503 km",
+      "total": 535,
       "penalties": [],
-      "place": "37",
-      "reachDistance": "150.653 km"
+      "place": "35="
     }
   ],
   [
     [
-      "30",
-      "Fredy Bircher"
+      "103",
+      "Roberto Nichele"
     ],
     {
+      "reach": {
+        "extra": "153.895 km",
+        "flown": "153.895 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 259.501,
-        "distance": 519.379,
-        "leading": 0,
-        "effort": 259.878,
+        "reach": 252.7,
+        "distance": 504.244,
+        "leading": 25.8,
+        "effort": 251.544,
         "arrival": 0
       },
-      "stoppedAlt": null,
+      "stoppedAlt": "238.000 m",
+      "landedMade": "153.311 km",
       "penaltyReason": "",
-      "velocity": null,
-      "total": 519,
-      "landedDistance": "158.038 km",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:51:01.968178469146Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 530,
       "penalties": [],
-      "place": "38",
-      "reachDistance": "158.038 km"
+      "place": "37"
     }
   ],
   [
@@ -1250,15 +1337,20 @@
       "Len Paton"
     ],
     {
+      "reach": {
+        "extra": "150.127 km",
+        "flown": "150.127 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 246.512,
-        "distance": 466.183,
+        "distance": 485.638,
         "leading": 37.8,
-        "effort": 219.671,
+        "effort": 239.125,
         "arrival": 0
       },
       "stoppedAlt": "230.000 m",
+      "landedMade": "150.096 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1266,48 +1358,40 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:42:53.65005604795Z",
+        "ss": "2012-01-14T03:42:56.20580627079Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 504,
-      "landedDistance": "150.096 km",
+      "total": 523,
       "penalties": [],
-      "place": "39",
-      "reachDistance": "150.128 km"
+      "place": "38"
     }
   ],
   [
     [
-      "73",
-      "Gijs Wanders"
+      "30",
+      "Fredy Bircher"
     ],
     {
+      "reach": {
+        "extra": "158.037 km",
+        "flown": "158.037 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 245.425,
-        "distance": 457.251,
-        "leading": 34.1,
-        "effort": 211.825,
+        "reach": 259.501,
+        "distance": 519.472,
+        "leading": 0,
+        "effort": 259.972,
         "arrival": 0
       },
-      "stoppedAlt": "245.000 m",
+      "stoppedAlt": null,
+      "landedMade": "158.037 km",
       "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:31:15.401022773557Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 491,
-      "landedDistance": "149.088 km",
+      "velocity": null,
+      "total": 519,
       "penalties": [],
-      "place": "40",
-      "reachDistance": "149.466 km"
+      "place": "39"
     }
   ],
   [
@@ -1316,15 +1400,20 @@
       "Primoz Gricar"
     ],
     {
+      "reach": {
+        "extra": "147.398 km",
+        "flown": "147.398 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 242.03,
-        "distance": 424.435,
-        "leading": 57.5,
-        "effort": 182.405,
+        "reach": 242.031,
+        "distance": 458.037,
+        "leading": 57.4,
+        "effort": 216.005,
         "arrival": 0
       },
       "stoppedAlt": "244.000 m",
+      "landedMade": "146.154 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1332,15 +1421,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:35:15.90786213262Z",
+        "ss": "2012-01-14T03:35:18.28075865262Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 482,
-      "landedDistance": "146.153 km",
+      "total": 515,
       "penalties": [],
-      "place": "41",
-      "reachDistance": "147.398 km"
+      "place": "40"
+    }
+  ],
+  [
+    [
+      "73",
+      "Gijs Wanders"
+    ],
+    {
+      "reach": {
+        "extra": "149.466 km",
+        "flown": "149.466 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 245.427,
+        "distance": 479.562,
+        "leading": 34.1,
+        "effort": 234.135,
+        "arrival": 0
+      },
+      "stoppedAlt": "245.000 m",
+      "landedMade": "149.088 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:31:18.397785039556Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 514,
+      "penalties": [],
+      "place": "41"
     }
   ],
   [
@@ -1349,15 +1472,20 @@
       "Chris Lawry"
     ],
     {
+      "reach": {
+        "extra": "148.899 km",
+        "flown": "148.899 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 244.496,
-        "distance": 447.495,
+        "distance": 476.968,
         "leading": 30.9,
-        "effort": 202.999,
+        "effort": 232.472,
         "arrival": 0
       },
       "stoppedAlt": "244.000 m",
+      "landedMade": "148.707 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1365,48 +1493,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:37:25.95464852263Z",
+        "ss": "2012-01-14T03:37:29.43708760178Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 478,
-      "landedDistance": "148.707 km",
+      "total": 508,
       "penalties": [],
-      "place": "42",
-      "reachDistance": "148.900 km"
-    }
-  ],
-  [
-    [
-      "33",
-      "Conrad Loten"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 243.647,
-        "distance": 436.84,
-        "leading": 29.5,
-        "effort": 193.192,
-        "arrival": 0
-      },
-      "stoppedAlt": "238.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:40:48.76982889849Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 466,
-      "landedDistance": "147.965 km",
-      "penalties": [],
-      "place": "43",
-      "reachDistance": "148.383 km"
+      "place": "42"
     }
   ],
   [
@@ -1415,15 +1508,20 @@
       "Phil Schroder"
     ],
     {
+      "reach": {
+        "extra": "146.495 km",
+        "flown": "146.495 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 240.547,
-        "distance": 412.165,
+        "reach": 240.549,
+        "distance": 455.889,
         "leading": 45.6,
-        "effort": 171.618,
+        "effort": 215.34,
         "arrival": 0
       },
       "stoppedAlt": "235.000 m",
+      "landedMade": "146.076 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1431,32 +1529,35 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:30:55.21999852488Z",
+        "ss": "2012-01-14T03:30:58.31807520324Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 458,
-      "landedDistance": "146.076 km",
+      "total": 501,
       "penalties": [],
-      "place": "44",
-      "reachDistance": "146.495 km"
+      "place": "43="
     }
   ],
   [
     [
-      "51",
-      "Rob In 't Groen"
+      "33",
+      "Conrad Loten"
     ],
     {
+      "reach": {
+        "extra": "148.382 km",
+        "flown": "148.382 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 231.81,
-        "distance": 373.027,
-        "leading": 69.9,
-        "effort": 141.217,
+        "reach": 243.647,
+        "distance": 471.24,
+        "leading": 29.6,
+        "effort": 227.593,
         "arrival": 0
       },
-      "stoppedAlt": "220.000 m",
+      "stoppedAlt": "238.000 m",
+      "landedMade": "147.965 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1464,15 +1565,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:55:16.150753165052Z",
+        "ss": "2012-01-14T03:40:51.38043359533Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 443,
-      "landedDistance": "141.031 km",
+      "total": 501,
       "penalties": [],
-      "place": "45=",
-      "reachDistance": "141.174 km"
+      "place": "43="
     }
   ],
   [
@@ -1481,15 +1580,20 @@
       "Cameron Tunbridge"
     ],
     {
+      "reach": {
+        "extra": "146.503 km",
+        "flown": "146.503 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 240.562,
-        "distance": 400.411,
-        "leading": 42.3,
-        "effort": 159.85,
+        "distance": 453.074,
+        "leading": 42.2,
+        "effort": 212.513,
         "arrival": 0
       },
       "stoppedAlt": "240.000 m",
+      "landedMade": "145.667 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1497,15 +1601,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:39:40.466792753597Z",
+        "ss": "2012-01-14T03:39:42.937569271253Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 443,
-      "landedDistance": "145.666 km",
+      "total": 495,
       "penalties": [],
-      "place": "45=",
-      "reachDistance": "146.504 km"
+      "place": "45"
+    }
+  ],
+  [
+    [
+      "51",
+      "Rob In 't Groen"
+    ],
+    {
+      "reach": {
+        "extra": "141.173 km",
+        "flown": "141.173 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 231.81,
+        "distance": 421.369,
+        "leading": 69.8,
+        "effort": 189.559,
+        "arrival": 0
+      },
+      "stoppedAlt": "220.000 m",
+      "landedMade": "141.031 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T02:55:24.9451960676Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 491,
+      "penalties": [],
+      "place": "46"
     }
   ],
   [
@@ -1514,15 +1652,20 @@
       "Rod Flockhart"
     ],
     {
+      "reach": {
+        "extra": "136.062 km",
+        "flown": "136.062 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 223.418,
-        "distance": 355.808,
+        "reach": 223.417,
+        "distance": 401.056,
         "leading": 45.1,
-        "effort": 132.391,
+        "effort": 177.639,
         "arrival": 0
       },
       "stoppedAlt": "225.000 m",
+      "landedMade": "135.050 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1530,15 +1673,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:36:14.369534550063Z",
+        "ss": "2012-01-14T03:36:16.585970891004Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 401,
-      "landedDistance": "135.050 km",
+      "total": 446,
       "penalties": [],
-      "place": "47",
-      "reachDistance": "136.063 km"
+      "place": "47"
     }
   ],
   [
@@ -1547,15 +1688,20 @@
       "Konrad Schwab"
     ],
     {
+      "reach": {
+        "extra": "142.089 km",
+        "flown": "142.089 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 233.314,
-        "distance": 381.395,
-        "leading": 16.6,
-        "effort": 148.081,
+        "distance": 424.925,
+        "leading": 16.5,
+        "effort": 191.611,
         "arrival": 0
       },
       "stoppedAlt": "275.000 m",
+      "landedMade": "141.609 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1563,15 +1709,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:17.36550757914Z",
+        "ss": "2012-01-14T03:32:20.01400321619Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 398,
-      "landedDistance": "141.609 km",
+      "total": 441,
       "penalties": [],
-      "place": "48",
-      "reachDistance": "142.090 km"
+      "place": "48"
     }
   ],
   [
@@ -1580,15 +1724,20 @@
       "Gavin Myers"
     ],
     {
+      "reach": {
+        "extra": "135.939 km",
+        "flown": "135.939 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 223.214,
-        "distance": 358.547,
-        "leading": 24.7,
-        "effort": 135.333,
+        "reach": 223.215,
+        "distance": 402.019,
+        "leading": 24.8,
+        "effort": 178.803,
         "arrival": 0
       },
       "stoppedAlt": "219.000 m",
+      "landedMade": "135.730 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1596,15 +1745,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:47:14.473300856375Z",
+        "ss": "2012-01-14T03:47:16.80816777697Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 383,
-      "landedDistance": "135.730 km",
+      "total": 427,
       "penalties": [],
-      "place": "49",
-      "reachDistance": "135.939 km"
+      "place": "49"
     }
   ],
   [
@@ -1613,15 +1760,20 @@
       "Glen Mcfarlane"
     ],
     {
+      "reach": {
+        "extra": "134.738 km",
+        "flown": "134.738 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 221.243,
-        "distance": 344.808,
+        "distance": 397.94,
         "leading": 25.9,
-        "effort": 123.565,
+        "effort": 176.696,
         "arrival": 0
       },
       "stoppedAlt": "247.000 m",
+      "landedMade": "134.616 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1629,48 +1781,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:08.05763824833Z",
+        "ss": "2012-01-14T03:32:10.53477210591Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 371,
-      "landedDistance": "134.616 km",
+      "total": 424,
       "penalties": [],
-      "place": "50",
-      "reachDistance": "134.739 km"
-    }
-  ],
-  [
-    [
-      "29",
-      "Konstantin Lukyanov"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 221.311,
-        "distance": 349.779,
-        "leading": 20.6,
-        "effort": 128.468,
-        "arrival": 0
-      },
-      "stoppedAlt": "213.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:28:55.284631267115Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 370,
-      "landedDistance": "134.777 km",
-      "penalties": [],
-      "place": "51=",
-      "reachDistance": "134.780 km"
+      "place": "50="
     }
   ],
   [
@@ -1679,15 +1796,20 @@
       "Les Bestt"
     ],
     {
+      "reach": {
+        "extra": "132.856 km",
+        "flown": "132.856 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 218.152,
-        "distance": 335.832,
+        "reach": 218.153,
+        "distance": 389.638,
         "leading": 34,
-        "effort": 117.681,
+        "effort": 171.485,
         "arrival": 0
       },
       "stoppedAlt": "249.000 m",
+      "landedMade": "132.797 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1695,15 +1817,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:31:18.234003458796Z",
+        "ss": "2012-01-14T03:31:22.538676254728Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 370,
-      "landedDistance": "132.798 km",
+      "total": 424,
       "penalties": [],
-      "place": "51=",
-      "reachDistance": "132.856 km"
+      "place": "50="
+    }
+  ],
+  [
+    [
+      "29",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "reach": {
+        "extra": "134.779 km",
+        "flown": "134.779 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 221.311,
+        "distance": 398.284,
+        "leading": 20.6,
+        "effort": 176.974,
+        "arrival": 0
+      },
+      "stoppedAlt": "213.000 m",
+      "landedMade": "134.777 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:28:58.09827135159Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 419,
+      "penalties": [],
+      "place": "52"
     }
   ],
   [
@@ -1712,15 +1868,20 @@
       "Jonathan Kinred"
     ],
     {
+      "reach": {
+        "extra": "130.868 km",
+        "flown": "130.868 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 214.887,
-        "distance": 327.665,
+        "reach": 214.889,
+        "distance": 378.889,
         "leading": 38.4,
-        "effort": 112.777,
+        "effort": 164,
         "arrival": 0
       },
       "stoppedAlt": "272.000 m",
+      "landedMade": "130.067 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1728,15 +1889,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:44.421167867424Z",
+        "ss": "2012-01-14T03:32:47.19909761324Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 366,
-      "landedDistance": "130.068 km",
+      "total": 417,
       "penalties": [],
-      "place": "53",
-      "reachDistance": "130.868 km"
+      "place": "53"
     }
   ],
   [
@@ -1745,15 +1904,20 @@
       "Kari Suhonen"
     ],
     {
+      "reach": {
+        "extra": "129.533 km",
+        "flown": "129.533 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 212.695,
-        "distance": 319.588,
-        "leading": 26.2,
-        "effort": 106.893,
+        "reach": 212.697,
+        "distance": 374.035,
+        "leading": 26.1,
+        "effort": 161.339,
         "arrival": 0
       },
       "stoppedAlt": "232.000 m",
+      "landedMade": "129.226 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1761,15 +1925,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:24.246771487628Z",
+        "ss": "2012-01-14T03:32:26.800305211784Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 346,
-      "landedDistance": "129.226 km",
+      "total": 400,
       "penalties": [],
-      "place": "54",
-      "reachDistance": "129.533 km"
+      "place": "54"
     }
   ],
   [
@@ -1778,15 +1940,20 @@
       "Miguel De Jong "
     ],
     {
+      "reach": {
+        "extra": "126.136 km",
+        "flown": "126.136 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 207.119,
-        "distance": 303.225,
-        "leading": 18.4,
-        "effort": 96.106,
+        "distance": 358.478,
+        "leading": 18.3,
+        "effort": 151.359,
         "arrival": 0
       },
       "stoppedAlt": "226.000 m",
+      "landedMade": "125.801 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1794,15 +1961,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:59.50070834558Z",
+        "ss": "2012-01-14T03:33:03.17056885555Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 322,
-      "landedDistance": "125.801 km",
+      "total": 377,
       "penalties": [],
-      "place": "55",
-      "reachDistance": "126.137 km"
+      "place": "55"
     }
   ],
   [
@@ -1811,15 +1976,20 @@
       "Francesco Rinaldi"
     ],
     {
+      "reach": {
+        "extra": "119.092 km",
+        "flown": "119.092 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 195.552,
-        "distance": 286.755,
+        "distance": 334.381,
         "leading": 28.4,
-        "effort": 91.203,
+        "effort": 138.829,
         "arrival": 0
       },
       "stoppedAlt": "214.000 m",
+      "landedMade": "118.586 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1827,15 +1997,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:37:51.8505657672Z",
+        "ss": "2012-01-14T03:37:55.520019096456Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 315,
-      "landedDistance": "118.586 km",
+      "total": 363,
       "penalties": [],
-      "place": "56",
-      "reachDistance": "119.093 km"
+      "place": "56"
     }
   ],
   [
@@ -1844,15 +2012,20 @@
       "Boris Marold "
     ],
     {
+      "reach": {
+        "extra": "126.670 km",
+        "flown": "126.670 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 207.994,
-        "distance": 308.023,
+        "reach": 207.996,
+        "distance": 360.685,
         "leading": 0,
-        "effort": 100.029,
+        "effort": 152.69,
         "arrival": 0
       },
       "stoppedAlt": "263.000 m",
+      "landedMade": "126.411 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1860,15 +2033,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:32:32.125422523961Z",
+        "ss": "2012-01-14T03:32:35.53075665381Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 308,
-      "landedDistance": "126.412 km",
+      "total": 361,
       "penalties": [],
-      "place": "57",
-      "reachDistance": "126.670 km"
+      "place": "57"
     }
   ],
   [
@@ -1877,15 +2048,20 @@
       "Patrick Collin"
     ],
     {
+      "reach": {
+        "extra": "105.742 km",
+        "flown": "105.742 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 173.625,
-        "distance": 262.866,
+        "reach": 173.631,
+        "distance": 308.08,
         "leading": 0,
-        "effort": 89.241,
+        "effort": 134.449,
         "arrival": 0
       },
       "stoppedAlt": "215.000 m",
+      "landedMade": "105.735 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1893,15 +2069,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:58:49.16267997204Z",
+        "ss": "2012-01-14T03:58:52.79729180741Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 263,
-      "landedDistance": "105.732 km",
+      "total": 308,
       "penalties": [],
-      "place": "58",
-      "reachDistance": "105.739 km"
+      "place": "58"
     }
   ],
   [
@@ -1910,15 +2084,20 @@
       "Brodrick Osborne"
     ],
     {
+      "reach": {
+        "extra": "97.188 km",
+        "flown": "97.188 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 159.581,
-        "distance": 247.841,
+        "reach": 159.585,
+        "distance": 289.821,
         "leading": 0,
-        "effort": 88.26,
+        "effort": 130.235,
         "arrival": 0
       },
       "stoppedAlt": "213.000 m",
+      "landedMade": "96.441 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1926,15 +2105,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:39:34.490292214172Z",
+        "ss": "2012-01-14T03:39:42.809906385794Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 248,
-      "landedDistance": "96.437 km",
+      "total": 290,
       "penalties": [],
-      "place": "59",
-      "reachDistance": "97.186 km"
+      "place": "59"
     }
   ],
   [
@@ -1943,15 +2120,20 @@
       "Francoise Dieuzeide-banet"
     ],
     {
+      "reach": {
+        "extra": "81.833 km",
+        "flown": "81.833 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 134.368,
-        "distance": 221.647,
+        "reach": 134.372,
+        "distance": 260.394,
         "leading": 0,
-        "effort": 87.28,
+        "effort": 126.022,
         "arrival": 0
       },
       "stoppedAlt": "216.000 m",
+      "landedMade": "81.834 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1959,15 +2141,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T04:19:09.263939298134Z",
+        "ss": "2012-01-14T04:19:12.335037306473Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 222,
-      "landedDistance": "81.831 km",
+      "total": 260,
       "penalties": [],
-      "place": "60",
-      "reachDistance": "81.831 km"
+      "place": "60"
     }
   ],
   [
@@ -1976,15 +2156,20 @@
       "Andy Phillips "
     ],
     {
+      "reach": {
+        "extra": "78.146 km",
+        "flown": "78.146 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 128.312,
-        "distance": 214.611,
-        "leading": 1.4,
-        "effort": 86.299,
+        "reach": 128.318,
+        "distance": 250.625,
+        "leading": 1.3,
+        "effort": 122.307,
         "arrival": 0
       },
       "stoppedAlt": "273.000 m",
+      "landedMade": "75.141 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -1992,15 +2177,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:31:59.465766635716Z",
+        "ss": "2012-01-14T03:32:02.670321136543Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 216,
-      "landedDistance": "75.137 km",
+      "total": 252,
       "penalties": [],
-      "place": "61",
-      "reachDistance": "78.143 km"
+      "place": "61"
     }
   ],
   [
@@ -2009,15 +2192,20 @@
       "Grant Edward"
     ],
     {
+      "reach": {
+        "extra": "69.995 km",
+        "flown": "69.995 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 114.928,
-        "distance": 199.266,
+        "reach": 114.934,
+        "distance": 233.471,
         "leading": 0,
-        "effort": 84.338,
+        "effort": 118.537,
         "arrival": 0
       },
       "stoppedAlt": "264.000 m",
+      "landedMade": "69.292 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2025,15 +2213,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:47:23.776405056961Z",
+        "ss": "2012-01-14T03:47:26.709561979195Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 199,
-      "landedDistance": "69.289 km",
+      "total": 233,
       "penalties": [],
-      "place": "62",
-      "reachDistance": "69.992 km"
+      "place": "62"
     }
   ],
   [
@@ -2042,15 +2228,20 @@
       "Tony Giammichele"
     ],
     {
+      "reach": {
+        "extra": "65.500 km",
+        "flown": "65.500 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 107.548,
-        "distance": 189.925,
+        "reach": 107.553,
+        "distance": 222.652,
         "leading": 0,
-        "effort": 82.376,
+        "effort": 115.099,
         "arrival": 0
       },
       "stoppedAlt": "213.000 m",
+      "landedMade": "64.762 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2058,81 +2249,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:34:09.498711235179Z",
+        "ss": "2012-01-14T03:34:13.121644105152Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 190,
-      "landedDistance": "64.759 km",
+      "total": 223,
       "penalties": [],
-      "place": "63",
-      "reachDistance": "65.498 km"
-    }
-  ],
-  [
-    [
-      "2",
-      "Pablo Gomes"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 106.555,
-        "distance": 186.97,
-        "leading": 0,
-        "effort": 80.415,
-        "arrival": 0
-      },
-      "stoppedAlt": "261.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:36:06.612230613687Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 187,
-      "landedDistance": "64.115 km",
-      "penalties": [],
-      "place": "64",
-      "reachDistance": "64.893 km"
-    }
-  ],
-  [
-    [
-      "37",
-      "Peter Ebeling"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 106.076,
-        "distance": 186.491,
-        "leading": 0,
-        "effort": 80.415,
-        "arrival": 0
-      },
-      "stoppedAlt": "260.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:39:04.991321672855Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 186,
-      "landedDistance": "64.193 km",
-      "penalties": [],
-      "place": "65",
-      "reachDistance": "64.601 km"
+      "place": "63"
     }
   ],
   [
@@ -2141,15 +2264,20 @@
       "Shaun O'neill"
     ],
     {
+      "reach": {
+        "extra": "65.070 km",
+        "flown": "65.070 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 106.841,
-        "distance": 184.314,
+        "reach": 106.847,
+        "distance": 221.059,
         "leading": 0,
-        "effort": 77.473,
+        "effort": 114.212,
         "arrival": 0
       },
       "stoppedAlt": "209.000 m",
+      "landedMade": "64.003 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2157,15 +2285,85 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:35:13.9833110965Z",
+        "ss": "2012-01-14T03:35:16.13135454366Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 184,
-      "landedDistance": "64.000 km",
+      "total": 221,
       "penalties": [],
-      "place": "66",
-      "reachDistance": "65.067 km"
+      "place": "64="
+    }
+  ],
+  [
+    [
+      "2",
+      "Pablo Gomes"
+    ],
+    {
+      "reach": {
+        "extra": "64.896 km",
+        "flown": "64.896 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 106.561,
+        "distance": 220.995,
+        "leading": 0,
+        "effort": 114.434,
+        "arrival": 0
+      },
+      "stoppedAlt": "261.000 m",
+      "landedMade": "64.118 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:36:08.979665002599Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 221,
+      "penalties": [],
+      "place": "64="
+    }
+  ],
+  [
+    [
+      "37",
+      "Peter Ebeling"
+    ],
+    {
+      "reach": {
+        "extra": "64.604 km",
+        "flown": "64.604 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 106.082,
+        "distance": 220.516,
+        "leading": 0,
+        "effort": 114.434,
+        "arrival": 0
+      },
+      "stoppedAlt": "260.000 m",
+      "landedMade": "64.196 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:39:07.736340516865Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 221,
+      "penalties": [],
+      "place": "64="
     }
   ],
   [
@@ -2174,15 +2372,20 @@
       "Corinna Schwiegershausen"
     ],
     {
+      "reach": {
+        "extra": "57.893 km",
+        "flown": "57.893 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 95.056,
-        "distance": 168.606,
+        "reach": 95.062,
+        "distance": 193.972,
         "leading": 0,
-        "effort": 73.55,
+        "effort": 98.91,
         "arrival": 0
       },
       "stoppedAlt": "223.000 m",
+      "landedMade": "57.767 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2190,15 +2393,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:30:22.21250111137Z",
+        "ss": "2012-01-14T03:30:25.35770608Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 169,
-      "landedDistance": "57.764 km",
+      "total": 194,
       "penalties": [],
-      "place": "67",
-      "reachDistance": "57.890 km"
+      "place": "67"
     }
   ],
   [
@@ -2207,15 +2408,20 @@
       "Christian Baertschi"
     ],
     {
+      "reach": {
+        "extra": "57.614 km",
+        "flown": "57.614 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 94.6,
-        "distance": 164.227,
+        "reach": 94.604,
+        "distance": 193.237,
         "leading": 0,
-        "effort": 69.628,
+        "effort": 98.633,
         "arrival": 0
       },
       "stoppedAlt": "210.000 m",
+      "landedMade": "57.615 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2223,48 +2429,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:36:48.02081270075Z",
+        "ss": "2012-01-14T03:36:50.25044418939Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 164,
-      "landedDistance": "57.612 km",
+      "total": 193,
       "penalties": [],
-      "place": "68",
-      "reachDistance": "57.612 km"
-    }
-  ],
-  [
-    [
-      "62",
-      "Enda Murphy"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 93.746,
-        "distance": 158.47,
-        "leading": 0,
-        "effort": 64.724,
-        "arrival": 0
-      },
-      "stoppedAlt": "284.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": null,
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2012-01-14T03:31:52.759982723885Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 158,
-      "landedDistance": "57.092 km",
-      "penalties": [],
-      "place": "69",
-      "reachDistance": "57.092 km"
+      "place": "68"
     }
   ],
   [
@@ -2273,15 +2444,20 @@
       "Alain Le-gac"
     ],
     {
+      "reach": {
+        "extra": "57.719 km",
+        "flown": "57.719 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 94.77,
-        "distance": 154.591,
+        "reach": 94.776,
+        "distance": 191.136,
         "leading": 0,
-        "effort": 59.821,
+        "effort": 96.36,
         "arrival": 0
       },
       "stoppedAlt": "217.000 m",
+      "landedMade": "56.923 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2289,15 +2465,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:40:10.497902866236Z",
+        "ss": "2012-01-14T03:40:13.395650266506Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 155,
-      "landedDistance": "56.920 km",
+      "total": 191,
       "penalties": [],
-      "place": "70",
-      "reachDistance": "57.716 km"
+      "place": "69"
     }
   ],
   [
@@ -2306,15 +2480,20 @@
       "Christine Aichner"
     ],
     {
+      "reach": {
+        "extra": "57.306 km",
+        "flown": "57.306 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 94.092,
-        "distance": 153.913,
+        "reach": 94.098,
+        "distance": 190.458,
         "leading": 0,
-        "effort": 59.821,
+        "effort": 96.36,
         "arrival": 0
       },
       "stoppedAlt": "210.000 m",
+      "landedMade": "56.999 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2322,32 +2501,35 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:34:25.129526079645Z",
+        "ss": "2012-01-14T03:34:28.822940449285Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 154,
-      "landedDistance": "56.996 km",
+      "total": 190,
       "penalties": [],
-      "place": "71",
-      "reachDistance": "57.303 km"
+      "place": "70="
     }
   ],
   [
     [
-      "79",
-      "David Stevens"
+      "62",
+      "Enda Murphy"
     ],
     {
+      "reach": {
+        "extra": "57.094 km",
+        "flown": "57.094 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 86.503,
-        "distance": 140.44,
+        "reach": 93.75,
+        "distance": 190.443,
         "leading": 0,
-        "effort": 53.937,
+        "effort": 96.692,
         "arrival": 0
       },
-      "stoppedAlt": "266.000 m",
+      "stoppedAlt": "284.000 m",
+      "landedMade": "57.095 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2355,15 +2537,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:35:11.49527156419Z",
+        "ss": "2012-01-14T03:31:55.913688223695Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 140,
-      "landedDistance": "52.135 km",
+      "total": 190,
       "penalties": [],
-      "place": "72",
-      "reachDistance": "52.681 km"
+      "place": "70="
     }
   ],
   [
@@ -2372,15 +2552,20 @@
       "Suan Selenati"
     ],
     {
+      "reach": {
+        "extra": "52.900 km",
+        "flown": "52.900 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 86.807,
-        "distance": 135.84,
+        "reach": 86.864,
+        "distance": 169.196,
         "leading": 0,
-        "effort": 49.034,
+        "effort": 82.333,
         "arrival": 0
       },
       "stoppedAlt": "219.000 m",
+      "landedMade": "52.102 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2388,39 +2573,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:41:27.4948592583Z",
+        "ss": "2012-01-14T03:41:30.329773524198Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 136,
-      "landedDistance": "52.098 km",
+      "total": 169,
       "penalties": [],
-      "place": "73",
-      "reachDistance": "52.866 km"
+      "place": "72="
     }
   ],
   [
     [
-      "22",
-      "Mark Russell"
+      "79",
+      "David Stevens"
     ],
     {
+      "reach": {
+        "extra": "52.683 km",
+        "flown": "52.683 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 85.394,
-        "distance": 134.428,
+        "reach": 86.507,
+        "distance": 168.84,
         "leading": 0,
-        "effort": 49.034,
+        "effort": 82.333,
         "arrival": 0
       },
-      "stoppedAlt": null,
+      "stoppedAlt": "266.000 m",
+      "landedMade": "52.139 km",
       "penaltyReason": "",
-      "velocity": null,
-      "total": 134,
-      "landedDistance": "52.006 km",
+      "velocity": {
+        "gs": null,
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2012-01-14T03:35:14.35326993499Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 169,
       "penalties": [],
-      "place": "74",
-      "reachDistance": "52.006 km"
+      "place": "72="
     }
   ],
   [
@@ -2429,15 +2624,20 @@
       "Jürgen Pasker"
     ],
     {
+      "reach": {
+        "extra": "52.660 km",
+        "flown": "52.660 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 86.463,
-        "distance": 129.613,
+        "reach": 86.469,
+        "distance": 167.971,
         "leading": 0,
-        "effort": 43.15,
+        "effort": 81.501,
         "arrival": 0
       },
       "stoppedAlt": "227.000 m",
+      "landedMade": "51.953 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2445,15 +2645,40 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:33:44.680528513275Z",
+        "ss": "2012-01-14T03:33:47.56370166557Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 130,
-      "landedDistance": "51.950 km",
+      "total": 168,
       "penalties": [],
-      "place": "75",
-      "reachDistance": "52.657 km"
+      "place": "74"
+    }
+  ],
+  [
+    [
+      "22",
+      "Mark Russell"
+    ],
+    {
+      "reach": {
+        "extra": "52.006 km",
+        "flown": "52.006 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 85.394,
+        "distance": 167.339,
+        "leading": 0,
+        "effort": 81.945,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "landedMade": "52.006 km",
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 167,
+      "penalties": [],
+      "place": "75"
     }
   ],
   [
@@ -2462,15 +2687,20 @@
       "Dmitriy Korchenkov"
     ],
     {
+      "reach": {
+        "extra": "51.826 km",
+        "flown": "51.826 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 85.096,
-        "distance": 121.38,
+        "reach": 85.1,
+        "distance": 156.732,
         "leading": 0,
-        "effort": 36.285,
+        "effort": 71.632,
         "arrival": 0
       },
       "stoppedAlt": "211.000 m",
+      "landedMade": "49.947 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2478,15 +2708,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:38:56.742849606505Z",
+        "ss": "2012-01-14T03:39:00.127339943395Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 121,
-      "landedDistance": "49.944 km",
+      "total": 157,
       "penalties": [],
-      "place": "76",
-      "reachDistance": "51.824 km"
+      "place": "76"
     }
   ],
   [
@@ -2495,15 +2723,20 @@
       "Virpi Nieminen"
     ],
     {
+      "reach": {
+        "extra": "50.314 km",
+        "flown": "50.314 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 82.611,
-        "distance": 118.896,
+        "reach": 82.617,
+        "distance": 154.693,
         "leading": 0,
-        "effort": 36.285,
+        "effort": 72.076,
         "arrival": 0
       },
       "stoppedAlt": "221.000 m",
+      "landedMade": "50.003 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2511,15 +2744,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:54:35.143777244992Z",
+        "ss": "2012-01-14T02:54:39.52121619938Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 119,
-      "landedDistance": "50.000 km",
+      "total": 155,
       "penalties": [],
-      "place": "77",
-      "reachDistance": "50.311 km"
+      "place": "77"
     }
   ],
   [
@@ -2528,15 +2759,20 @@
       "Phil de Joux"
     ],
     {
+      "reach": {
+        "extra": "46.135 km",
+        "flown": "46.135 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 75.67,
-        "distance": 106.071,
+        "reach": 75.755,
+        "distance": 133.471,
         "leading": 0,
-        "effort": 30.401,
+        "effort": 57.716,
         "arrival": 0
       },
       "stoppedAlt": "216.000 m",
+      "landedMade": "46.096 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2544,15 +2780,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:33:35.456200759578Z",
+        "ss": "2012-01-14T03:33:40.731114560926Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 106,
-      "landedDistance": "46.041 km",
+      "total": 133,
       "penalties": [],
-      "place": "78",
-      "reachDistance": "46.084 km"
+      "place": "78"
     }
   ],
   [
@@ -2561,15 +2795,20 @@
       "Hadewych van Kempen"
     ],
     {
+      "reach": {
+        "extra": "35.725 km",
+        "flown": "35.725 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 58.582,
-        "distance": 84.079,
+        "reach": 58.662,
+        "distance": 104.624,
         "leading": 0,
-        "effort": 25.497,
+        "effort": 45.962,
         "arrival": 0
       },
       "stoppedAlt": "220.000 m",
+      "landedMade": "35.440 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2577,15 +2816,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:53:13.823001787894Z",
+        "ss": "2012-01-14T02:53:17.309330138483Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 84,
-      "landedDistance": "35.388 km",
+      "total": 105,
       "penalties": [],
-      "place": "79",
-      "reachDistance": "35.677 km"
+      "place": "79"
     }
   ],
   [
@@ -2594,15 +2831,20 @@
       "Andrew Luton "
     ],
     {
+      "reach": {
+        "extra": "25.493 km",
+        "flown": "25.493 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 41.786,
-        "distance": 66.302,
+        "reach": 41.861,
+        "distance": 83.609,
         "leading": 0,
-        "effort": 24.517,
+        "effort": 41.748,
         "arrival": 0
       },
       "stoppedAlt": "269.000 m",
+      "landedMade": "25.497 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2610,15 +2852,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:42:20.146485573195Z",
+        "ss": "2012-01-14T03:42:23.24593188885Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 66,
-      "landedDistance": "25.446 km",
+      "total": 84,
       "penalties": [],
-      "place": "80",
-      "reachDistance": "25.448 km"
+      "place": "80"
     }
   ],
   [
@@ -2627,15 +2867,20 @@
       "Martin Sielaff"
     ],
     {
+      "reach": {
+        "extra": "23.911 km",
+        "flown": "23.911 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 39.181,
-        "distance": 62.718,
+        "reach": 39.263,
+        "distance": 80.124,
         "leading": 0,
-        "effort": 23.536,
+        "effort": 40.861,
         "arrival": 0
       },
       "stoppedAlt": "265.000 m",
+      "landedMade": "23.886 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2643,15 +2888,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:43:11.03560045651Z",
+        "ss": "2012-01-14T02:43:14.33604864575Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 63,
-      "landedDistance": "23.835 km",
+      "total": 80,
       "penalties": [],
-      "place": "81",
-      "reachDistance": "23.862 km"
+      "place": "81"
     }
   ],
   [
@@ -2660,15 +2903,20 @@
       "John Urlich"
     ],
     {
+      "reach": {
+        "extra": "22.395 km",
+        "flown": "22.395 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 36.692,
-        "distance": 58.267,
+        "reach": 36.774,
+        "distance": 75.972,
         "leading": 0,
-        "effort": 21.575,
+        "effort": 39.198,
         "arrival": 0
       },
       "stoppedAlt": "225.000 m",
+      "landedMade": "22.395 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2676,15 +2924,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:56:55.339821226755Z",
+        "ss": "2012-01-14T02:57:01.021770451371Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 58,
-      "landedDistance": "22.345 km",
+      "total": 76,
       "penalties": [],
-      "place": "82",
-      "reachDistance": "22.346 km"
+      "place": "82"
     }
   ],
   [
@@ -2693,15 +2939,20 @@
       "Neil Petersen"
     ],
     {
+      "reach": {
+        "extra": "21.453 km",
+        "flown": "21.453 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 35.147,
-        "distance": 53.78,
+        "reach": 35.227,
+        "distance": 72.928,
         "leading": 0,
-        "effort": 18.633,
+        "effort": 37.701,
         "arrival": 0
       },
       "stoppedAlt": "221.000 m",
+      "landedMade": "21.458 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2709,15 +2960,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:50:24.177296726815Z",
+        "ss": "2012-01-14T03:50:26.99232726042Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 54,
-      "landedDistance": "21.405 km",
+      "total": 73,
       "penalties": [],
-      "place": "83",
-      "reachDistance": "21.405 km"
+      "place": "83"
     }
   ],
   [
@@ -2726,15 +2975,20 @@
       "Jonathon Foote"
     ],
     {
+      "reach": {
+        "extra": "17.327 km",
+        "flown": "17.327 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 28.369,
-        "distance": 43.079,
+        "reach": 28.452,
+        "distance": 56.506,
         "leading": 0,
-        "effort": 14.71,
+        "effort": 28.054,
         "arrival": 0
       },
       "stoppedAlt": "220.000 m",
+      "landedMade": "16.893 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2742,15 +2996,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T02:53:57.8228112887Z",
+        "ss": "2012-01-14T02:54:02.68450157876Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 43,
-      "landedDistance": "16.843 km",
+      "total": 57,
       "penalties": [],
-      "place": "84",
-      "reachDistance": "17.277 km"
+      "place": "84"
     }
   ],
   [
@@ -2759,15 +3011,20 @@
       "Carole Tobler"
     ],
     {
+      "reach": {
+        "extra": "14.359 km",
+        "flown": "14.359 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 23.497,
-        "distance": 34.284,
+        "reach": 23.578,
+        "distance": 46.587,
         "leading": 0,
-        "effort": 10.787,
+        "effort": 23.009,
         "arrival": 0
       },
       "stoppedAlt": "223.000 m",
+      "landedMade": "13.458 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2775,15 +3032,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2012-01-14T03:48:27.57942785055Z",
+        "ss": "2012-01-14T03:48:31.18856249758Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 34,
-      "landedDistance": "13.406 km",
+      "total": 47,
       "penalties": [],
-      "place": "85",
-      "reachDistance": "14.310 km"
+      "place": "85"
     }
   ],
   [
@@ -2792,22 +3047,25 @@
       "Anna Belova"
     ],
     {
+      "reach": {
+        "extra": "12.001 km",
+        "flown": "12.001 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 19.706,
-        "distance": 28.532,
+        "distance": 41.163,
         "leading": 0,
-        "effort": 8.826,
+        "effort": 21.456,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "12.001 km",
       "penaltyReason": "",
       "velocity": null,
-      "total": 29,
-      "landedDistance": "12.001 km",
+      "total": 41,
       "penalties": [],
-      "place": "86",
-      "reachDistance": "12.001 km"
+      "place": "86"
     }
   ],
   [
@@ -2816,15 +3074,20 @@
       "Monique Pavy"
     ],
     {
+      "reach": {
+        "extra": "6.722 km",
+        "flown": "6.722 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 10.963,
-        "distance": 16.847,
+        "reach": 11.038,
+        "distance": 25.065,
         "leading": 0,
-        "effort": 5.884,
+        "effort": 14.027,
         "arrival": 0
       },
       "stoppedAlt": "0.000 m",
+      "landedMade": "6.726 km",
       "penaltyReason": "",
       "velocity": {
         "gs": null,
@@ -2836,11 +3099,9 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 17,
-      "landedDistance": "6.677 km",
+      "total": 25,
       "penalties": [],
-      "place": "87",
-      "reachDistance": "6.677 km"
+      "place": "87"
     }
   ],
   [
@@ -2849,22 +3110,25 @@
       "Evgeniya Laritskaya"
     ],
     {
+      "reach": {
+        "extra": "0.000 km",
+        "flown": "0.000 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 8.21,
-        "distance": 11.152,
+        "distance": 8.21,
         "leading": 0,
-        "effort": 2.942,
+        "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "0.000 km",
       "penaltyReason": "",
       "velocity": null,
-      "total": 11,
-      "landedDistance": "0.000 km",
+      "total": 8,
       "penalties": [],
-      "place": "88=",
-      "reachDistance": "0.000 km"
+      "place": "88="
     }
   ],
   [
@@ -2873,22 +3137,25 @@
       "Gustavo Carvalho"
     ],
     {
+      "reach": {
+        "extra": "0.000 km",
+        "flown": "0.000 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 8.21,
-        "distance": 11.152,
+        "distance": 8.21,
         "leading": 0,
-        "effort": 2.942,
+        "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "0.000 km",
       "penaltyReason": "",
       "velocity": null,
-      "total": 11,
-      "landedDistance": "0.000 km",
+      "total": 8,
       "penalties": [],
-      "place": "88=",
-      "reachDistance": "0.000 km"
+      "place": "88="
     }
   ],
   [
@@ -2897,22 +3164,25 @@
       "Kathryn O'Riordan"
     ],
     {
+      "reach": {
+        "extra": "0.000 km",
+        "flown": "0.000 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 8.21,
-        "distance": 11.152,
+        "distance": 8.21,
         "leading": 0,
-        "effort": 2.942,
+        "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "0.000 km",
       "penaltyReason": "",
       "velocity": null,
-      "total": 11,
-      "landedDistance": "0.000 km",
+      "total": 8,
       "penalties": [],
-      "place": "88=",
-      "reachDistance": "0.000 km"
+      "place": "88="
     }
   ]
 ]

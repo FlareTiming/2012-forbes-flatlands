@@ -4,43 +4,48 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.85373,
           "zoneName": "PINEY",
           "lng": 147.94195,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.4397,
           "zoneName": "EUGOWR",
           "lng": 148.34533,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.61965,
           "zoneName": "GOALD1",
           "lng": 148.4099,
-          "give": null,
           "alt": null
         }
       ],
@@ -113,50 +118,59 @@
         "close": "2012-01-05T09:00:00Z",
         "open": "2012-01-05T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "day 2",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.90223,
           "zoneName": "MINES",
           "lng": 147.98492,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9536,
           "zoneName": "SKULLS",
           "lng": 147.55457,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": null,
           "alt": null
         }
       ],
@@ -229,50 +243,59 @@
         "close": "2012-01-06T09:00:00Z",
         "open": "2012-01-06T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 3",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "24875.0 m",
           "radius": "25000.0 m",
+          "giveOut": "25125.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -34.02107,
           "zoneName": "TYAGON",
           "lng": 148.2233,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -34.11795,
           "zoneName": "CROW",
           "lng": 148.5013,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": -34.82197,
           "zoneName": "BOOKHA",
           "lng": 148.66543,
-          "give": null,
           "alt": null
         }
       ],
@@ -370,42 +393,50 @@
         "close": "2012-01-07T09:00:00Z",
         "open": "2012-01-07T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 4",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "14925.0 m",
           "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "24875.0 m",
           "radius": "25000.0 m",
+          "giveOut": "25125.0 m",
           "lat": -32.90223,
           "zoneName": "MINES",
           "lng": 147.98492,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.46363,
           "zoneName": "GOALD4",
           "lng": 148.989,
-          "give": null,
           "alt": null
         }
       ],
@@ -506,42 +537,50 @@
         "close": "2012-01-09T09:00:00Z",
         "open": "2012-01-09T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 5",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "14925.0 m",
           "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -32.56608,
           "zoneName": "TOMING",
           "lng": 148.22657,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.0164,
           "zoneName": "DUNEDO",
           "lng": 149.43363,
-          "give": null,
           "alt": null
         }
       ],
@@ -630,42 +669,50 @@
         "close": "2012-01-10T09:00:00Z",
         "open": "2012-01-10T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 6",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "14925.0 m",
           "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -32.19498,
           "zoneName": "BUMF",
           "lng": 147.76218,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -31.69323,
           "zoneName": "GOALD6",
           "lng": 148.29623,
-          "give": null,
           "alt": null
         }
       ],
@@ -742,50 +789,59 @@
         "close": "2012-01-12T09:00:00Z",
         "open": "2012-01-12T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 7",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -32.9536,
           "zoneName": "SKULLS",
           "lng": 147.55457,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.76052,
           "zoneName": "YEOVAL",
           "lng": 148.64958,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.93585,
           "zoneName": "DAY7GO",
           "lng": 148.74947,
-          "give": null,
           "alt": null
         }
       ],
@@ -858,50 +914,59 @@
         "close": "2012-01-13T09:00:00Z",
         "open": "2012-01-13T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Day 8",
     "zones": {
       "raw": [
         {
+          "giveIn": "99.5 m",
           "radius": "100.0 m",
+          "giveOut": "100.5 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": "99.5 m",
           "alt": null
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.36137,
           "zoneName": "FORBES",
           "lng": 147.93207,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -33.75343,
           "zoneName": "MARSDE",
           "lng": 147.52865,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12908,
           "zoneName": "YARRAB",
           "lng": 147.57323,
-          "give": null,
           "alt": null
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.361,
           "zoneName": "DAY8GO",
           "lng": 147.9315,
-          "give": null,
           "alt": null
         }
       ],
@@ -974,6 +1039,10 @@
         "close": "2012-01-14T09:00:00Z",
         "open": "2012-01-14T01:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   }
 ]
