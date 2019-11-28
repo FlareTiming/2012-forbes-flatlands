@@ -28,7 +28,7 @@
   },
   "stop": {
     "pilotsAtEss": 32,
-    "launchToEssDistance": null,
+    "launchToEssDistance": "128.283 km",
     "flying": 94,
     "landed": 0,
     "reachStats": {
