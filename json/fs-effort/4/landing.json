@@ -10,7 +10,7 @@
     ],
     "sumOf": 4136
   },
-  "bestDistance": null,
+  "bestDistance": "141.148000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -24,20 +24,20 @@
           "Anna Belova"
         ],
         [
-          "57",
-          "Julia Kucherenko"
+          "28",
+          "Evgeniya Laritskaya"
         ],
         [
-          "103",
-          "Roberto Nichele"
+          "57",
+          "Julia Kucherenko"
         ],
         [
           "88",
           "Martin Sielaff"
         ],
         [
-          "28",
-          "Evgeniya Laritskaya"
+          "103",
+          "Roberto Nichele"
         ]
       ],
       "downward": 2,
@@ -946,6 +946,6 @@
     }
   ],
   "lookahead": 83,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 52
 }

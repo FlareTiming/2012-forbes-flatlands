@@ -10,7 +10,7 @@
     ],
     "sumOf": 5985
   },
-  "bestDistance": null,
+  "bestDistance": "201.785000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -424,20 +424,20 @@
       "frac": 0.26215539,
       "downers": [
         [
-          "64",
-          "Gustavo Carvalho"
-        ],
-        [
           "81",
           "Valentino Bau"
+        ],
+        [
+          "64",
+          "Gustavo Carvalho"
         ]
       ],
       "downward": 1,
       "rel": 0.00025063,
       "endAhead": "106.5 km",
       "downs": [
-        "93.632 km",
-        "93.616 km"
+        "93.616 km",
+        "93.632 km"
       ]
     },
     {
@@ -879,6 +879,6 @@
     }
   ],
   "lookahead": 129,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 47
 }

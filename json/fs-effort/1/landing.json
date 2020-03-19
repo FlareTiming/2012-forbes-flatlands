@@ -10,7 +10,7 @@
     ],
     "sumOf": 3760
   },
-  "bestDistance": null,
+  "bestDistance": "124.018000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,52 +20,52 @@
       "frac": 0.08789894,
       "downers": [
         [
-          "79",
-          "David Stevens"
-        ],
-        [
           "58",
           "Anna Belova"
         ],
         [
-          "52",
-          "Virpi Nieminen"
-        ],
-        [
-          "16",
-          "Grant Edward"
-        ],
-        [
-          "17",
-          "John Urlich"
-        ],
-        [
-          "19",
-          "Mikhail Karmazin"
+          "79",
+          "David Stevens"
         ],
         [
           "28",
           "Evgeniya Laritskaya"
         ],
         [
-          "37",
-          "Peter Ebeling"
-        ],
-        [
-          "46",
-          "Jonathon Foote"
-        ],
-        [
-          "50",
-          "Monique Pavy"
+          "16",
+          "Grant Edward"
         ],
         [
           "53",
           "Hadewych van Kempen"
         ],
         [
+          "17",
+          "John Urlich"
+        ],
+        [
+          "46",
+          "Jonathon Foote"
+        ],
+        [
           "88",
           "Martin Sielaff"
+        ],
+        [
+          "19",
+          "Mikhail Karmazin"
+        ],
+        [
+          "50",
+          "Monique Pavy"
+        ],
+        [
+          "37",
+          "Peter Ebeling"
+        ],
+        [
+          "52",
+          "Virpi Nieminen"
         ]
       ],
       "downward": 6,
@@ -788,20 +788,20 @@
       "frac": 0.33470745,
       "downers": [
         [
-          "13",
-          "John Smith"
-        ],
-        [
           "68",
           "Grant Heaney"
+        ],
+        [
+          "13",
+          "John Smith"
         ]
       ],
       "downward": 15,
       "rel": 0.00226064,
       "endAhead": "42.0 km",
       "downs": [
-        "38.081 km",
-        "38.014 km"
+        "38.014 km",
+        "38.081 km"
       ]
     },
     {
@@ -812,25 +812,25 @@
       "frac": 0.33869681,
       "downers": [
         [
-          "31",
-          "Andrew Barnes"
-        ],
-        [
           "45",
           "Roland Wöhrle"
         ],
         [
           "106",
           "Adam Parer"
+        ],
+        [
+          "31",
+          "Andrew Barnes"
         ]
       ],
       "downward": 12,
       "rel": 0.00199468,
       "endAhead": "42.2 km",
       "downs": [
-        "38.294 km",
         "38.204 km",
-        "38.276 km"
+        "38.276 km",
+        "38.294 km"
       ]
     },
     {
@@ -865,25 +865,25 @@
       "frac": 0.34321809,
       "downers": [
         [
-          "7",
-          "Shaun O'neill"
+          "65",
+          "Davis Straub"
         ],
         [
           "14",
           "Olav Lien Olsen"
         ],
         [
-          "65",
-          "Davis Straub"
+          "7",
+          "Shaun O'neill"
         ]
       ],
       "downward": 7,
       "rel": 0.00132979,
       "endAhead": "42.5 km",
       "downs": [
-        "38.590 km",
+        "38.526 km",
         "38.556 km",
-        "38.526 km"
+        "38.590 km"
       ]
     },
     {
@@ -1534,6 +1534,6 @@
     }
   ],
   "lookahead": 40,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 94
 }

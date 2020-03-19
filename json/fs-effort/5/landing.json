@@ -10,7 +10,7 @@
     ],
     "sumOf": 6276
   },
-  "bestDistance": null,
+  "bestDistance": "217.365000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,20 +20,20 @@
       "frac": 0.02398024,
       "downers": [
         [
-          "86",
-          "Talgat Irgaleev"
-        ],
-        [
           "53",
           "Hadewych van Kempen"
+        ],
+        [
+          "50",
+          "Monique Pavy"
         ],
         [
           "40",
           "Phil de Joux"
         ],
         [
-          "50",
-          "Monique Pavy"
+          "86",
+          "Talgat Irgaleev"
         ]
       ],
       "downward": 2,
@@ -1193,6 +1193,6 @@
     }
   ],
   "lookahead": 100,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 65
 }

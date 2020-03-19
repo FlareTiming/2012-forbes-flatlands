@@ -10,7 +10,7 @@
     ],
     "sumOf": 5381
   },
-  "bestDistance": null,
+  "bestDistance": "183.855000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -500,20 +500,20 @@
       "frac": 0.3049619,
       "downers": [
         [
-          "10",
-          "Marat Matnurov"
-        ],
-        [
           "97",
           "Konrad Schwab"
+        ],
+        [
+          "10",
+          "Marat Matnurov"
         ]
       ],
       "downward": 2,
       "rel": 0.00037168,
       "endAhead": "108.1 km",
       "downs": [
-        "96.471 km",
-        "96.446 km"
+        "96.446 km",
+        "96.471 km"
       ]
     },
     {
@@ -771,20 +771,20 @@
       "frac": 0.475748,
       "downers": [
         [
-          "45",
-          "Roland Wöhrle"
-        ],
-        [
           "55",
           "Kari Suhonen"
+        ],
+        [
+          "45",
+          "Roland Wöhrle"
         ]
       ],
       "downward": 2,
       "rel": 0.00037168,
       "endAhead": "178.8 km",
       "downs": [
-        "167.167 km",
-        "167.150 km"
+        "167.150 km",
+        "167.167 km"
       ]
     },
     {
@@ -865,6 +865,6 @@
     }
   ],
   "lookahead": 117,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 47
 }

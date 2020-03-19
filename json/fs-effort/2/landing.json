@@ -10,7 +10,7 @@
     ],
     "sumOf": 3844
   },
-  "bestDistance": null,
+  "bestDistance": "128.283000 km",
   "difficulty": [
     {
       "endChunk": "11.4 km",
@@ -1056,20 +1056,20 @@
       "frac": 0.4908949,
       "downers": [
         [
-          "6",
-          "Phil Schroder"
-        ],
-        [
           "26",
           "Guy Hubbard"
+        ],
+        [
+          "6",
+          "Phil Schroder"
         ]
       ],
       "downward": 4,
       "rel": 0.00078044,
       "endAhead": "132.0 km",
       "downs": [
-        "125.864 km",
-        "125.806 km"
+        "125.806 km",
+        "125.864 km"
       ]
     },
     {
@@ -1150,6 +1150,6 @@
     }
   ],
   "lookahead": 62,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 62
 }

@@ -108,10 +108,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -120,6 +123,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -233,10 +237,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -245,6 +252,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -358,10 +366,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -395,6 +406,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -490,10 +502,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -539,6 +554,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -634,10 +650,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -671,6 +690,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -766,10 +786,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -791,6 +814,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -904,10 +928,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -916,6 +943,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
@@ -1029,10 +1057,13 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -1041,6 +1072,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }

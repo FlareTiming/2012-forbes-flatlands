@@ -10,7 +10,7 @@
     ],
     "sumOf": 5153
   },
-  "bestDistance": null,
+  "bestDistance": "174.508000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -20,6 +20,10 @@
       "frac": 0.02474287,
       "downers": [
         [
+          "62",
+          "Enda Murphy"
+        ],
+        [
           "28",
           "Evgeniya Laritskaya"
         ],
@@ -28,16 +32,12 @@
           "Miguel De Jong "
         ],
         [
-          "62",
-          "Enda Murphy"
+          "50",
+          "Monique Pavy"
         ],
         [
           "86",
           "Talgat Irgaleev"
-        ],
-        [
-          "50",
-          "Monique Pavy"
         ]
       ],
       "downward": 0,
@@ -1013,12 +1013,12 @@
           "Jean Souviron "
         ],
         [
-          "31",
-          "Andrew Barnes"
-        ],
-        [
           "26",
           "Guy Hubbard"
+        ],
+        [
+          "31",
+          "Andrew Barnes"
         ]
       ],
       "downward": 16,
@@ -1026,8 +1026,8 @@
       "endAhead": "166.4 km",
       "downs": [
         "160.225 km",
-        "160.297 km",
-        "160.236 km"
+        "160.236 km",
+        "160.297 km"
       ]
     },
     {
@@ -1038,30 +1038,30 @@
       "frac": 0.41286629,
       "downers": [
         [
-          "34",
-          "Jon snr Durand"
-        ],
-        [
-          "5",
-          "Wolfgang Siess"
+          "59",
+          "Artur Dzamikhov"
         ],
         [
           "12",
           "Glen Mcfarlane"
         ],
         [
-          "59",
-          "Artur Dzamikhov"
+          "34",
+          "Jon snr Durand"
+        ],
+        [
+          "5",
+          "Wolfgang Siess"
         ]
       ],
       "downward": 12,
       "rel": 0.00155249,
       "endAhead": "166.5 km",
       "downs": [
-        "160.326 km",
-        "160.378 km",
+        "160.317 km",
         "160.320 km",
-        "160.317 km"
+        "160.326 km",
+        "160.378 km"
       ]
     },
     {
@@ -1442,6 +1442,6 @@
     }
   ],
   "lookahead": 62,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 84
 }

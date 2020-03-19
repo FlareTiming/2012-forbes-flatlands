@@ -10,7 +10,7 @@
     ],
     "sumOf": 4666
   },
-  "bestDistance": null,
+  "bestDistance": "158.842000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -24,12 +24,12 @@
           "Evgeniya Laritskaya"
         ],
         [
-          "32",
-          "Kathryn O'Riordan"
-        ],
-        [
           "64",
           "Gustavo Carvalho"
+        ],
+        [
+          "32",
+          "Kathryn O'Riordan"
         ]
       ],
       "downward": 2,
@@ -733,20 +733,20 @@
       "frac": 0.34890699,
       "downers": [
         [
-          "29",
-          "Konstantin Lukyanov"
-        ],
-        [
           "12",
           "Glen Mcfarlane"
+        ],
+        [
+          "29",
+          "Konstantin Lukyanov"
         ]
       ],
       "downward": 4,
       "rel": 0.00064295,
       "endAhead": "142.5 km",
       "downs": [
-        "134.765 km",
-        "134.724 km"
+        "134.724 km",
+        "134.765 km"
       ]
     },
     {
@@ -833,20 +833,20 @@
       "frac": 0.42916845,
       "downers": [
         [
-          "56",
-          "Cameron Tunbridge"
-        ],
-        [
           "6",
           "Phil Schroder"
+        ],
+        [
+          "56",
+          "Cameron Tunbridge"
         ]
       ],
       "downward": 12,
       "rel": 0.00150021,
       "endAhead": "154.2 km",
       "downs": [
-        "146.486 km",
-        "146.477 km"
+        "146.477 km",
+        "146.486 km"
       ]
     },
     {
@@ -933,20 +933,20 @@
       "frac": 0.47353193,
       "downers": [
         [
-          "77",
-          "Len Paton"
-        ],
-        [
           "48",
           "Paolo Rosichetti"
+        ],
+        [
+          "77",
+          "Len Paton"
         ]
       ],
       "downward": 7,
       "rel": 0.00096442,
       "endAhead": "157.9 km",
       "downs": [
-        "150.113 km",
-        "150.109 km"
+        "150.109 km",
+        "150.113 km"
       ]
     },
     {
@@ -1089,6 +1089,6 @@
     }
   ],
   "lookahead": 78,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 61
 }
