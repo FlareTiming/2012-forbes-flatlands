@@ -379,11 +379,15 @@
           "67",
           "Andy Phillips "
         ],
-        [
-          {
-            "penalty-points": 0.16
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -0.16
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "CTAF infringement of 218m"
       ],
       [
@@ -391,11 +395,15 @@
           "77",
           "Len Paton"
         ],
-        [
-          {
-            "penalty-points": 0.13
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -0.13
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "CTAF infringement of 201m"
       ]
     ],
@@ -515,11 +523,15 @@
           "76",
           "Dmitriy Korchenkov"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Restricted Airspace infringement > 100m"
       ],
       [
@@ -527,11 +539,15 @@
           "17",
           "John Urlich"
         ],
-        [
-          {
-            "penalty-points": 0.09
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -0.09
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "CTAF infringement of 177m"
       ],
       [
@@ -539,11 +555,15 @@
           "98",
           "Patrick Collin"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Restricted Airspace infringement > 100m"
       ]
     ],
@@ -663,11 +683,15 @@
           "76",
           "Dmitriy Korchenkov"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Restricted Airspace infringement > 100m"
       ],
       [
@@ -675,11 +699,15 @@
           "17",
           "John Urlich"
         ],
-        [
-          {
-            "penalty-points": 0.43
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -0.43
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "CTAF infringment of 302m"
       ]
     ],
@@ -799,11 +827,15 @@
           "96",
           "Brodrick Osborne"
         ],
-        [
-          {
-            "penalty-points": 6
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -6
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jump the gun adjustment"
       ]
     ],

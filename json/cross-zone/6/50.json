@@ -1,0 +1,171 @@
+{
+  "zonesCrossNominees": [
+    [
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-12T02:20:15Z",
+            "lat": -33.359033,
+            "fix": 2,
+            "lng": 147.931867,
+            "alt": 0
+          },
+          {
+            "time": "2012-01-12T02:20:36Z",
+            "lat": -33.36075,
+            "fix": 3,
+            "lng": 147.931867,
+            "alt": 0
+          }
+        ]
+      },
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-12T02:20:36Z",
+            "lat": -33.36075,
+            "fix": 3,
+            "lng": 147.931867,
+            "alt": 0
+          },
+          {
+            "time": "2012-01-12T02:20:57Z",
+            "lat": -33.36255,
+            "fix": 4,
+            "lng": 147.930983,
+            "alt": 0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-12T03:07:05Z",
+            "lat": -33.22785,
+            "fix": 138,
+            "lng": 147.9515,
+            "alt": 0
+          },
+          {
+            "time": "2012-01-12T03:07:25Z",
+            "lat": -33.225167,
+            "fix": 139,
+            "lng": 147.950483,
+            "alt": 0
+          }
+        ]
+      },
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-12T03:08:10Z",
+            "lat": -33.2255,
+            "fix": 141,
+            "lng": 147.9501,
+            "alt": 0
+          },
+          {
+            "time": "2012-01-12T03:08:30Z",
+            "lat": -33.22715,
+            "fix": 142,
+            "lng": 147.950883,
+            "alt": 0
+          }
+        ]
+      },
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-12T03:08:30Z",
+            "lat": -33.22715,
+            "fix": 142,
+            "lng": 147.950883,
+            "alt": 0
+          },
+          {
+            "time": "2012-01-12T03:08:51Z",
+            "lat": -33.22665,
+            "fix": 143,
+            "lng": 147.951083,
+            "alt": 0
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    {
+      "inZone": [
+        false,
+        true
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-12T02:20:15Z",
+          "lat": -33.359033,
+          "fix": 2,
+          "lng": 147.931867,
+          "alt": 0
+        },
+        {
+          "time": "2012-01-12T02:20:36Z",
+          "lat": -33.36075,
+          "fix": 3,
+          "lng": 147.931867,
+          "alt": 0
+        }
+      ]
+    },
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-12T03:08:30Z",
+          "lat": -33.22715,
+          "fix": 142,
+          "lng": 147.950883,
+          "alt": 0
+        },
+        {
+          "time": "2012-01-12T03:08:51Z",
+          "lat": -33.22665,
+          "fix": 143,
+          "lng": 147.951083,
+          "alt": 0
+        }
+      ]
+    },
+    null,
+    null
+  ],
+  "startNominees": []
+}

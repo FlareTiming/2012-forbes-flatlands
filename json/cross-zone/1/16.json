@@ -1,0 +1,107 @@
+{
+  "zonesCrossNominees": [
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-05T03:32:29Z",
+            "lat": -33.36167,
+            "fix": 1115,
+            "lng": 147.931358,
+            "alt": 339
+          },
+          {
+            "time": "2012-01-05T03:32:32Z",
+            "lat": -33.361747,
+            "fix": 1116,
+            "lng": 147.9309,
+            "alt": 345
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-05T04:09:50Z",
+            "lat": -33.364272,
+            "fix": 1860,
+            "lng": 148.040168,
+            "alt": 1061
+          },
+          {
+            "time": "2012-01-05T04:09:53Z",
+            "lat": -33.364555,
+            "fix": 1861,
+            "lng": 148.040464,
+            "alt": 1064
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-05T03:32:29Z",
+          "lat": -33.36167,
+          "fix": 1115,
+          "lng": 147.931358,
+          "alt": 339
+        },
+        {
+          "time": "2012-01-05T03:32:32Z",
+          "lat": -33.361747,
+          "fix": 1116,
+          "lng": 147.9309,
+          "alt": 345
+        }
+      ]
+    },
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-05T04:09:50Z",
+          "lat": -33.364272,
+          "fix": 1860,
+          "lng": 148.040168,
+          "alt": 1061
+        },
+        {
+          "time": "2012-01-05T04:09:53Z",
+          "lat": -33.364555,
+          "fix": 1861,
+          "lng": 148.040464,
+          "alt": 1064
+        }
+      ]
+    },
+    null,
+    null,
+    null
+  ],
+  "startNominees": []
+}

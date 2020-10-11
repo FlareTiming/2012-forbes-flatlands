@@ -1,0 +1,107 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-13T03:33:28Z",
+            "lat": -33.273483,
+            "fix": 1177,
+            "lng": 147.907233,
+            "alt": 1603
+          },
+          {
+            "time": "2012-01-13T03:33:30Z",
+            "lat": -33.273267,
+            "fix": 1178,
+            "lng": 147.906833,
+            "alt": 1599
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-13T05:35:16Z",
+            "lat": -32.968167,
+            "fix": 4819,
+            "lng": 147.6058,
+            "alt": 632
+          },
+          {
+            "time": "2012-01-13T05:35:18Z",
+            "lat": -32.968283,
+            "fix": 4820,
+            "lng": 147.605467,
+            "alt": 624
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-13T03:33:28Z",
+          "lat": -33.273483,
+          "fix": 1177,
+          "lng": 147.907233,
+          "alt": 1603
+        },
+        {
+          "time": "2012-01-13T03:33:30Z",
+          "lat": -33.273267,
+          "fix": 1178,
+          "lng": 147.906833,
+          "alt": 1599
+        }
+      ]
+    },
+    {
+      "inZone": [
+        false,
+        true
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-13T05:35:16Z",
+          "lat": -32.968167,
+          "fix": 4819,
+          "lng": 147.6058,
+          "alt": 632
+        },
+        {
+          "time": "2012-01-13T05:35:18Z",
+          "lat": -32.968283,
+          "fix": 4820,
+          "lng": 147.605467,
+          "alt": 624
+        }
+      ]
+    },
+    null,
+    null
+  ],
+  "startNominees": []
+}

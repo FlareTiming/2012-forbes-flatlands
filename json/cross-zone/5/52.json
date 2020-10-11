@@ -1,0 +1,105 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-10T02:51:29Z",
+            "lat": -33.2339,
+            "fix": 771,
+            "lng": 147.986717,
+            "alt": 1023
+          },
+          {
+            "time": "2012-01-10T02:51:33Z",
+            "lat": -33.233417,
+            "fix": 772,
+            "lng": 147.98685,
+            "alt": 1032
+          }
+        ]
+      },
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-10T02:51:37Z",
+            "lat": -33.23345,
+            "fix": 773,
+            "lng": 147.98655,
+            "alt": 1042
+          },
+          {
+            "time": "2012-01-10T02:51:41Z",
+            "lat": -33.233817,
+            "fix": 774,
+            "lng": 147.986783,
+            "alt": 1051
+          }
+        ]
+      },
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-10T02:51:41Z",
+            "lat": -33.233817,
+            "fix": 774,
+            "lng": 147.986783,
+            "alt": 1051
+          },
+          {
+            "time": "2012-01-10T02:51:45Z",
+            "lat": -33.233667,
+            "fix": 775,
+            "lng": 147.9874,
+            "alt": 1061
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-10T02:51:41Z",
+          "lat": -33.233817,
+          "fix": 774,
+          "lng": 147.986783,
+          "alt": 1051
+        },
+        {
+          "time": "2012-01-10T02:51:45Z",
+          "lat": -33.233667,
+          "fix": 775,
+          "lng": 147.9874,
+          "alt": 1061
+        }
+      ]
+    },
+    null,
+    null
+  ],
+  "startNominees": []
+}

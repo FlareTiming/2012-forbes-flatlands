@@ -1,0 +1,107 @@
+{
+  "zonesCrossNominees": [
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-07T02:26:38Z",
+            "lat": -33.360908,
+            "fix": 383,
+            "lng": 147.931294,
+            "alt": 310
+          },
+          {
+            "time": "2012-01-07T02:26:41Z",
+            "lat": -33.360522,
+            "fix": 384,
+            "lng": 147.931273,
+            "alt": 316
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-07T03:20:26Z",
+            "lat": -33.584969,
+            "fix": 1459,
+            "lng": 147.967966,
+            "alt": 1707
+          },
+          {
+            "time": "2012-01-07T03:20:29Z",
+            "lat": -33.585634,
+            "fix": 1460,
+            "lng": 147.968223,
+            "alt": 1706
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-07T02:26:38Z",
+          "lat": -33.360908,
+          "fix": 383,
+          "lng": 147.931294,
+          "alt": 310
+        },
+        {
+          "time": "2012-01-07T02:26:41Z",
+          "lat": -33.360522,
+          "fix": 384,
+          "lng": 147.931273,
+          "alt": 316
+        }
+      ]
+    },
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-07T03:20:26Z",
+          "lat": -33.584969,
+          "fix": 1459,
+          "lng": 147.967966,
+          "alt": 1707
+        },
+        {
+          "time": "2012-01-07T03:20:29Z",
+          "lat": -33.585634,
+          "fix": 1460,
+          "lng": 147.968223,
+          "alt": 1706
+        }
+      ]
+    },
+    null,
+    null,
+    null
+  ],
+  "startNominees": []
+}

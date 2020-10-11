@@ -1,0 +1,105 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-09T03:34:27Z",
+            "lat": -33.2266,
+            "fix": 1089,
+            "lng": 147.946817,
+            "alt": 2048
+          },
+          {
+            "time": "2012-01-09T03:34:30Z",
+            "lat": -33.226183,
+            "fix": 1090,
+            "lng": 147.946633,
+            "alt": 2045
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-09T03:53:06Z",
+            "lat": -33.127983,
+            "fix": 1460,
+            "lng": 147.96485,
+            "alt": 2065
+          },
+          {
+            "time": "2012-01-09T03:53:09Z",
+            "lat": -33.12745,
+            "fix": 1461,
+            "lng": 147.965083,
+            "alt": 2058
+          }
+        ]
+      }
+    ],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-09T03:34:27Z",
+          "lat": -33.2266,
+          "fix": 1089,
+          "lng": 147.946817,
+          "alt": 2048
+        },
+        {
+          "time": "2012-01-09T03:34:30Z",
+          "lat": -33.226183,
+          "fix": 1090,
+          "lng": 147.946633,
+          "alt": 2045
+        }
+      ]
+    },
+    {
+      "inZone": [
+        false,
+        true
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-09T03:53:06Z",
+          "lat": -33.127983,
+          "fix": 1460,
+          "lng": 147.96485,
+          "alt": 2065
+        },
+        {
+          "time": "2012-01-09T03:53:09Z",
+          "lat": -33.12745,
+          "fix": 1461,
+          "lng": 147.965083,
+          "alt": 2058
+        }
+      ]
+    },
+    null
+  ],
+  "startNominees": []
+}

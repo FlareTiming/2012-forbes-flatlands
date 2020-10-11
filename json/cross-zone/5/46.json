@@ -1,0 +1,61 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-10T04:16:20Z",
+            "lat": -33.2843,
+            "fix": 133,
+            "lng": 148.06485,
+            "alt": 1634
+          },
+          {
+            "time": "2012-01-10T04:16:40Z",
+            "lat": -33.28165,
+            "fix": 134,
+            "lng": 148.06475,
+            "alt": 1604
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-10T04:16:20Z",
+          "lat": -33.2843,
+          "fix": 133,
+          "lng": 148.06485,
+          "alt": 1634
+        },
+        {
+          "time": "2012-01-10T04:16:40Z",
+          "lat": -33.28165,
+          "fix": 134,
+          "lng": 148.06475,
+          "alt": 1604
+        }
+      ]
+    },
+    null,
+    null
+  ],
+  "startNominees": []
+}

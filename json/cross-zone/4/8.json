@@ -1,0 +1,127 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-09T03:23:25Z",
+            "lat": -33.2504,
+            "fix": 325,
+            "lng": 147.8396,
+            "alt": 1019
+          },
+          {
+            "time": "2012-01-09T03:23:35Z",
+            "lat": -33.24995,
+            "fix": 326,
+            "lng": 147.83795,
+            "alt": 981
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "inZone": [
+          false,
+          true
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-09T03:59:52Z",
+            "lat": -33.122817,
+            "fix": 543,
+            "lng": 147.9242,
+            "alt": 1637
+          },
+          {
+            "time": "2012-01-09T04:00:02Z",
+            "lat": -33.122617,
+            "fix": 544,
+            "lng": 147.926117,
+            "alt": 1657
+          }
+        ]
+      },
+      {
+        "inZone": [
+          true,
+          false
+        ],
+        "crossingPair": [
+          {
+            "time": "2012-01-09T04:40:17Z",
+            "lat": -32.863983,
+            "fix": 786,
+            "lng": 148.247683,
+            "alt": 1456
+          },
+          {
+            "time": "2012-01-09T04:40:27Z",
+            "lat": -32.863283,
+            "fix": 787,
+            "lng": 148.2504,
+            "alt": 1438
+          }
+        ]
+      }
+    ],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    {
+      "inZone": [
+        true,
+        false
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-09T03:23:25Z",
+          "lat": -33.2504,
+          "fix": 325,
+          "lng": 147.8396,
+          "alt": 1019
+        },
+        {
+          "time": "2012-01-09T03:23:35Z",
+          "lat": -33.24995,
+          "fix": 326,
+          "lng": 147.83795,
+          "alt": 981
+        }
+      ]
+    },
+    {
+      "inZone": [
+        false,
+        true
+      ],
+      "crossingPair": [
+        {
+          "time": "2012-01-09T03:59:52Z",
+          "lat": -33.122817,
+          "fix": 543,
+          "lng": 147.9242,
+          "alt": 1637
+        },
+        {
+          "time": "2012-01-09T04:00:02Z",
+          "lat": -33.122617,
+          "fix": 544,
+          "lng": 147.926117,
+          "alt": 1657
+        }
+      ]
+    },
+    null
+  ],
+  "startNominees": []
+}
